@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Soccer] 2026-05-13 18:45 - Serie C - Salernitana vs Casertana (Rai Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Arena" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",[Soccer] 2026-05-13 19:00 - Premier League - Manchester City vs Crystal Palace (Sky Sport Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="DAZN.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/dazn-1.png",[Soccer] 2026-05-13 19:30 - La Liga - Deportivo Alavés vs Barcelona (DAZN 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Diema.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png",[Soccer] 2026-05-13 12:15 - Parva Liga - Slavia Sofia vs Dobrudzha 1919 (Diema Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Soccer] 2026-05-13 12:15 - Parva Liga - Slavia Sofia vs Dobrudzha 1919 (Sport Klub 4)
