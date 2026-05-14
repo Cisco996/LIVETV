@@ -5,7 +5,7 @@ on:
     paths:
       - 'scripts/lista.py'
   schedule:
-    - cron: '0 * * * *'  # ogni ora
+    - cron: '5 * * * *'  # ogni ora
   workflow_dispatch:
 
 jobs:
