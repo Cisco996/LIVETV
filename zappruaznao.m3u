@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="" group-title="Sport",Eurosport 1 (it) [UAZNAO]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=163303a883824977b05d7357da82f487:40d5e1198d23aaad9079bdc881f2ca5a
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="" group-title="Sport",Eurosport 2 (it) [UAZNAO]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=edb40da832c44957b49a30351ebccee3:37979044fd480ae10a441c6c8547b38a
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
-#EXTINF:-1 tvg-id="eurosport3" tvg-logo="" group-title="Sport",Eurosport 3 (it) [UAZNAO]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f0db319a1e3492ca02d1dbcfef176ac:ef3bc3b15caf33064d1e8f9d0b46b4b1
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
-#EXTINF:-1 tvg-id="eurosport4" tvg-logo="" group-title="Sport",Eurosport 4 (it) [UAZNAO]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eade7aa2314a407da820d6c81167cb90:c6b701dae6c8bdead2cbe6ecde0769bb
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
-#EXTINF:-1 tvg-id="eurosport5" tvg-logo="" group-title="Sport",Eurosport 5 (it) [UAZNAO]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da9e85e0a6f4459f9344cdb544c22a4e:6af3a1f0911da1e5f6a196872ab5fbfe
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
-#EXTINF:-1 tvg-id="eurosport6" tvg-logo="" group-title="Sport",Eurosport 6 (it) [UAZNAO]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7395986fd46d4d0ab472471c224621e3:adf1f40a8db52e319a18ca00a4dbe0aa
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai1.svg" group-title="Rai",Rai 1 [ZAPPR]
 https://lb.adriatelekom.com/Rai1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai2.svg" group-title="Rai",Rai 2 [ZAPPR]
