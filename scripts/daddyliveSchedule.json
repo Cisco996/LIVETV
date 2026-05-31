@@ -1,5 +1,87 @@
 {
     "Sunday 31st May 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "13:30",
+                "event": "Moto America Superbikes Road America",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "14:45",
+                "event": "AMSOIL Championship Off Road",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "15:40",
+                "event": "2026 Velocity Invitational at Sonoma",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "World Wrestling Entertainment: WWE Clash in Italy",
+                "channels": [
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "177"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "2026 Big Block Special at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:10",
+                "event": "2026 Weekly Racing at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars Nodak",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "23:25",
+                "event": "Husets Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "15:00",
@@ -654,6 +736,10 @@
                         "channel_id": "594"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones",
                         "channel_id": "435"
                     },
@@ -716,6 +802,10 @@
                 "event": "UEFA U17 European Championship : Belgium U17 vs Estonia U17",
                 "channels": [
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9003"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
                     },
@@ -736,6 +826,10 @@
                     {
                         "channel_name": "RTL 2 Croatia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -839,6 +933,10 @@
                 "time": "13:00",
                 "event": "Denmark Betinia Liga : Esbjerg vs Lyngby",
                 "channels": [
+                    {
+                        "channel_name": "Viaplay Sports News DK",
+                        "channel_id": "806"
+                    },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6003"
@@ -1036,6 +1134,10 @@
                         "channel_id": "134"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9006"
+                    },
+                    {
                         "channel_name": "Sky Sport 7 NZ",
                         "channel_id": "594"
                     },
@@ -1064,6 +1166,10 @@
                     {
                         "channel_name": "RTK1 Kosovo",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9004"
                     },
                     {
                         "channel_name": "Polsat Sport Premium 2 Poland",
@@ -1378,6 +1484,10 @@
                 "event": "Tunisian Cup : Zarzis vs ES Tunis",
                 "channels": [
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9007"
+                    },
+                    {
                         "channel_name": "Watania 1",
                         "channel_id": "172"
                     }
@@ -1404,6 +1514,10 @@
                     {
                         "channel_name": "TVP1 Poland",
                         "channel_id": "560"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
                     },
                     {
                         "channel_name": "Sky Sport 6 NZ",
@@ -1792,6 +1906,10 @@
                         "channel_id": "727"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
+                    },
+                    {
                         "channel_name": "Sky Sport 6 NZ",
                         "channel_id": "593"
                     },
@@ -2072,6 +2190,10 @@
                     {
                         "channel_name": "Premier Sports 1 Ireland",
                         "channel_id": "771"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
                     },
                     {
                         "channel_name": "Astro Football",
@@ -2568,6 +2690,10 @@
                 "event": "Roland-Garros 360 Day 8",
                 "channels": [
                     {
+                        "channel_name": "Roland-Garros Multiview",
+                        "channel_id": "205"
+                    },
+                    {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
                     },
@@ -2784,7 +2910,7 @@
         ],
         "ATP - Singles / WTA Singles / ATP Doubles / WTA Doubles French Open - clay": [
             {
-                "time": "09:39",
+                "time": "14:37",
                 "event": "French Open (TNT)",
                 "channels": [
                     {
