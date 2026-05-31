@@ -5,20 +5,8 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="friendlygermanyvsfinland" tvg-name="Soccer | Friendly : Germany vs Finland (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Germany_vs_Finland.png" group-title="Eventi Live DLHD",Soccer | Friendly : Germany vs Finland (18:45)
 https://dlhd.pk/watch.php?id=870
 
-#EXTINF:-1 tvg-id="seriea2cividalevsbasketrimini" tvg-name="Basketball | Serie A2 : Cividale vs Basket Rimini (15:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cividale_vs_Basket Rimini.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Cividale vs Basket Rimini (15:30)
-https://dlhd.pk/watch.php?id=882
-
-#EXTINF:-1 tvg-id="rolexsailgpchampionshipmubadalanewyorkgrandprixday2" tvg-name="Sailing / Boating | Rolex SailGP Championship | Mubadala New York Grand Prix Day 2 (19:30)" tvg-logo="https://walmartgt.vtexassets.com/arquivos/ids/212444/Micardis-Duo-80-5-Mg-28-Tabletas-Una-Caja-Micardis-Duo-80-5-Mg-28-Tabletas-1-36162.jpg?v=637707945998030000" group-title="Eventi Live DLHD",Sailing / Boating | Rolex SailGP Championship | Mubadala New York Grand Prix Day 2 (19:30)
+#EXTINF:-1 tvg-id="rolexsailgpchampionshipmubadalanewyorkgrandprixday2" tvg-name="Sailing / Boating | Rolex SailGP Championship | Mubadala New York Grand Prix Day 2 (19:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Sailing / Boating | Rolex SailGP Championship | Mubadala New York Grand Prix Day 2 (19:30)
 https://dlhd.pk/watch.php?id=460
-
-#EXTINF:-1 tvg-id="giroditaliamenstage21" tvg-name="Cycling | Giro d'Italia | Men | Stage 21 (13:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Giro d'Italia | Men | Stage 21 (13:45)
-https://dlhd.pk/watch.php?id=851
-
-#EXTINF:-1 tvg-id="giroditaliamenstage21" tvg-name="Cycling | Giro d'Italia | Men | Stage 21 (13:45)" tvg-logo="https://images.finehomebuilding.com/app/uploads/2021/09/13160607/021302022-main.jpg" group-title="Eventi Live DLHD",Cycling | Giro d'Italia | Men | Stage 21 (13:45)
-https://dlhd.pk/watch.php?id=878
-
-#EXTINF:-1 tvg-id="piazzadisiena2026romegrandprix" tvg-name="Equestrian | Piazza di Siena 2026 - Rome Grand Prix (17:45)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/277c1d80-ccf0-484f-988e-5ca51426b28f/ddlnu39-f43ece47-e7b6-40a6-8443-61a5f2f1a442.png/v1/fill/w_1024,h_792,q_80,strp/pink_heffalumps_on_parade_page_five_by_blutaiger_ddlnu39-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzkyIiwicGF0aCI6IlwvZlwvMjc3YzFkODAtY2NmMC00ODRmLTk4OGUtNWNhNTE0MjZiMjhmXC9kZGxudTM5LWY0M2VjZTQ3LWU3YjYtNDBhNi04NDQzLTYxYTVmMmYxYTQ0Mi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sHn31sklZ31gpY5rOM-JoGSwKTboHhLxsnQJIExNIPs" group-title="Eventi Live DLHD",Equestrian | Piazza di Siena 2026 - Rome Grand Prix (17:45)
-https://dlhd.pk/watch.php?id=851
 
 #EXTINF:-1 tvg-id="top14clermontvsracing92" tvg-name="Rugby Union | Top 14 : Clermont vs Racing 92 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Clermont_vs_Racing 92.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Clermont vs Racing 92 (19:00)
 https://dlhd.pk/watch.php?id=460
