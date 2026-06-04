@@ -1240,6 +1240,72 @@
                 ]
             }
         ],
+        "ATP - Singles / WTA Singles / ATP Doubles / WTA Doubles French Open - clay": [
+            {
+                "time": "09:00",
+                "event": "Court Suzanne Lenglen: \ud83c\uddeb\ud83c\uddf7 Pierre-Hugues Herbert / \ud83c\uddeb\ud83c\uddf7 Quentin Halys vs \ud83c\uddeb\ud83c\uddee Harri Heli\u00f6vaara / \ud83c\uddec\ud83c\udde7 Henry Patten",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "Philippe-Chatrier: \ud83c\uddee\ud83c\uddf9 Sara Errani / \ud83c\uddee\ud83c\uddf9 Andrea Vavassori vs \ud83c\uddfa\ud83c\uddf8 Evan King / \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "Philippe-Chatrier: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\uddf7\ud83c\uddfa Mirra Andreeva",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Backup Stream 1",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "Philippe-Chatrier: \ud83c\uddf7\ud83c\uddfa Diana Shnaider vs \ud83c\uddf5\ud83c\uddf1 Maja Chwali\u0144ska",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Backup Stream 1",
+                        "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Backup Stream 2",
+                        "channel_id": "1514"
+                    }
+                ]
+            }
+        ],
         "Badminton": [
             {
                 "time": "02:00",
