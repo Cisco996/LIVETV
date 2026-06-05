@@ -1,5 +1,157 @@
 {
     "Friday 05th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "19:00",
+                "event": "Zenith Racing Series VIR",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "2026 Casella Waste SK Modified 80 at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 Dirt Late Model Dream at Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Hartford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 Canadian Big Block Series at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Raceway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ProBox Fight Night: Vazquez vs. Lugo",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 NAPA All Star Circuit of Champions at Williams Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 High Limit Racing at I-94 EMR Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2026 Appalachian Mountain LM Speedweek at Clinton County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2026 Race of Champions Modifieds at Spencer Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2026 USAC AMSOIL National Sprint Cars at Red Hill Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "American Sprint Car Series Creek",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "Twin Topless Dirt 30s Marshalltown",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "15:00",
@@ -1112,44 +1264,6 @@
                 ]
             },
             {
-                "time": "20:00",
-                "event": "CONMEBOL Nations League Women : Colombia vs Uruguay",
-                "channels": [
-                    {
-                        "channel_name": "Caracol TV Colombia",
-                        "channel_id": "1"
-                    },
-                    {
-                        "channel_name": "RCN Television",
-                        "channel_id": "4"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "CONMEBOL Nations League Women : Chile vs Ecuador",
-                "channels": [
-                    {
-                        "channel_name": "Chilevision",
-                        "channel_id": "2"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "CONMEBOL Nations League Women : Argentina vs Peru",
-                "channels": [
-                    {
-                        "channel_name": "Fox Soccer Plus",
-                        "channel_id": "756"
-                    },
-                    {
-                        "channel_name": "DIRECTV Sports Argentina",
-                        "channel_id": "619"
-                    }
-                ]
-            },
-            {
                 "time": "22:00",
                 "event": "High School Soccer : IHSSA Class 1A Tournament, Championship",
                 "channels": [
@@ -1181,10 +1295,48 @@
             },
             {
                 "time": "23:00",
-                "event": "Friendly : Puerto Rico vs Saudi Arabia Sport",
+                "event": "CONMEBOL Nations League Women : Colombia vs Uruguay",
                 "channels": [
                     {
-                        "channel_name": "TV2 Portugal",
+                        "channel_name": "Caracol TV Colombia",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "RCN Television",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "CONMEBOL Nations League Women : Chile vs Ecuador",
+                "channels": [
+                    {
+                        "channel_name": "Chilevision",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "CONMEBOL Nations League Women : Argentina vs Peru",
+                "channels": [
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "DIRECTV Sports Argentina",
+                        "channel_id": "619"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Friendly : Puerto Rico vs Saudi Arabia",
+                "channels": [
+                    {
+                        "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
                     }
                 ]
@@ -2986,6 +3138,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2034"
                     }
                 ]
             },
@@ -3004,6 +3160,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2035"
                     }
                 ]
             },
@@ -3046,6 +3206,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2036"
                     }
                 ]
             },
@@ -3072,6 +3236,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2037"
                     }
                 ]
             },
@@ -3090,6 +3258,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2038"
                     }
                 ]
             },
@@ -3112,6 +3284,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2039"
                     }
                 ]
             },
@@ -3130,6 +3306,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2040"
                     }
                 ]
             },
@@ -3156,6 +3336,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2041"
                     }
                 ]
             },
@@ -3174,6 +3358,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2042"
                     }
                 ]
             },
@@ -3192,6 +3380,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2043"
                     }
                 ]
             },
@@ -3210,6 +3402,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2044"
                     }
                 ]
             },
@@ -3616,6 +3812,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5045"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5045"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -3630,6 +3838,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             },
@@ -3640,6 +3856,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
                     }
                 ]
             },
@@ -3698,6 +3922,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             }
