@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Afl | Essendon Bombers vs Carlton Blues | 09:20 ()" group-title="Eventi Live STREAMED",Afl | Essendon Bombers vs Carlton Blues | 09:20 ()
-https://embed.st/embed/echo/essendon-bombers-vs-carlton-blues-australian-football-3457/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | KLM Open | DP World Tour | 10:30 ()" group-title="Eventi Live STREAMED",Other | KLM Open | DP World Tour | 10:30 ()
+https://embed.st/embed/echo/klm-open-dp-world-tour-atp1000/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()" group-title="Eventi Live STREAMED",Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()
+https://embed.st/embed/echo/liv-golf-andalusia-liv-golf-series-game-162626/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBKTJwCMETD5IAMbiQMECGBUQKaVL3KRstXMQpSIkIgjjSIW8ov8wg4wWz0whYElxOhcm5OOUUyCw94cldZSwggA.webp" tvg-name="Cricket | England vs. New Zealand | 10:00 (English - Fox Cricket)" group-title="Eventi Live STREAMED",Cricket | England vs. New Zealand | 10:00 (English - Fox Cricket)
+https://embed.st/embed/admin/ppv-england-vs-new-zealand/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland Garros French Open 🎾 | 09:00 ()" group-title="Eventi Live STREAMED",Tennis | Roland Garros French Open 🎾 | 09:00 ()
 https://embed.st/embed/echo/roland-garros-french-open-roland-2026/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court 14 | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court 14 | 08:00 (English)
 https://embed.st/embed/golf/22743/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBKTJwCMETD5IAMbiQMECGBUQKaVL3KRstXMQpSIkIgjjSIW8ov8wg4wWz0whYElxOhcm5OOUUyCw94cldZSwggA.webp" tvg-name="Cricket | England vs. New Zealand | 10:00 (English - Fox Cricket)" group-title="Eventi Live STREAMED",Cricket | England vs. New Zealand | 10:00 (English - Fox Cricket)
-https://embed.st/embed/admin/ppv-england-vs-new-zealand/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court Simonne Mathieu | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court Simonne Mathieu | 08:00 (English)
 https://embed.st/embed/golf/22742/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | Roland-Garros - Court Philippe Chatrier | 08:00 (English)" group-title="Eventi Live STREAMED",Tennis | Roland-Garros - Court Philippe Chatrier | 08:00 (English)
@@ -27,10 +29,6 @@ https://embed.st/embed/admin/admin-sky-sports-tennis/1
 https://embed.st/embed/admin/admin-tennis-channel/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" tvg-name="Motor-sports | Rally TV |  (English)" group-title="Eventi Live STREAMED",Motor-sports | Rally TV |  (English)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | KLM Open | DP World Tour | 10:30 ()" group-title="Eventi Live STREAMED",Other | KLM Open | DP World Tour | 10:30 ()
-https://embed.st/embed/echo/klm-open-dp-world-tour-atp1000/1
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()" group-title="Eventi Live STREAMED",Other | LIV Golf Andalusia | LIV Golf Series | 11:15 ()
-https://embed.st/embed/echo/liv-golf-andalusia-liv-golf-series-game-162626/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBg2CEPDBIQ3EHxAkQUkFZS4NIGxKZIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" tvg-name="Golf | The Memorial Tournament presented by Workday Final Round | 12:30 ()" group-title="Eventi Live STREAMED",Golf | The Memorial Tournament presented by Workday Final Round | 12:30 ()
 https://embed.st/embed/echo/the-memorial-tournament-presented-by-workday-pga-tour-pga-526234/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Motor-sports | Race | Circuit de Monaco | 260.3 Kms | 13:00 ()" group-title="Eventi Live STREAMED",Motor-sports | Race | Circuit de Monaco | 260.3 Kms | 13:00 ()
@@ -55,6 +53,8 @@ https://embed.st/embed/admin/ppv-baltimore-orioles-vs-toronto-blue-jays/1
 https://embed.st/embed/admin/ppv-seattle-mariners-vs-detroit-tigers/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJBje5GCE28QWECb3UQKC-pB7J+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" tvg-name="Baseball | Miami Marlins vs Tampa Bay Rays | 17:40 (English - Marlins.TV)" group-title="Eventi Live STREAMED",Baseball | Miami Marlins vs Tampa Bay Rays | 17:40 (English - Marlins.TV)
 https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-miami-marlins/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | York United vs Forge | 18:00 ()" group-title="Eventi Live STREAMED",Football | York United vs Forge | 18:00 ()
+https://embed.st/embed/echo/york-united-vs-forge-football-1517296/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDUQkQwkChALpAY1LBEIUiAggqc7CCUKFwbdJgiQ58bN3jt8vfzCCRTbPTCFgSXEpRDybk5rVX8CNXJnE1UIIA.webp" tvg-name="Football | Kosovo vs Andorra | 18:00 (English - Fubo Sports 2)" group-title="Eventi Live STREAMED",Football | Kosovo vs Andorra | 18:00 (English - Fubo Sports 2)
 https://embed.st/embed/admin/ppv-kosovo-vs-andorra/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwoBrMNM0heBkCBghqIFJZD6zMFkgpYRcxijCrtHD+UbU52viswGAe4mIQQA.webp" tvg-name="Baseball | Houston Astros vs Athletics | 18:10 (English - Space City Home Network)" group-title="Eventi Live STREAMED",Baseball | Houston Astros vs Athletics | 18:10 (English - Space City Home Network)
@@ -67,6 +67,8 @@ https://embed.st/embed/admin/ppv-cincinnati-reds-vs-st-louis-cardinals/1
 https://embed.st/embed/admin/ppv-cleveland-guardians-vs-texas-rangers/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJFzDAADFyQhuIKSAggzZ04hQhrjYEgp9hs+ijAqUmsvCJZZnplowdzFRCCA.webp" tvg-name="Football | Croatia vs Slovenia | 18:45 (English - Sky Sport 9 NZ)" group-title="Eventi Live STREAMED",Football | Croatia vs Slovenia | 18:45 (English - Sky Sport 9 NZ)
 https://embed.st/embed/admin/ppv-croatia-vs-slovenia/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHCjC8ADCCgQQ3EHxAlTe3CBggUIRPALAkFPsNn1NKlFzBl4RLFlvJlowXzFRCCA.webp" tvg-name="Football | Las Palmas vs Málaga | 19:00 ()" group-title="Eventi Live STREAMED",Football | Las Palmas vs Málaga | 19:00 ()
+https://embed.st/embed/echo/las-palmas-vs-malaga-football-1548053/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSICCCogF0hTDkKQKVWVkaNibavkhgNYdikhhcsyumjyEUGEEim2emELAkucSiHluTgdTMj8CYHhyJ2AHLSA.webp" tvg-name="Football | Morocco vs Norway | 19:00 (English - ITV4)" group-title="Eventi Live STREAMED",Football | Morocco vs Norway | 19:00 (English - ITV4)
 https://embed.st/embed/admin/ppv-morocco-vs-norway/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccOAQQKEFnHBE4+IoXyaEYDSoyQiWdpABjPVr1yzJGaXHGU5TQKEim2emELAkuI-aFhuTk1JMnsCRXIAqVIpIA.webp" tvg-name="Football | Greece vs Italy | 19:00 (English - Sky Sport 3 NZ)" group-title="Eventi Live STREAMED",Football | Greece vs Italy | 19:00 (English - Sky Sport 3 NZ)
@@ -95,6 +97,30 @@ https://embed.st/embed/admin/ppv-portland-fire-vs-los-angeles-sparks/1
 https://embed.st/embed/admin/ppv-san-francisco-giants-vs-chicago-cubs/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch 🎾 | 09:00 ()" group-title="Eventi Live STREAMED",Tennis | ATP / WTA: Stuttgart / Hertogenbosch 🎾 | 09:00 ()
 https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJp9IIfiF0gs+kDBDUQKCyGkHm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" tvg-name="Baseball | Baltimore Orioles vs Seattle Mariners | 22:35 (English)" group-title="Eventi Live STREAMED",Baseball | Baltimore Orioles vs Seattle Mariners | 22:35 (English)
+https://embed.st/embed/golf/22975/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWAAGViBicQiXiCwgzMENRAprIaSGOL8wJBSwi5jFGFUoeP8kZNMT9nejAfcTEIIA.webp" tvg-name="Baseball | Cleveland Guardians vs New York Yankees | 22:40 (English)" group-title="Eventi Live STREAMED",Baseball | Cleveland Guardians vs New York Yankees | 22:40 (English)
+https://embed.st/embed/golf/22977/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFFyzAADIKQhuIKSBIGQKcyCsQrIGAWBIKfYbPoowKjW0-l6W0Q0mWjBPMVEIIA.webp" tvg-name="Basketball | Washington Mystics vs Indiana Fever | 23:00 (English)" group-title="Eventi Live STREAMED",Basketball | Washington Mystics vs Indiana Fever | 23:00 (English)
+https://embed.st/embed/golf/22973/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLD94YJAJAHeILAZAwQ1ECishpZqyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" tvg-name="Baseball | Tampa Bay Rays vs Boston Red Sox | 22:40 (English)" group-title="Eventi Live STREAMED",Baseball | Tampa Bay Rays vs Boston Red Sox | 22:40 (English)
+https://embed.st/embed/golf/22976/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBA1g+IXqBS6QUkCUMGDIDSZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" tvg-name="Basketball | Connecticut Sun vs New York Liberty | 23:00 (English)" group-title="Eventi Live STREAMED",Basketball | Connecticut Sun vs New York Liberty | 23:00 (English)
+https://embed.st/embed/golf/22972/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Basketball | New York Knicks - San Antonio Spurs | 00:30 (English)" group-title="Eventi Live STREAMED",Basketball | New York Knicks - San Antonio Spurs | 00:30 (English)
+https://embed.st/embed/golf/22971/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjkEdGYSiF4gsIYzBDUQKCyGkhTF-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" tvg-name="Baseball | Toronto Blue Jays vs Philadelphia Phillies | 23:07 (English)" group-title="Eventi Live STREAMED",Baseball | Toronto Blue Jays vs Philadelphia Phillies | 23:07 (English)
+https://embed.st/embed/golf/22978/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baseball | Los Angeles Angels - Houston Astros | 01:38 (English)" group-title="Eventi Live STREAMED",Baseball | Los Angeles Angels - Houston Astros | 01:38 (English)
+https://embed.st/embed/golf/22979/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baseball | San Diego Padres - Cincinnati Reds | 01:40 (English)" group-title="Eventi Live STREAMED",Baseball | San Diego Padres - Cincinnati Reds | 01:40 (English)
+https://embed.st/embed/golf/22980/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baseball | San Francisco Giants - Washington Nationals | 01:45 (English)" group-title="Eventi Live STREAMED",Baseball | San Francisco Giants - Washington Nationals | 01:45 (English)
+https://embed.st/embed/golf/22981/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Basketball | Las Vegas Aces - Seattle Storm | 02:00 (English)" group-title="Eventi Live STREAMED",Basketball | Las Vegas Aces - Seattle Storm | 02:00 (English)
+https://embed.st/embed/golf/22974/1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Baseball | Athletics - Milwaukee Brewers | 02:05 (English)" group-title="Eventi Live STREAMED",Baseball | Athletics - Milwaukee Brewers | 02:05 (English)
+https://embed.st/embed/golf/22982/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBIhEIYDRpSIIAMYgs4kJprqUwJes26se7MHhzJIFGrObpelbv5hBIpqaeFgSXMt1CXVgg3Ml0CM3IXEzIIIA.webp" tvg-name="Football | Mexico vs. South Africa | 19:00 (English - ITV)" group-title="Eventi Live STREAMED",Football | Mexico vs. South Africa | 19:00 (English - ITV)
 https://embed.st/embed/admin/ppv-mexico-vs-south-africa/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhDwRUkDHFyQNRMPHAIICMEQ0skkCBIgsB4wqpmY6kdtLAqE-mEE2C2emELAkuAMYShZ1YtYTsJN2kwZ2syCCA.webp" tvg-name="Football | South Korea vs. Czechia | 02:00 (English - ITV)" group-title="Eventi Live STREAMED",Football | South Korea vs. Czechia | 02:00 (English - ITV)

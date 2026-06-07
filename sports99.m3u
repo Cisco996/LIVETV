@@ -33,8 +33,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streams
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-08 05:55 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-06-07 10:00 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-06-07 11:15 - Motorsport -  vs  (Sky Sport Moto GP)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-07 12:00 - Motorsport -  vs  (Sky Sport F1)
@@ -43,8 +41,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-08 05:55 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-06-07 10:00 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-06-07 11:15 - Motorsport -  vs  (Sky Sport Moto GP)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-07 12:00 - Motorsport -  vs  (Sky Sport F1)
