@@ -1,5 +1,127 @@
 {
     "Saturday 13th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "CARS Tour Dominion",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "NASCAR Weekly Racing Riverhead",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "USAC Indiana Midget Week Tri-State",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volusia Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "75th Anniversary Legends Night Fonda",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "WOrld of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "DIRTcar Summer Nationals Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "USAC MRA Sprints I-35",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Medieval Cage Fighting Championship",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
@@ -94,6 +216,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -3860,6 +3986,18 @@
                         "channel_id": "5013"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
+                    },
+                    {
                         "channel_name": "SBS AU",
                         "channel_id": "3009"
                     },
@@ -3914,6 +4052,46 @@
                     {
                         "channel_name": "TRT 1 TR",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8001"
                     }
                 ]
             },
@@ -4216,7 +4394,111 @@
                         "channel_id": "5013"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
+                    },
+                    {
                         "channel_name": "SBS AU",
+                        "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "MagentaTV",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "DAZN Mundial ES",
+                        "channel_id": "4000"
+                    },
+                    {
+                        "channel_name": "MTV Urheilu 1",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "M6 France",
+                        "channel_id": "3056"
+                    },
+                    {
+                        "channel_name": "ITV 1 UK",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "ERT 2 Greece",
+                        "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "Azteca 7 MX",
+                        "channel_id": "3027"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "TV4 SE",
+                        "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "TRT 1 TR",
+                        "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream (CH-8001)SBS AU",
                         "channel_id": "3009"
                     },
                     {
@@ -4532,7 +4814,111 @@
                         "channel_id": "5013"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
+                    },
+                    {
                         "channel_name": "SBS AU",
+                        "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "MagentaTV",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "DAZN Mundial ES",
+                        "channel_id": "4000"
+                    },
+                    {
+                        "channel_name": "MTV Urheilu 1",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "M6 France",
+                        "channel_id": "3056"
+                    },
+                    {
+                        "channel_name": "ITV 1 UK",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "ERT 2 Greece",
+                        "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "Azteca 7 MX",
+                        "channel_id": "3027"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "TV4 SE",
+                        "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "TRT 1 TR",
+                        "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream (CH-8001)SBS AU",
                         "channel_id": "3009"
                     },
                     {
@@ -4804,6 +5190,118 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
+                    },
+                    {
+                        "channel_name": "SBS AU",
+                        "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "MagentaTV",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "DAZN Mundial ES",
+                        "channel_id": "4000"
+                    },
+                    {
+                        "channel_name": "MTV Urheilu 1",
+                        "channel_id": "3071"
+                    },
+                    {
+                        "channel_name": "M6 France",
+                        "channel_id": "3056"
+                    },
+                    {
+                        "channel_name": "ITV 1 UK",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "ERT 2 Greece",
+                        "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "Azteca 7 MX",
+                        "channel_id": "3027"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "TV4 SE",
+                        "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "TRT 1 TR",
+                        "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "3081"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8001"
                     }
                 ]
             }
@@ -6922,6 +7420,10 @@
                     {
                         "channel_name": "Sport TV3 Portugal",
                         "channel_id": "454"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -6940,6 +7442,14 @@
                     {
                         "channel_name": "Sport TV4 Portugal",
                         "channel_id": "289"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -7000,6 +7510,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -7034,6 +7548,14 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8009"
                     }
                 ]
             }
@@ -7049,7 +7571,11 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5013"
+                        "channel_id": "5025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -7059,7 +7585,7 @@
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "5014"
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -7382,6 +7908,10 @@
                     {
                         "channel_name": "ESPN Deportes",
                         "channel_id": "375"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             },
@@ -7400,6 +7930,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "3008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
                     }
                 ]
             }
@@ -8040,6 +8574,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2017"
                     }
                 ]
             },
@@ -8058,6 +8596,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2018"
                     }
                 ]
             },
@@ -8068,6 +8610,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -8082,6 +8628,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             }
@@ -8154,6 +8704,10 @@
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2019"
                     }
                 ]
             }
@@ -9110,6 +9664,10 @@
                     {
                         "channel_name": "Arena Sport 1 Serbia",
                         "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
                     }
                 ]
             },
@@ -9132,6 +9690,10 @@
                     {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
                     }
                 ]
             },
@@ -9158,6 +9720,10 @@
                     {
                         "channel_name": "Sport Klub 2 Croatia",
                         "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
