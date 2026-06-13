@@ -120,6 +120,16 @@
                         "channel_id": "208"
                     }
                 ]
+            },
+            {
+                "time": "00:00",
+                "event": "RAF 10 (Real American Freestyle 10): Chimaev vs. Danis",
+                "channels": [
+                    {
+                        "channel_name": "FOXPPV",
+                        "channel_id": "196"
+                    }
+                ]
             }
         ],
         "Upcoming Events": [
