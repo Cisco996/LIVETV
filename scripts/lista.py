@@ -1481,7 +1481,6 @@ def italy_channels():
         unique_id = hashlib.md5(str(time.time()).encode()).hexdigest()[:16]
         now_ms = int(time.time() * 1000)
         data = {
-            "token": "ldCvE092e7gER0rVIajfsXIvRhwlrAzP6_1oEJ4q6HH89QHt24v6NNL_jQJO219hiLOXF2hqEfsUuEWitEIGN4EaHHEHb7Cd7gojc5SQYRFzU3XWo_kMeryAUbcwWnQrnf0-",
             "reason": "app-blur",
             "locale": "de",
             "theme": "dark",
@@ -1503,7 +1502,7 @@ def italy_channels():
                       "enabled": False, "autoServer": True, "id": "fi-hel"},
             "iap": {"supported": True}
         }
-        resp = requests.post("https://www.lokke.app/api/app/ping", json=data, headers=headers, timeout=10)
+        resp = requests.post("https://www.vypn.net/api/app/ping", json=data, headers=headers, timeout=10)
         return resp.json().get("addonSig")
 
     def vavoo_groups():
@@ -2080,7 +2079,6 @@ def world_channels_generator():
         unique_id = hashlib.md5(str(time.time()).encode()).hexdigest()[:16]
         now_ms = int(time.time() * 1000)
         data = {
-            "token": "ldCvE092e7gER0rVIajfsXIvRhwlrAzP6_1oEJ4q6HH89QHt24v6NNL_jQJO219hiLOXF2hqEfsUuEWitEIGN4EaHHEHb7Cd7gojc5SQYRFzU3XWo_kMeryAUbcwWnQrnf0-",
             "reason": "app-blur",
             "locale": "de",
             "theme": "dark",
@@ -2102,7 +2100,7 @@ def world_channels_generator():
                       "enabled": False, "autoServer": True, "id": "fi-hel"},
             "iap": {"supported": True}
         }
-        resp = requests.post("https://www.lokke.app/api/app/ping", json=data, headers=headers, timeout=10)
+        resp = requests.post("https://www.vypn.net/api/app/ping", json=data, headers=headers, timeout=10)
         return resp.json().get("addonSig")
     
     def vavoo_groups():
