@@ -72,6 +72,16 @@
                 ]
             },
             {
+                "time": "22:15",
+                "event": "West Virginia Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5027"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "DIRTcar Summer Nationals Late Models",
                 "channels": [
@@ -102,12 +112,52 @@
                 ]
             },
             {
+                "time": "22:45",
+                "event": "Weekly Racing at Port Royal",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "246"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Fairbury Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5020"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "World of Outlaws Sprint Cars Knoxville",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Knoxville Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5065"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "IMCA Clash at the Creek at 141 Speedway PPV",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "245"
                     }
                 ]
             },
@@ -128,6 +178,10 @@
                     {
                         "channel_name": "FOXPPV",
                         "channel_id": "196"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5066"
                     }
                 ]
             }
@@ -7541,6 +7595,10 @@
                 "time": "22:00",
                 "event": "MVP Boxing : O.Jones vs E.Carranza",
                 "channels": [
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "180"
+                    },
                     {
                         "channel_name": "Sky Sport 7 NZ",
                         "channel_id": "594"
