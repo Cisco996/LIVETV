@@ -1471,39 +1471,30 @@ def italy_channels():
     from bs4 import BeautifulSoup
 
     def getAuthSignature():
-        import hashlib
         headers = {
             "user-agent": "okhttp/4.11.0",
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
+            "content-length": "1106",
             "accept-encoding": "gzip"
         }
-        unique_id = hashlib.md5(str(time.time()).encode()).hexdigest()[:16]
-        now_ms = int(time.time() * 1000)
         data = {
+            "token": "tosFwQCJMS8qrW_AjLoHPQ41646J5dRNha6ZWHnijoYQQQoADQoXYSo7ki7O5-CsgN4CH0uRk6EEoJ0728ar9scCRQW3ZkbfrPfeCXW2VgopSW2FWDqPOoVYIuVPAOnXCZ5g",
             "reason": "app-blur",
             "locale": "de",
             "theme": "dark",
             "metadata": {
-                "device": {"type": "Handset", "brand": "google", "model": "Nexus", "name": "21081111RG", "uniqueId": unique_id},
-                "os": {"name": "android", "version": "7.1.2", "abis": ["arm64-v8a"], "host": "android"},
-                "app": {"platform": "android", "version": "1.1.0", "buildId": "97215000", "engine": "hbc85",
-                        "signatures": ["6e8a975e3cbf07d5de823a760d4c2547f86c1403105020adee5de67ac510999e"],
-                        "installer": "com.android.vending"},
-                "version": {"package": "app.lokke.main", "binary": "1.1.0", "js": "1.1.0"},
-                "platform": {"isAndroid": True, "isIOS": False, "isTV": False, "isWeb": False,
-                             "isMobile": True, "isWebTV": False, "isElectron": False}
-            },
-            "appFocusTime": 0, "playerActive": False, "playDuration": 0, "devMode": True,
-            "hasAddon": True, "castConnected": False, "package": "app.lokke.main",
-            "version": "1.1.0", "process": "app", "firstAppStart": now_ms - 86400000,
-            "lastAppStart": now_ms, "ipLocation": None, "adblockEnabled": False,
-            "proxy": {"supported": ["ss", "openvpn"], "engine": "openvpn", "ssVersion": 1,
-                      "enabled": False, "autoServer": True, "id": "fi-hel"},
-            "iap": {"supported": True}
+                "device": {
+                    "type": "Handset",
+                    "os": "Android",
+                    "osVersion": "10",
+                    "model": "Pixel 4",
+                    "brand": "Google"
+                }
+            }
         }
-        resp = requests.post("https://www.vypn.net/api/app/ping", json=data, headers=headers, timeout=10)
-        return resp.json().get("addonSig")
+        resp = requests.post("https://vavoo.to/mediahubmx-signature.json", json=data, headers=headers, timeout=10)
+        return resp.json().get("signature")
 
     def vavoo_groups():
         # Puoi aggiungere altri gruppi per più canali
@@ -2069,39 +2060,30 @@ def world_channels_generator():
     import re
     
     def getAuthSignature():
-        import hashlib
         headers = {
             "user-agent": "okhttp/4.11.0",
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
+            "content-length": "1106",
             "accept-encoding": "gzip"
         }
-        unique_id = hashlib.md5(str(time.time()).encode()).hexdigest()[:16]
-        now_ms = int(time.time() * 1000)
         data = {
+            "token": "tosFwQCJMS8qrW_AjLoHPQ41646J5dRNha6ZWHnijoYQQQoADQoXYSo7ki7O5-CsgN4CH0uRk6EEoJ0728ar9scCRQW3ZkbfrPfeCXW2VgopSW2FWDqPOoVYIuVPAOnXCZ5g",
             "reason": "app-blur",
             "locale": "de",
             "theme": "dark",
             "metadata": {
-                "device": {"type": "Handset", "brand": "google", "model": "Nexus", "name": "21081111RG", "uniqueId": unique_id},
-                "os": {"name": "android", "version": "7.1.2", "abis": ["arm64-v8a"], "host": "android"},
-                "app": {"platform": "android", "version": "1.1.0", "buildId": "97215000", "engine": "hbc85",
-                        "signatures": ["6e8a975e3cbf07d5de823a760d4c2547f86c1403105020adee5de67ac510999e"],
-                        "installer": "com.android.vending"},
-                "version": {"package": "app.lokke.main", "binary": "1.1.0", "js": "1.1.0"},
-                "platform": {"isAndroid": True, "isIOS": False, "isTV": False, "isWeb": False,
-                             "isMobile": True, "isWebTV": False, "isElectron": False}
-            },
-            "appFocusTime": 0, "playerActive": False, "playDuration": 0, "devMode": True,
-            "hasAddon": True, "castConnected": False, "package": "app.lokke.main",
-            "version": "1.1.0", "process": "app", "firstAppStart": now_ms - 86400000,
-            "lastAppStart": now_ms, "ipLocation": None, "adblockEnabled": False,
-            "proxy": {"supported": ["ss", "openvpn"], "engine": "openvpn", "ssVersion": 1,
-                      "enabled": False, "autoServer": True, "id": "fi-hel"},
-            "iap": {"supported": True}
+                "device": {
+                    "type": "Handset",
+                    "os": "Android",
+                    "osVersion": "10",
+                    "model": "Pixel 4",
+                    "brand": "Google"
+                }
+            }
         }
-        resp = requests.post("https://www.vypn.net/api/app/ping", json=data, headers=headers, timeout=10)
-        return resp.json().get("addonSig")
+        resp = requests.post("https://vavoo.to/mediahubmx-signature.json", json=data, headers=headers, timeout=10)
+        return resp.json().get("signature")
     
     def vavoo_groups():
         # Puoi aggiungere altri gruppi per più canali
