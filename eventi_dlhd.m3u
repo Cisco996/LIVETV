@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaworldcupbelgiumvsegypt" tvg-name="All Soccer Events | FIFA World Cup : Belgium vs Egypt (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Belgium vs Egypt (19:00)
+#EXTINF:-1 tvg-id="fifaworldcupbelgiumvsegypt" tvg-name="All Soccer Events | FIFA World Cup : Belgium vs Egypt (19:00)" tvg-logo="https://brilliantmaps.com/wp-content/uploads/Hy_Vee_USA-1024x754.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Belgium vs Egypt (19:00)
+https://dlhd.pk/watch.php?id=162
+
+#EXTINF:-1 tvg-id="fifaworldcupbelgiumvsegypt" tvg-name="All Soccer Events | FIFA World Cup : Belgium vs Egypt (19:00)" tvg-logo="https://cdn-content-oz2.storbie.com/images/oracort-5g-249-r3.jpg?i=b0z6D-nxRf2BI8gkcN1iTS-mCZu0ZsnGrKaBIG6HkI6UPnDmuN0ONLdomfOJEYV_yyPz2s3ncdf6g6zw6ZZYJqOL_kQBbTAimN0eTSA6nILUrFiU8o3Q9PPQ6biIdYWTVbs5mdBHYJpXGVUu3_7ZQKPawkDdEv8rQKCyO-vch7gIonZ7sdyhIxIoz_-hJTKBeo-pkCqEWjEPOj9D7hBSg73KtabxvsM_Jv2ETyEVljkdi0BTqyHDAWn2yjuwKkACriQcJ_4PWvAfUpjFdzck4amRAs7gllIy8UnInU0IV4Y~" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Belgium vs Egypt (19:00)
 https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupsaudiarabiavsuruguay" tvg-name="All Soccer Events | FIFA World Cup : Saudi Arabia vs Uruguay (22:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Saudi Arabia_vs_Uruguay.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Saudi Arabia vs Uruguay (22:00)
+https://dlhd.pk/watch.php?id=162
 

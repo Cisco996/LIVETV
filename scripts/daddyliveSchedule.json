@@ -512,6 +512,10 @@
                         "channel_id": "739"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -541,7 +545,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "Telemundo",
@@ -689,6 +693,30 @@
                     },
                     {
                         "channel_name": "Backup Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
                         "channel_id": "2001"
                     },
                     {
@@ -812,6 +840,10 @@
                         "channel_id": "290"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
                     },
@@ -829,7 +861,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "DAZN Mundial 1 ESP",
@@ -952,40 +984,56 @@
                         "channel_id": "5032"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5001"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5002"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5003"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (DE)",
                         "channel_id": "5005"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5006"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5007"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5008"
                     },
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Backup Stream (FR)",
                         "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream (DE)",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5013"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -1042,6 +1090,58 @@
                     {
                         "channel_name": "TRT 1 TR",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8006"
                     }
                 ]
             },
@@ -1094,6 +1194,10 @@
                         "channel_id": "727"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
                     },
@@ -1119,7 +1223,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "NPO 1 NL",
@@ -1316,6 +1420,62 @@
                     {
                         "channel_name": "TRT 1 TR",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8006"
                     }
                 ]
             },
@@ -1368,6 +1528,10 @@
                         "channel_id": "727"
                     },
                     {
+                        "channel_name": "RSI LA 2 IT",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
                     },
@@ -1389,7 +1553,7 @@
                     },
                     {
                         "channel_name": "PTV Sports Pakistan",
-                        "channel_id": "650"
+                        "channel_id": "450"
                     },
                     {
                         "channel_name": "NPO 1 NL",
@@ -1525,6 +1689,22 @@
                     },
                     {
                         "channel_name": "Backup Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
                         "channel_id": "2004"
                     },
                     {
@@ -1578,6 +1758,62 @@
                     {
                         "channel_name": "TRT 1 TR",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8006"
                     }
                 ]
             }
@@ -2691,7 +2927,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Spanish League : Semi-final 1 G4*",
+                "event": "Spanish League : Semi-final 1 Joventut - Valencia",
                 "channels": [
                     {
                         "channel_name": "Arena 2 Premium Serbia",
