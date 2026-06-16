@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcupfrancevssenegal" tvg-name="Soccer | FIFA World Cup : France vs Senegal (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/France_vs_Senegal.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : France vs Senegal (19:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupfrancevssenegal" tvg-name="Soccer | FIFA World Cup : France vs Senegal (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/France_vs_Senegal.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : France vs Senegal (19:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupiraqvsnorway" tvg-name="Soccer | FIFA World Cup : Iraq vs Norway (22:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Iraq_vs_Norway.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Iraq vs Norway (22:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fieeuropeanchampionshipantonyday1" tvg-name="Fencing | FIE European Championship | Antony Day 1 (17:30)" tvg-logo="https://wallpapers.com/images/hd/black-mazda-rx-7-sports-car-hd0h4a5jxadpwv9c.jpg" group-title="Eventi Live DLHD",Fencing | FIE European Championship | Antony Day 1 (17:30)
+https://dlhd.pk/watch.php?id=879
+
+#EXTINF:-1 tvg-id="worldopenclassicpowerliftingchampionshipswomens63kgampmens83kgdruskininkai" tvg-name="Weightlifting | World Open Classic Powerlifting Championships Women's 63kg &amp; Men's 83kg | Druskininkai (16:00)" tvg-logo="https://i.pinimg.com/originals/87/01/51/8701515d594f158732b0b8c7b90116f5.jpg" group-title="Eventi Live DLHD",Weightlifting | World Open Classic Powerlifting Championships Women's 63kg &amp; Men's 83kg | Druskininkai (16:00)
+https://dlhd.pk/watch.php?id=878
+
