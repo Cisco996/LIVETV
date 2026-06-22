@@ -4074,6 +4074,32 @@
                 ]
             },
             {
+                "time": "16:30",
+                "event": "WTA Bad Homburg: WTA Bad Homburg: Alexandra Eala vs Elise Mertens",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis UK",
+                        "channel_id": "46"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "6021"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "ATP Eastbourne: \ud83c\udff4 Luke Johnson / \ud83c\uddf5\ud83c\uddf1 Jan Zieli\u0144ski vs \ud83c\udff4 Ben Jones / \ud83c\udff4 Joshua Paris",
                 "channels": [
@@ -4090,6 +4116,20 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1606"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "ATP Eastbourne: ATP Eastbourne: Zizou Bergs vs Jaume Munar",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "6022"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
