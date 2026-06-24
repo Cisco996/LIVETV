@@ -1,5 +1,27 @@
 {
     "Wednesday 24th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "10:30",
+                "event": "No Limit Boxing : Crocker vs. Paro",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV EN",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "No Limit Boxing : Crocker vs. Paro",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV DE",
+                        "channel_id": "59"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
@@ -1548,6 +1570,14 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "SRF zwei",
                         "channel_id": "258"
                     },
@@ -1878,6 +1908,14 @@
                         "channel_id": "840"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9008"
+                    },
+                    {
                         "channel_name": "DAZN Mundial 2 Spain",
                         "channel_id": "3"
                     },
@@ -2140,6 +2178,14 @@
                     {
                         "channel_name": "RDS 2 CA",
                         "channel_id": "840"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9010"
                     },
                     {
                         "channel_name": "SRF Info",
@@ -2422,6 +2468,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9004"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9011"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -2748,6 +2802,14 @@
                         "channel_id": "840"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -3012,6 +3074,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "SRF zwei",
