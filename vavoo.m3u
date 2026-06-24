@@ -131,6 +131,8 @@ https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Altro",GOLD TV
+https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",GRANDE FRATELLO
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Altro",GRANDUCATO
@@ -353,10 +355,8 @@ https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
 https://vavoo.to/vavoo-iptv/play/30209519673b772c86f279
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV 2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
-#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (1)
+#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
 https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d
-#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (2)
-https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TV LUNA
 https://vavoo.to/vavoo-iptv/play/37897066429b9ef63bb97c
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/tvqui-modena-cover.jpg" group-title="Altro",TV QUI
@@ -693,9 +693,7 @@ https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE (2)
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (1)
-https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
-#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (2)
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (1)
 https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
@@ -785,9 +783,7 @@ https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (1)
-https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
@@ -831,10 +827,6 @@ https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (2)
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
-#EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (1)
-https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
-#EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (2)
-https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai",RAI SCUOLA (1)
 https://vavoo.to/vavoo-iptv/play/20077985117d0ff1cfe128
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai",RAI SCUOLA (2)
