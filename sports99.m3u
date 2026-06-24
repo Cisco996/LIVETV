@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (CA CTV Winnipeg)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (CA CTV Vancouver)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.Toronto" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (CA CTV Toronto)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Toronto&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (CA CTV Ottawa)
@@ -27,6 +31,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (TSN 3 FHD CA)
@@ -79,8 +85,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NRK%201%20Nordnytt%20HD%20NO&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Yle%20TV2%20HD%20FI&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="DR.1.HD.IS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (DR 1 HD IS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20IS&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (Arena Sport 1 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TELEMUNDO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (TELEMUNDO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TELEMUNDO&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Telemundo.HD.PR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (Telemundo HD PR)
@@ -129,14 +133,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Switzerland vs Canada (Rai 1 [Italian])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Bosnia-Herzegovina vs Qatar (RDS 2 QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Bosnia-Herzegovina vs Qatar (RDS 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Bosnia-Herzegovina vs Qatar (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Bosnia-Herzegovina vs Qatar (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Bosnia-Herzegovina vs Qatar (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canvas.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 19:00 - FIFA World Cup - Bosnia-Herzegovina vs Qatar (Canvas HD NL)
@@ -183,8 +187,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (BBC Two UK)
@@ -193,8 +195,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Morocco vs Haiti (BBC Two HD NL)
@@ -237,6 +237,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (TSN 3 FHD CA)
@@ -247,8 +249,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-24 22:00 - FIFA World Cup - Scotland vs Brazil (BBC One Yorkshire and Lincolnshire FHD UK)
@@ -349,8 +349,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (BBC Two UK)
@@ -359,8 +357,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - South Africa vs South Korea (BBC Two HD NL)
@@ -409,6 +405,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (TSN 5 HD CA)
@@ -419,8 +417,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 01:00 - FIFA World Cup - Czech Republic vs Mexico (BBC One Yorkshire and Lincolnshire FHD UK)
@@ -497,8 +493,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two UK)
@@ -507,8 +501,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Curaçao vs Ivory Coast (BBC Two HD NL)
@@ -541,6 +533,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (TSN 3 FHD CA)
@@ -551,8 +545,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (BBC One Yorkshire and Lincolnshire FHD UK)
@@ -597,12 +589,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 20:00 - FIFA World Cup - Ecuador vs Germany (Rai 1 [Italian])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (TSN 5 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (TSN 5 HD CA)
@@ -613,8 +609,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Tunisia vs Netherlands (BBC One Yorkshire and Lincolnshire FHD UK)
@@ -651,8 +645,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (BBC Two UK)
@@ -661,8 +653,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-25 23:00 - FIFA World Cup - Japan vs Sweden (BBC Two HD NL)
@@ -703,8 +693,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Das.Erste.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Paraguay vs Australia (Das Erste HD DE)
@@ -737,6 +725,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 02:00 - FIFA World Cup - Turkey vs USA (TSN 5 HD CA)
@@ -767,6 +757,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TSN 4 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TSN 3 FHD CA)
@@ -795,6 +787,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Norway vs France (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV Winnipeg)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV Vancouver)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.Toronto" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV Toronto)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Toronto&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV Ottawa)
@@ -823,8 +819,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="CA.CTV.TORONTO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-26 19:00 - FIFA World Cup - Senegal vs Iraq (CA CTV TORONTO)
@@ -879,8 +873,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=stream
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (TSN 2 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (TSN 2 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two UK)
@@ -889,8 +881,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - Egypt vs Iran (BBC Two HD NL)
@@ -933,8 +923,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CTV2%20Ottawa%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 03:00 - FIFA World Cup - New Zealand vs Belgium (BBC One Yorkshire and Lincolnshire FHD UK)
@@ -971,8 +959,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ITV4%20%5BEnglish%5D&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - Colombia vs Portugal (BBC One Yorkshire and Lincolnshire FHD UK)
@@ -1007,8 +993,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-27 23:30 - FIFA World Cup - DR Congo vs Uzbekistan (BBC Two HD NL)
@@ -1031,8 +1015,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20UK&code=&user=stre
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two.Northern.Ireland.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two Northern Ireland HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Northern%20Ireland%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20Wales%20HD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.Two.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Algeria vs Austria (BBC Two HD NL)
@@ -1053,8 +1035,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=VRT%20Canvas%20%5BDutch%5D&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One Yorkshire and Lincolnshire UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20Lincolnshire%20UK&code=&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="BBC.One.Yorkshire.and.Lincolnshire.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-28 02:00 - FIFA World Cup - Jordan vs Argentina (BBC One Yorkshire and Lincolnshire FHD UK)
