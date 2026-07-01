@@ -5,12 +5,18 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.12tvparma.it/wp-content/uploads/2021/11/ogg-image.jpg" group-title="Altro",12 TV PARMA
 https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",7 YOU & ME
+https://vavoo.to/vavoo-iptv/play/178775175831e62385f371
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",70-80.IT
 https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/3zkPKViC7G2rHWbBpYzSL6dFM9OMFBqIC6JrT-mM73EQsERHMqx4sPzWpBD8nfEqgf_uSHi124Y=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",A3
 https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ADESSO TV
 https://vavoo.to/vavoo-iptv/play/15558564102ab0cc0f61cf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ALICE
+https://vavoo.to/vavoo-iptv/play/3092239866ed8b329f2cdf
+#EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="Altro",ALMA TV
+https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
@@ -25,6 +31,8 @@ https://vavoo.to/vavoo-iptv/play/1640233647b0779ba035a1
 https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
+https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -153,6 +161,8 @@ https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA C ONAIR
 https://vavoo.to/vavoo-iptv/play/1533131501702a3c9003d0
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lac-tv-it.png?raw=true" group-title="Altro",LA C TV
+https://vavoo.to/vavoo-iptv/play/660106690dcbddcc34747
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/Ck_esrelbBPGT2rsTtvuvciOBHA0f5b-VExXvBf-NP9fegvHhEuN9MIx7pgdv1WlW8o" group-title="Altro",LA NUOVA TV
 https://vavoo.to/vavoo-iptv/play/3894526183af41b9b1aebc
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/latr3.png" group-title="Altro",LA TR3
@@ -213,6 +223,8 @@ https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
 https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE 8
+https://vavoo.to/vavoo-iptv/play/1070290151a2161042a11a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
@@ -235,6 +247,8 @@ https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTM TV
+https://vavoo.to/vavoo-iptv/play/2294009196bff728f2a31e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rttr-it.png?raw=true" group-title="Altro",RTTR
@@ -319,6 +333,8 @@ https://vavoo.to/vavoo-iptv/play/2923215049219f1039e542
 https://vavoo.to/vavoo-iptv/play/28766467002afd747d5523
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELEPACE 2
 https://vavoo.to/vavoo-iptv/play/3973472252e684fd2d0acb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELEPACE 3
+https://vavoo.to/vavoo-iptv/play/3518395980216546f5452a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELEPACE 4
 https://vavoo.to/vavoo-iptv/play/1670818396815a6c065dd0
 #EXTINF:-1 tvg-id="" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo.png" group-title="Altro",TELEQUATTRO
