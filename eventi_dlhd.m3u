@@ -1,1 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
+https://dlhd.pk/watch.php?id=462
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/laptops-and-2-in-1s/omnibook-ultra-ai-pc/visid-2026/blue-stripe_2x.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://i.ytimg.com/vi/99H4i50gdV0/maxresdefault.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupenglandvscongodr" tvg-name="All Soccer Events | FIFA World Cup : England vs Congo DR (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Congo DR.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Congo DR (16:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupbelgiumvssenegal" tvg-name="All Soccer Events | FIFA World Cup : Belgium vs Senegal (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Belgium_vs_Senegal.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Belgium vs Senegal (20:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupbelgiumvssenegal" tvg-name="All Soccer Events | FIFA World Cup : Belgium vs Senegal (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Belgium_vs_Senegal.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Belgium vs Senegal (20:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipssecondround" tvg-name="Tennis | 2026 Wimbledon Championships Second Round (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis | 2026 Wimbledon Championships Second Round (10:00)
+https://dlhd.pk/watch.php?id=462
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipssecondround" tvg-name="Tennis | 2026 Wimbledon Championships Second Round (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis | 2026 Wimbledon Championships Second Round (10:00)
+https://dlhd.pk/watch.php?id=461
+
