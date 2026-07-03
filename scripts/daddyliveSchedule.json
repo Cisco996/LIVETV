@@ -1872,6 +1872,18 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup StreamArabic",
+                        "channel_id": "9004"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9009"
+                    },
+                    {
                         "channel_name": "TV Publica Argentina",
                         "channel_id": "18"
                     },
@@ -2094,16 +2106,6 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
-                    }
-                ]
-            },
-            {
-                "time": "01:30",
-                "event": "FIFA World Cup : Multiview",
-                "channels": [
-                    {
-                        "channel_name": "Fussball.TV 3",
-                        "channel_id": "938"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2285,6 +2287,16 @@
             },
             {
                 "time": "01:30",
+                "event": "FIFA World Cup : Multiview",
+                "channels": [
+                    {
+                        "channel_name": "Fussball.TV 3",
+                        "channel_id": "938"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
                 "event": "FIFA World Cup : Tactical Feed",
                 "channels": [
                     {
@@ -2312,6 +2324,18 @@
                     {
                         "channel_name": "RTE 2 Ireland",
                         "channel_id": "365"
+                    },
+                    {
+                        "channel_name": "Backup Stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup StreamArabic",
+                        "channel_id": "9003"
+                    },
+                    {
+                        "channel_name": "Backup Stream English",
+                        "channel_id": "9008"
                     },
                     {
                         "channel_name": "TRT 1 Turkey",
@@ -3322,7 +3346,7 @@
         ],
         "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 \u2013 Court-wise Listing": [
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Center Court \u25c6",
                 "channels": [
                     {
@@ -3332,7 +3356,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Center Court 4K \u25c6",
                 "channels": [
                     {
@@ -3342,7 +3366,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.1 \u25c6",
                 "channels": [
                     {
@@ -3352,7 +3376,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.2 \u25c6",
                 "channels": [
                     {
@@ -3362,7 +3386,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.3 \u25c6",
                 "channels": [
                     {
@@ -3372,7 +3396,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.4 \u25c6",
                 "channels": [
                     {
@@ -3382,7 +3406,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.5 \u25c6",
                 "channels": [
                     {
@@ -3392,7 +3416,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.6 \u25c6",
                 "channels": [
                     {
@@ -3402,7 +3426,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.7 \u25c6",
                 "channels": [
                     {
@@ -3412,7 +3436,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.8 \u25c6",
                 "channels": [
                     {
@@ -3422,7 +3446,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.9 \u25c6",
                 "channels": [
                     {
@@ -3432,7 +3456,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.10 \u25c6",
                 "channels": [
                     {
@@ -3442,7 +3466,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.11 \u25c6",
                 "channels": [
                     {
@@ -3452,7 +3476,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.12 \u25c6",
                 "channels": [
                     {
@@ -3462,7 +3486,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.13 \u25c6",
                 "channels": [
                     {
@@ -3472,7 +3496,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.14 \u25c6",
                 "channels": [
                     {
@@ -3482,7 +3506,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.15 \u25c6",
                 "channels": [
                     {
@@ -3492,7 +3516,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.16 \u25c6",
                 "channels": [
                     {
@@ -3502,7 +3526,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.17 \u25c6",
                 "channels": [
                     {
@@ -3512,7 +3536,7 @@
                 ]
             },
             {
-                "time": "18:24",
+                "time": "22:46",
                 "event": "\ud83c\udfc6 \ud83c\udfbe Wimbledon 2026 Court No.18 \u25c6",
                 "channels": [
                     {
