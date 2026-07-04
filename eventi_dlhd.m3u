@@ -2,16 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230916/original/pngtree-hello-kitty-sticker-with-two-kitty-clipart-vector-png-image_12233622.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://i5.fapality.com/contents/albums/main/680x9999/2000/2141/77018.jpg" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://needles4jukeboxes.com/Rockola Wobble Coil.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://i.pinimg.com/736x/ec/6b/4c/ec6b4cacce88d16d7d148621e4733509.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://www.hostpapa.com/blog/app/uploads/2017/08/password.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/14c2fa8f-b833-4f7b-8232-fe5dbb8a4894/342515984/no-cache-screenshot.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
 https://dlhd.pk/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcupcanadavsmorocco" tvg-name="All Soccer Events ⚽ | FIFA World Cup : 🇨🇦 Canada vs 🇲🇦 Morocco (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇨🇦 Canada_vs_🇲🇦 Morocco.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | FIFA World Cup : 🇨🇦 Canada vs 🇲🇦 Morocco (17:00)
@@ -23,38 +17,17 @@ https://dlhd.pk/watch.php?id=850
 #EXTINF:-1 tvg-id="fifaworldcupparaguayvsfrance" tvg-name="All Soccer Events ⚽ | FIFA World Cup : 🇵🇾 Paraguay vs 🇫🇷 France (21:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇵🇾 Paraguay_vs_🇫🇷 France.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | FIFA World Cup : 🇵🇾 Paraguay vs 🇫🇷 France (21:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="wimbledonchampionships2026thirdround" tvg-name="Tennis 🎾 | Wimbledon Championships 2026 Third round (10:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4645722714e56a73cc0554/1612294010482-R9IJ7AI3Y88QDNAQAW20/Matterhorn+Swiss+Alps.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | Wimbledon Championships 2026 Third round (10:00)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="wimbledonchampionships2026thirdround" tvg-name="Tennis 🎾 | Wimbledon Championships 2026 Third round (10:00)" tvg-logo="https://wallpaperaccess.com/full/1192224.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | Wimbledon Championships 2026 Third round (10:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="formula1pirellibritishgpsprintgrid" tvg-name="Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Sprint Grid (10:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1b06152-d2b7-4181-95e0-f43cb11fa348/dg3t6tl-c1ff10c0-fcaf-47e8-8856-8807949e36af.png/v1/fill/w_951,h_840,q_70,strp/playful_cat__by_ddiex_dg3t6tl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxYjA2MTUyLWQyYjctNDE4MS05NWUwLWY0M2NiMTFmYTM0OFwvZGczdDZ0bC1jMWZmMTBjMC1mY2FmLTQ3ZTgtODg1Ni04ODA3OTQ5ZTM2YWYucG5nIiwiaGVpZ2h0IjoiPD0xMTMwIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZjFiMDYxNTItZDJiNy00MTgxLTk1ZTAtZjQzY2IxMWZhMzQ4XC9kZGlleC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.jELmrOUI3pDRnw6S-jL4TW7rjhZL1ZxiuDsUuTFEJLc" group-title="Eventi Live DLHD",Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Sprint Grid (10:00)
+#EXTINF:-1 tvg-id="formula2silverstonesprintrace" tvg-name="Motorsport 🏁 | 🏎️ Formula 2 : Silverstone Sprint Race (12:45)" tvg-logo="https://hotsweethome.com/wp-content/uploads/2021/07/CINZIA-FRANCISCHIELLO-HOTSWEETHOME-4.jpg" group-title="Eventi Live DLHD",Motorsport 🏁 | 🏎️ Formula 2 : Silverstone Sprint Race (12:45)
 https://dlhd.pk/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1pirellibritishgpsprint" tvg-name="Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Sprint (11:00)" tvg-logo="https://i.pinimg.com/originals/a5/6c/df/a56cdfa87cc9d900948d08b43e71c973.png" group-title="Eventi Live DLHD",Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Sprint (11:00)
+#EXTINF:-1 tvg-id="formula1pirellibritishgpqualifying" tvg-name="Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Qualifying (15:00)" tvg-logo="https://japaninsides.com/wp-content/uploads/2023/07/Fussa-Firefly-Festival-in-Tokyo-2-1024x1024.webp" group-title="Eventi Live DLHD",Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Qualifying (15:00)
 https://dlhd.pk/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2silverstonesprintrace" tvg-name="Motorsport 🏁 | 🏎️ Formula 2 : Silverstone Sprint Race (12:45)" tvg-logo="https://twistedsifter.com/wp-content/uploads/2016/12/aurora-borealis-over-jokulsarlon-glacier-lagoon-iceland-1.jpg" group-title="Eventi Live DLHD",Motorsport 🏁 | 🏎️ Formula 2 : Silverstone Sprint Race (12:45)
-https://dlhd.pk/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1pirellibritishgpqualifying" tvg-name="Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Qualifying (15:00)" tvg-logo="https://cdn.britannica.com/81/157981-131-7008CACA/Arabian-Camel-sand-dunes-Sahara-Desert.jpg" group-title="Eventi Live DLHD",Motorsport 🏁 | 🏎️ Formula 1 : Pirelli British GP - Qualifying (15:00)
-https://dlhd.pk/watch.php?id=577
-
-#EXTINF:-1 tvg-id="worldserieskrakowmensandwomensspeedfinal" tvg-name="Climbing 🧗‍♂️ | World Series | Krakow Men's and Women's Speed | Final (10:00)" tvg-logo="https://kellyinthecity.s3.amazonaws.com/wp-content/uploads/2022/01/How-to-Wear-Dresses-in-Winter.png" group-title="Eventi Live DLHD",Climbing 🧗‍♂️ | World Series | Krakow Men's and Women's Speed | Final (10:00)
+#EXTINF:-1 tvg-id="worldserieskrakowmensandwomensspeedrelaysfinal" tvg-name="Climbing 🧗‍♂️ | World Series | Krakow Men's and Women's Speed Relays | Final (14:00)" tvg-logo="https://static4.libertatea.ro/wp-content/uploads/2023/02/lia-bugnar-despre-despartirea-de-anghel-damian-scaled-1.jpg" group-title="Eventi Live DLHD",Climbing 🧗‍♂️ | World Series | Krakow Men's and Women's Speed Relays | Final (14:00)
 https://dlhd.pk/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldserieskrakowmensandwomensspeedrelaysfinal" tvg-name="Climbing 🧗‍♂️ | World Series | Krakow Men's and Women's Speed Relays | Final (14:00)" tvg-logo="https://64.media.tumblr.com/b892428e303c4fd81aa561715409aef5/tumblr_pdzxnw3ipD1wgv564o1_1280.png" group-title="Eventi Live DLHD",Climbing 🧗‍♂️ | World Series | Krakow Men's and Women's Speed Relays | Final (14:00)
-https://dlhd.pk/watch.php?id=879
-
-#EXTINF:-1 tvg-id="tourdefrancestage1menbarcelonattt196km" tvg-name="Cycling 🚴‍♂️ | Tour de France Stage 1 | Men | Barcelona (TTT, 19.6km) (14:00)" tvg-logo="https://i.etsystatic.com/8800859/r/il/c1b40f/4737705911/il_1080xN.4737705911_2pkv.jpg" group-title="Eventi Live DLHD",Cycling 🚴‍♂️ | Tour de France Stage 1 | Men | Barcelona (TTT, 19.6km) (14:00)
+#EXTINF:-1 tvg-id="tourdefrancestage1menbarcelonattt196km" tvg-name="Cycling 🚴‍♂️ | Tour de France Stage 1 | Men | Barcelona (TTT, 19.6km) (14:00)" tvg-logo="https://caguas.gov.pr/wp-content/uploads/2019/08/Mapa-ubicacion-de-los-Portales-de-la-ciudad-de-Caguas.jpg" group-title="Eventi Live DLHD",Cycling 🚴‍♂️ | Tour de France Stage 1 | Men | Barcelona (TTT, 19.6km) (14:00)
 https://dlhd.pk/watch.php?id=878
-
-#EXTINF:-1 tvg-id="nationschampionshipaustraliavsireland" tvg-name="Rugby Union 🏉 | Nations Championship : Australia vs Ireland (10:10)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Australia_vs_Ireland.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | Nations Championship : Australia vs Ireland (10:10)
-https://dlhd.pk/watch.php?id=460
-
-#EXTINF:-1 tvg-id="nationschampionshipaustraliavsireland" tvg-name="Rugby Union 🏉 | Nations Championship : Australia vs Ireland (10:10)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Australia_vs_Ireland.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | Nations Championship : Australia vs Ireland (10:10)
-https://dlhd.pk/watch.php?id=3047
 
 #EXTINF:-1 tvg-id="nationschampionshipfijivswales" tvg-name="Rugby Union 🏉 | Nations Championship : Fiji vs Wales (13:10)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Fiji_vs_Wales.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | Nations Championship : Fiji vs Wales (13:10)
 https://dlhd.pk/watch.php?id=3047
