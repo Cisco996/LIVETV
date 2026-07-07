@@ -2,19 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=576
-
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://i.pinimg.com/originals/4c/cc/93/4ccc93959ec2bf4cd5a6dfbd303d8152.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://murderpedia.org/male.F/images/fryberg-jaylen/jaylen-fryberg-4.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://static-ca-cdn.eporner.com/photos/290287.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
 https://dlhd.pk/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcupargentinavsegypt" tvg-name="All Soccer Events ⚽ | FIFA World Cup : 🇦🇷 Argentina vs 🇪🇬 Egypt (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇦🇷 Argentina_vs_🇪🇬 Egypt.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | FIFA World Cup : 🇦🇷 Argentina vs 🇪🇬 Egypt (16:00)
@@ -26,15 +17,6 @@ https://dlhd.pk/watch.php?id=850
 #EXTINF:-1 tvg-id="fifaworldcupswitzerlandvscolombia" tvg-name="All Soccer Events ⚽ | FIFA World Cup : 🇨🇭 Switzerland vs 🇨🇴 Colombia (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇨🇭 Switzerland_vs_🇨🇴 Colombia.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | FIFA World Cup : 🇨🇭 Switzerland vs 🇨🇴 Colombia (20:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)" tvg-logo="http://4.bp.blogspot.com/-RatvZeV4XHA/TnBUGhI3-nI/AAAAAAAAMhc/ZTg-pLHllLg/s1600/paisajes%2Bblanco-negro.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)
-https://dlhd.pk/watch.php?id=576
-
 #EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
 https://dlhd.pk/watch.php?id=462
 
@@ -44,9 +26,9 @@ https://dlhd.pk/watch.php?id=461
 #EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
 https://dlhd.pk/watch.php?id=576
 
-#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/51967abae4b0fe8d0161031f/83d4d177-c6d0-4955-9be4-4d8741f69604/LEGO+Builder's+Handbook+-+Mosaics+Excerpt+-+BrickNerd+-+13.png?format=1500w" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
+#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://news.clearancejobs.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-18-at-1.42.42-PM.png" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
 https://dlhd.pk/watch.php?id=851
 
-#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="http://www.dlyj.ac.cn/fileup/1000-0585/FIGURE/2023-42-3/Images/1000-0585-42-3-713/img_1.png" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
+#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://thumb-lvlt.xhcdn.com/a/4t4cUglinyfh9yxAAOC-Jw/022/764/330/v2/2560x1440.204.webp" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
 https://dlhd.pk/watch.php?id=878
 
