@@ -1,1 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://fortnite.gg/img/items/842/featured.png?1" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://images.customwheeloffset.com/buy2-compressed/web/150275-3-rough-country-35-inch-lift-kit-forged-uca-vertex-07-16-chevy-gmc-silverado-sierra-1500.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="tennisumagatptennisgstaadatptennisbastadatptennisathenswtatennisiaiwtaearlyrounds" tvg-name="Tennis 🎾 | Tennis Umag ATP • Tennis Gstaad ATP • Tennis Bastad ATP • Tennis Athens WTA • Tennis Iași WTA : Early Rounds (08:30)" tvg-logo="https://www.voyagertennis.com/wp-content/uploads/2023/01/clay-court.png" group-title="Eventi Live DLHD",Tennis 🎾 | Tennis Umag ATP • Tennis Gstaad ATP • Tennis Bastad ATP • Tennis Athens WTA • Tennis Iași WTA : Early Rounds (08:30)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="tennisumagatptennisgstaadatptennisbastadatptennisathenswtatennisiaiwtaearlyrounds" tvg-name="Tennis 🎾 | Tennis Umag ATP • Tennis Gstaad ATP • Tennis Bastad ATP • Tennis Athens WTA • Tennis Iași WTA : Early Rounds (08:30)" tvg-logo="https://www.voyagertennis.com/wp-content/uploads/2023/01/clay-court.png" group-title="Eventi Live DLHD",Tennis 🎾 | Tennis Umag ATP • Tennis Gstaad ATP • Tennis Bastad ATP • Tennis Athens WTA • Tennis Iași WTA : Early Rounds (08:30)
+https://dlhd.pk/watch.php?id=576
+
