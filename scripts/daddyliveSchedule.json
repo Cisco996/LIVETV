@@ -858,6 +858,244 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "time": "10:00",
+                "event": "World - Club Friendly : Legia vs Radomiak Radom",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6001"
+                    }
+                ]
+            },
+            {
+                "time": "11:35",
+                "event": "Chinese Super League : Zhejiang Professional vs Qingdao Hainiu",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "World - Club Friendly : Chester vs Fleetwood",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6003"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "World - Club Friendly : Lokomotiv Moscow vs CSKA Moscow",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6004"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "World - Club Friendly : Wehen vs Okayama",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6005"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Europe - UEFA Champions League : KuPS Kuopio vs Vardar",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6006"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "World - Club Friendly : Trnava vs Besiktas",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6007"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Europe - UEFA Champions League : Inter D'Escaldes vs Lincoln Red Imps",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6008"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "Europe - UEFA Champions League : Saburtalo Tbilisi vs Flora",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6009"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "World - Club Friendly : Darmstadt vs FC 08 Homburg",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6010"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "World - Club Friendly : Dusseldorf vs Ruzomberok",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6011"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "World - Club Friendly : Randers FC vs Notts Co",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6012"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "World - Club Friendly : Sporting CP vs Celtic",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6013"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Europe - UEFA Champions League : Gyori ETO FC vs Vikingur Reykjavik",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6014"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Europe - UEFA Champions League : Riga FC vs Ararat-Armenia",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6015"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "World - Club Friendly : Nijmegen vs V-Varen Nagasaki",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6016"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Europe - UEFA Champions League : Levski Sofia vs Borac Banja Luka",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6017"
+                    },
+                    {
+                        "channel_name": "Diema Sport Bulgaria",
+                        "channel_id": "3048"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "Europe - UEFA Champions League : The New Saints vs Sabah FK",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6018"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "World - Club Friendly : LASK vs Fenerbahce",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6019"
+                    },
+                    {
+                        "channel_name": "TV100 Turkey",
+                        "channel_id": "3091"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Europe - UEFA Champions League : Drita Gjilan vs Kauno Zalgiris",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6020"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "World - Club Friendly : Bristol Rovers vs Leicester",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "World - Club Friendly : Hyde vs AFC Fylde",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "World - Club Friendly : Stafford vs Shrewsbury",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "\ud83c\udfc6 World Cup : Multiview",
                 "channels": [
@@ -1136,6 +1374,174 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream (4K)",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN 4K)",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein AR)",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fox USA)",
+                        "channel_id": "5060"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fox 4K)",
+                        "channel_id": "5061"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Telemundo)",
+                        "channel_id": "5062"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN1)",
+                        "channel_id": "5063"
+                    },
+                    {
+                        "channel_name": "(Bein Max Arabic)",
+                        "channel_id": "5064"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FusballTV1)",
+                        "channel_id": "5065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "MagentaTV",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "DAZN Mundial ES",
+                        "channel_id": "4000"
+                    },
+                    {
+                        "channel_name": "M6 France",
+                        "channel_id": "3056"
+                    },
+                    {
+                        "channel_name": "ITV 1",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "HRT 2 Crotia",
+                        "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "TV4 Sweden",
+                        "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Backup Stream (4K Quality)",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ITV UK)",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN)",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Backup Stream (TSN 4K)",
+                        "channel_id": "5024"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein Max AR)",
+                        "channel_id": "5025"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Bein Max 4K)",
+                        "channel_id": "5026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5027"
+                    },
+                    {
+                        "channel_name": "Backup Stream (Fussbaltv 4K)",
+                        "channel_id": "5028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             }
@@ -1176,6 +1582,10 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4101"
                     }
                 ]
             },
@@ -1334,6 +1744,14 @@
                     {
                         "channel_name": "Arena 5 Premium Serbia",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4120"
                     }
                 ]
             },
@@ -2120,12 +2538,8 @@
                 "event": "PDC World Matchplay Darts 2026 \u2013 Winter Gardens, Blackpool",
                 "channels": [
                     {
-                        "channel_name": "PDC TV",
-                        "channel_id": "43"
-                    },
-                    {
-                        "channel_name": "Canal+ Sport 2 Poland",
-                        "channel_id": "73"
+                        "channel_name": "TV3 Sport Denmark",
+                        "channel_id": "3069"
                     }
                 ]
             },
@@ -2134,12 +2548,8 @@
                 "event": "PDC World Matchplay Darts 2026 \u2013 Winter Gardens, Blackpool",
                 "channels": [
                     {
-                        "channel_name": "PDC TV",
-                        "channel_id": "43"
-                    },
-                    {
-                        "channel_name": "Canal+ Sport 2 Poland",
-                        "channel_id": "73"
+                        "channel_name": "TV3 Sport Denmark",
+                        "channel_id": "3069"
                     }
                 ]
             }
@@ -2388,6 +2798,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "TV4 Latvia",
+                        "channel_id": "3064"
                     }
                 ]
             },
@@ -2410,6 +2824,14 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Sport 2 Israel",
+                        "channel_id": "3062"
+                    },
+                    {
+                        "channel_name": "Arena 2 Premium Serbia",
+                        "channel_id": "3063"
                     }
                 ]
             },
@@ -2430,6 +2852,10 @@
                     {
                         "channel_name": "CBC Sport Azerbaijan",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "CBC Sport Azerbaijan",
+                        "channel_id": "3065"
                     }
                 ]
             },
@@ -2440,6 +2866,10 @@
                     {
                         "channel_name": "RTK1 Kosovo",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "RTK1 Kosovo",
+                        "channel_id": "3066"
                     }
                 ]
             },
@@ -2482,6 +2912,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Sport 4 Israel",
+                        "channel_id": "3062"
                     }
                 ]
             },
@@ -2496,6 +2930,14 @@
                     {
                         "channel_name": "Sporting TV Portugal",
                         "channel_id": "716"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4120"
+                    },
+                    {
+                        "channel_name": "TVI Portugal",
+                        "channel_id": "3022"
                     }
                 ]
             },
@@ -3070,6 +3512,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             },
@@ -3088,6 +3534,10 @@
                     {
                         "channel_name": "YES USA",
                         "channel_id": "763"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             },
@@ -3118,6 +3568,10 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
                     }
                 ]
             },
@@ -3132,6 +3586,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2013"
                     }
                 ]
             },
@@ -3162,6 +3620,10 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
                     }
                 ]
             },
@@ -3172,6 +3634,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2015"
                     }
                 ]
             }
@@ -3248,6 +3714,10 @@
                     {
                         "channel_name": "EuroSport 1 Greece",
                         "channel_id": "41"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2016"
                     }
                 ]
             }
