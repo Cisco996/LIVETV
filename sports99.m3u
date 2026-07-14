@@ -4383,6 +4383,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 00:10 - MLB - Kansas City Royals vs San Diego Padres (MLB | San Diego Padres)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 00:10 - MLB - Kansas City Royals vs San Diego Padres (ESPN 2 US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 00:10 - MLB - Houston Astros vs Baltimore Orioles (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 00:10 - MLB - Houston Astros vs Baltimore Orioles (MLB | Baltimore Orioles)
@@ -4459,6 +4461,26 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (TVA Sports CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (Sportsnet Pacific CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (Sportsnet Ontario CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (Sportsnet West CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (Sportsnet Pacific HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (Sportsnet West HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (TVA Sports QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:07 - MLB - Toronto Blue Jays vs Chicago White Sox (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:10 - MLB - Colorado Rockies vs Cincinnati Reds (MLB | Colorado Rockies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 19:10 - MLB - Colorado Rockies vs Cincinnati Reds (MLB | Cincinnati Reds)
@@ -4471,6 +4493,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 20:10 - MLB - Kansas City Royals vs San Diego Padres (MLB | San Diego Padres)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 20:10 - MLB - Kansas City Royals vs San Diego Padres (ESPN 2 US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 20:10 - MLB - Milwaukee Brewers vs Miami Marlins (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 20:10 - MLB - Milwaukee Brewers vs Miami Marlins (MLB | Miami Marlins)
@@ -4601,10 +4625,34 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (Sportsnet One CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (MLB | Toronto Blue Jays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (TVA Sports CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (Sportsnet Pacific CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (Sportsnet Ontario CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (Sportsnet West CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (Sportsnet Pacific HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (Sportsnet West HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (TVA Sports QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:10 - MLB - Philadelphia Phillies vs Los Angeles Dodgers (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:10 - MLB - Philadelphia Phillies vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -4625,6 +4673,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:40 - MLB - Kansas City Royals vs San Francisco Giants (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-20 23:40 - MLB - Kansas City Royals vs San Francisco Giants (ESPN 2 US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:05 - MLB - Texas Rangers vs Chicago White Sox (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:05 - MLB - Texas Rangers vs Chicago White Sox (MLB | Chicago White Sox)
@@ -4633,6 +4683,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:05 - MLB - Chicago Cubs vs Detroit Tigers (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:05 - MLB - Chicago Cubs vs Detroit Tigers (Marquee Sports Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:05 - MLB - Chicago Cubs vs Detroit Tigers (Marquee Sports Network FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:10 - MLB - Houston Astros vs Miami Marlins (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 00:10 - MLB - Houston Astros vs Miami Marlins (MLB | Miami Marlins)
@@ -4647,6 +4701,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (MLB | Oakland Athletics)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.Sports.California.Plus.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (NBC Sports California Plus US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20Plus%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (NBC Sports California HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (NBC Sports California HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 02:10 - MLB - Los Angeles Angels vs St. Louis Cardinals (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 02:10 - MLB - Los Angeles Angels vs St. Louis Cardinals (MLB | St. Louis Cardinals)
@@ -4691,6 +4751,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 4 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 4 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 3 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:05 - MLB - Chicago Cubs vs Detroit Tigers (TSN 1 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:10 - MLB - Houston Astros vs Miami Marlins (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 00:10 - MLB - Houston Astros vs Miami Marlins (MLB | Miami Marlins)
@@ -4701,10 +4777,26 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:38 - MLB - Los Angeles Angels vs St. Louis Cardinals (MLB | St. Louis Cardinals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:38 - MLB - Los Angeles Angels vs St. Louis Cardinals (TVA Sports CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:38 - MLB - Los Angeles Angels vs St. Louis Cardinals (TVA Sports QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:38 - MLB - Los Angeles Angels vs St. Louis Cardinals (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network Strike Zone HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.|.MLB.Network.Strike.Zoneⓧ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-mlb-network-strike-zone.webp",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (USA | MLB Network Strike Zoneⓧ)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20%7C%20MLB%20Network%20Strike%20Zone%E2%93%A7&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Arizona Diamondbacks vs Athletics (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 01:40 - MLB - Arizona Diamondbacks vs Athletics (MLB | Oakland Athletics)
@@ -4727,6 +4819,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network Strike Zone HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.|.MLB.Network.Strike.Zoneⓧ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-mlb-network-strike-zone.webp",[MLB] 2026-07-22 19:40 - MLB - Seattle Mariners vs Cincinnati Reds (USA | MLB Network Strike Zoneⓧ)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20%7C%20MLB%20Network%20Strike%20Zone%E2%93%A7&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.Network.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Seattle Mariners vs Cincinnati Reds (MLB Network CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Arizona Diamondbacks vs Athletics (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 19:40 - MLB - Arizona Diamondbacks vs Athletics (MLB | Oakland Athletics)
@@ -4735,6 +4837,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 20:07 - MLB - Los Angeles Angels vs St. Louis Cardinals (MLB | St. Louis Cardinals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 20:07 - MLB - Los Angeles Angels vs St. Louis Cardinals (TVA Sports CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 20:07 - MLB - Los Angeles Angels vs St. Louis Cardinals (TVA Sports QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 20:07 - MLB - Los Angeles Angels vs St. Louis Cardinals (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 22:40 - MLB - Philadelphia Phillies vs Los Angeles Dodgers (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 22:40 - MLB - Philadelphia Phillies vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -8009,14 +8117,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-21 00:00 - WNBA - Dallas Wings vs Indiana Fever (ION Television US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",[Basketball] 2026-08-21 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action-fhd-uk.webp",[Basketball] 2026-08-21 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (Sky Sports Action FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[Basketball] 2026-08-21 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Spectrum.Sportsnet.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-hd-us.webp",[Basketball] 2026-08-21 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (Spectrum Sportsnet HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-21 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (ESPN US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ION.Television.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-21 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (ION Television US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-21 02:00 - WNBA - Las Vegas Aces vs Connecticut Sun (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-21 02:00 - WNBA - Las Vegas Aces vs Connecticut Sun (ION Television US)
@@ -8065,14 +8169,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-25 00:00 - WNBA - Minnesota Lynx vs Golden State Valkyries (ION Television US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",[Basketball] 2026-08-25 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action-fhd-uk.webp",[Basketball] 2026-08-25 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (Sky Sports Action FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[Basketball] 2026-08-25 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Spectrum.Sportsnet.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-hd-us.webp",[Basketball] 2026-08-25 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (Spectrum Sportsnet HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-25 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (ESPN US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ION.Television.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-25 02:00 - WNBA - Los Angeles Sparks vs Atlanta Dream (ION Television US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-25 23:00 - WNBA - Connecticut Sun vs Chicago Sky (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-25 23:00 - WNBA - Connecticut Sun vs Chicago Sky (ION Television US)
