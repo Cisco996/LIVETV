@@ -1,1 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://64.media.tumblr.com/9fca6732199fe23b32bb8c7595f9601f/tumblr_mu7yf6AYtd1sgeku3o5_250.gif" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+https://dlhd.st/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://cdn.nba.com/manage/2020/07/lebron-james-iso-ahs.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+https://dlhd.st/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fiaformula2championshipbudapestfreepractice" tvg-name="Motorsport 🏎️🏁 | 🏎️ FIA Formula 2 Championship : 🇭🇺 Budapest Free Practice (09:00)" tvg-logo="https://theproducenews.com/sites/default/files/2024-05/PXL_20240501_212757153.PORTRAIT_0.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ FIA Formula 2 Championship : 🇭🇺 Budapest Free Practice (09:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1moëtampchandonbelgiangrandprixpractice1" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 1 (11:30)" tvg-logo="https://ecdn.teacherspayteachers.com/thumbitem/20-No-Prep-Bailey-Name-Tracing-and-Activities-Non-editable-Preschool-KDG-Handw-4332586-1555573259/original-4332586-1.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 1 (11:30)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1moëtampchandonbelgiangrandprixpractice1" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 1 (11:30)" tvg-logo="https://m.media-amazon.com/images/I/81svw8P6W1L.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 1 (11:30)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="fiaformula3championshipspafrancorchampsqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ FIA Formula 3 Championship : 🇧🇪 Spa-Francorchamps Qualifying (13:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ba2bd7c-fabe-45a9-9346-1e1d1300f494/dfkayip-45b44cf2-ca2e-4849-acd6-ae9e164b6d48.png/v1/fill/w_857,h_933,q_70,strp/j___murder_drones_by_kasurnica_dfkayip-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM5NCIsInBhdGgiOiJcL2ZcLzhiYTJiZDdjLWZhYmUtNDVhOS05MzQ2LTFlMWQxMzAwZjQ5NFwvZGZrYXlpcC00NWI0NGNmMi1jYTJlLTQ4NDktYWNkNi1hZTllMTY0YjZkNDgucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fD_O0KU5kMAjeiueLHqPZ5FQx_FQN8KbzFrOWUQq7Bs" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ FIA Formula 3 Championship : 🇧🇪 Spa-Francorchamps Qualifying (13:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="fiaformula2championshipbudapestqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ FIA Formula 2 Championship : 🇭🇺 Budapest Qualifying (14:00)" tvg-logo="https://vinyla.com/files/products/93/172/28844/vinilovi-plativki-the-alan-parsons-project-eye-in-the-sky.280x280.png?8b4194def4feaa771121ff3ab00d8748" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ FIA Formula 2 Championship : 🇭🇺 Budapest Qualifying (14:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1moëtampchandonbelgiangrandprixpractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)" tvg-logo="https://thumb-p8.xhcdn.com/a/3motK5rca1CCzYLr8HF1HA/000/104/229/588_1000.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1moëtampchandonbelgiangrandprixpractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)" tvg-logo="https://i.pinimg.com/originals/8e/73/bc/8e73bcc98bc1f3c84b31e7c7131d8a3c.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="tourdefrancestage13hilly205km2400melevation" tvg-name="Cycling 🚴‍♂️ | 🚴 Tour de France : Stage 13 🇫🇷 Hilly | 205 km | 2,400 m Elevation (11:20)" tvg-logo="https://vinyla.com/files/products/93/172/28844/vinilovi-plativki-the-alan-parsons-project-eye-in-the-sky.280x280.png?8b4194def4feaa771121ff3ab00d8748" group-title="Eventi Live DLHD",Cycling 🚴‍♂️ | 🚴 Tour de France : Stage 13 🇫🇷 Hilly | 205 km | 2,400 m Elevation (11:20)
+https://dlhd.st/watch.php?id=878
+
