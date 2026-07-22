@@ -1,14 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Sky.Sport.251.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-251-fhd-it.webp",[Soccer] 2026-07-22 15:00 - Club Friendly - Napoli vs Arezzo (Sky Sport 251 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20251%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.News.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-news-fhd-de.webp",[Soccer] 2026-07-22 13:00 - Club Friendly - Metalist 1925 Kharkiv vs Schalke 04 (Sky Sport News FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20News%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ERT.2.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp",[Soccer] 2026-07-22 14:30 - UEFA Women's Champions League - PAOK W vs Hapoel Jerusalem W (ERT 2 HD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBC.Sport.AZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-22 15:00 - UEFA Conference League - Neftçi vs Dinamo Minsk (CBC Sport AZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBC%20Sport%20AZ&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.251.FHD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-251-fhd-it.webp",[Soccer] 2026-07-22 15:00 - Club Friendly - Napoli vs Arezzo (Sky Sport 251 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20251%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cytavision.Sports.1.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-1-hd-cy.webp",[Soccer] 2026-07-22 16:00 - UEFA Champions League - Omonia Nicosia vs Kairat (Cytavision Sports 1 HD CY)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%201%20HD%20CY&code=cy&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Soccer] 2026-07-22 16:00 - UEFA Champions League - Omonia Nicosia vs Kairat (Arena Sport 2 Premium FHD RS)
@@ -1677,36 +1673,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-22 16:30 - The Hundred - Southern Brave vs Welsh Fire (SuperSport Cricket)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="France.2.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/france-2-fhd-de.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (France 2 FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=France%202%20FHD%20DE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="S4C.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/s4c-fhd-uk.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (S4C FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=S4C%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RTP.2.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/rtp-2-hd-pt.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (RTP 2 HD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%202%20HD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (M4 Sport FHD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.3.FHD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-3-fhd-br.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (ESPN 3 FHD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (ESPN 3 Primera HD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Variety.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (SuperSport Variety 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Variety%201&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Eurosport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/eurosport-1-hd-fr.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Eurosport 1 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Eurosport 1 SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.FHD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/eurosport-1-fhd-it.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Eurosport 1 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Eurosport 1 GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Teledeporte.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 10:00 - UCI World Tour -  vs  (Teledeporte FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Teledeporte.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 11:00 - UCI World Tour -  vs  (Teledeporte FHD)
