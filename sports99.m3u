@@ -1,56 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Digi.Sport.1.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1-fhd-ro.webp",[Soccer] 2026-07-23 16:00 - UEFA Conference League - Universitatea Cluj vs Brann (Digi Sport 1 FHD RO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Prima.Sport.1.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1-fhd-ro.webp",[Soccer] 2026-07-23 16:00 - UEFA Conference League - Universitatea Cluj vs Brann (Prima Sport 1 FHD RO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%201%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Club.RTL.FHD..BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/belgium/club-rtl-fhd-be.webp",[Soccer] 2026-07-23 16:00 - UEFA Europa League - Hammarby vs Anderlecht (Club RTL FHD  BE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Club%20RTL%20FHD%20%20BE&code=be&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal.11.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11-pt.webp",[Soccer] 2026-07-23 16:00 - UEFA Europa League - Hammarby vs Anderlecht (Canal 11 PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="hr-fernsehen.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hr-fernsehen-fhd-de.webp",[Soccer] 2026-07-23 16:00 - Germany Regionalliga - Aubstadt vs Schweinfurt 05 (hr-fernsehen FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=hr-fernsehen%20FHD%20DE&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.FHD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/sport-1-fhd-cz.webp",[Soccer] 2026-07-23 16:00 - UEFA Conference League - Tromso vs FC Hradec Kralove (Sport 1 FHD CZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20FHD%20CZ&code=cz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-23 16:00 - UEFA Europa League - Sheriff Tiraspol vs Maccabi Tel Aviv (Sport 1 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Diema.Sport.2.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/diema-sport-2-hd-bg.webp",[Soccer] 2026-07-23 16:30 - UEFA Conference League - Hapoel Tel Aviv vs Ludogorets (Diema Sport 2 HD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%202%20HD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Soccer] 2026-07-23 16:30 - UEFA Conference League - Hapoel Tel Aviv vs Ludogorets (Sport 2 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-23 16:30 - UEFA Conference League - Hapoel Tel Aviv vs Ludogorets (Sport 1 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ProTV.FHD.RO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/protv-fhd-ro.webp",[Soccer] 2026-07-23 16:45 - UEFA Conference League - FCSB vs Auda (ProTV FHD RO)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ProTV%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Aluminij vs Dinamo City (Sportklub 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.3.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3-hd-il.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Vojvodina vs Ajax (Sport 3 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%203%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Vojvodina vs Ajax (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/max-sport-1-fhd-hr.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Varaždin vs Jablonec (Max Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cytavision.Sports.6.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-6-hd-cy.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Paksi SE vs Panathinaikos (Cytavision Sports 6 HD CY)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%206%20HD%20CY&code=cy&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Paksi SE vs Panathinaikos (M4 Sport FHD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.4.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-4-premium-fhd-rs.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Paksi SE vs Panathinaikos (Arena Sport 4 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%204%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[Soccer] 2026-07-23 17:00 - Argentina Reserve League - Lanús Res. vs Huracán Res. (ESPN 2 Primera FHD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.3.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-3-premium-fhd-rs.webp",[Soccer] 2026-07-23 17:00 - UEFA Europa League - Beşiktaş vs Midtjylland (Arena Sport 3 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 17:00 - UEFA Europa League - St. Gallen vs Benfica (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.5.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-5-hd-pt.webp",[Soccer] 2026-07-23 17:00 - UEFA Europa League - St. Gallen vs Benfica (Sport TV 5 HD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20HD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="JOJ.Sport.FHD.SK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 17:00 - UEFA Europa League - St. Gallen vs Benfica (JOJ Sport FHD SK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=JOJ%20Sport%20FHD%20SK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-23 17:00 - UEFA Europa League - Twente vs Ferencváros (Sport TV 1 FHD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.1.ULTRA..HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-1-ultra-hd-nl.webp",[Soccer] 2026-07-23 17:00 - UEFA Europa League - Twente vs Ferencváros (ESPN 1 ULTRA  HD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.HD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-1-hd-hu.webp",[Soccer] 2026-07-23 17:00 - UEFA Europa League - Twente vs Ferencváros (Sport 1 HD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 17:30 - UEFA Conference League - Lugano vs Dukagjini (RSI La2 FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Soccer] 2026-07-23 17:30 - UEFA Conference League - Žilina vs Katowice (TVP Sport FHD PL)
@@ -1143,28 +1091,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MSG.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/msg-hd-us.webp",[Tennis] 2026-07-23 22:00 - INTENNSE - Smash vs Altitude (MSG HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MSG%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf-fhd-uk.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sports Golf FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Golf Channel FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-golf-fhd-de.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sport Golf FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Golf.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Movistar Golf FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Golf%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (ESPN Deportes US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-2-se.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Eurosport 2 SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20SE&code=se&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Golf" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (SuperSport Golf)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Golf&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Ziggo.Sport.6.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6-fhd-nl.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Ziggo Sport 6 FHD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.Golf.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-golf-hd-hr.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sport Klub Golf HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%20Golf%20HD%20HR&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Golf Channel HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sports Golf UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Golf+ HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV4.Motor.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-23 18:15 - FIA European Rally Championship -  vs  (TV4 Motor SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Motor%20SE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Motowizja.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/motowizja-fhd-pl.webp",[Motorsport] 2026-07-23 18:15 - FIA European Rally Championship -  vs  (Motowizja FHD PL)
@@ -1549,20 +1485,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Cricket.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket-fhd-uk.webp",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (Sky Sports Cricket FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two-fhd-uk.webp",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (BBC Two FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ASTRO.CRICKET.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (ASTRO CRICKET HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Willow.Cricket.Extra.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-fhd-us.webp",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (Willow Cricket Extra FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20Extra%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (SuperSport Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-23 21:30 - Global Super League - Guyana Amazon Warriors vs San Francisco Unicorns (Willow Cricket HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-07-23 21:30 - Global Super League - Guyana Amazon Warriors vs San Francisco Unicorns (Sky Sport 2 NZ)
@@ -1573,13 +1495,3 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Teledeporte.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 11:30 - UCI World Tour -  vs  (Teledeporte FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sky Sports Arena HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sky Sports Arena UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sky Sports Action HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sky Sports Main Event HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-2-fhd-us.webp",[Horse Racing] 2026-07-23 16:00 - Horse Racing -  vs  (Fox Sports 2 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
