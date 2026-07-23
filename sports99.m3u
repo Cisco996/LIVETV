@@ -1197,6 +1197,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-2-se.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Eurosport 2 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.Golf" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (SuperSport Golf)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Golf&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6-fhd-nl.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Ziggo Sport 6 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.Klub.Golf.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-golf-hd-hr.webp",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sport Klub Golf HD HR)
@@ -1607,8 +1609,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UF
 https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Select.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-select-nz.webp",[Cricket] 2026-07-23 12:30 - Global Super League - Lahore Qalandars vs Perth Scorchers (Sky Sport Select NZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Select%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Willow.Cricket.Extra.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-fhd-us.webp",[Cricket] 2026-07-23 13:00 - The Hundred Women - London Spirit W vs Manchester Originals W (Willow Cricket Extra FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20Extra%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Cricket.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket-fhd-uk.webp",[Cricket] 2026-07-23 13:00 - The Hundred Women - London Spirit W vs Manchester Originals W (Sky Sports Cricket FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two-fhd-uk.webp",[Cricket] 2026-07-23 13:00 - The Hundred Women - London Spirit W vs Manchester Originals W (BBC Two FHD UK)
@@ -1619,6 +1619,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Cricket] 2026-07-23 13:00 - The Hundred Women - London Spirit W vs Manchester Originals W (Sky Sport 1 NZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Willow.Cricket.Extra.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-fhd-us.webp",[Cricket] 2026-07-23 13:00 - The Hundred Women - London Spirit W vs Manchester Originals W (Willow Cricket Extra FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20Extra%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-23 13:00 - The Hundred Women - London Spirit W vs Manchester Originals W (SuperSport Cricket)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Willow.Cricket.Extra.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-fhd-us.webp",[Cricket] 2026-07-23 16:30 - The Hundred - London Spirit vs Manchester Originals (Willow Cricket Extra FHD US)
@@ -1645,16 +1647,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Teledeporte.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 11:30 - UCI World Tour -  vs  (Teledeporte FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-23 11:30 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs China Volleyball Women (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-23 11:30 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs China Volleyball Women (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-23 11:30 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs China Volleyball Women (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-23 11:30 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs China Volleyball Women (Sportklub 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-23 11:30 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs China Volleyball Women (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action-fhd-uk.webp",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sky Sports Action FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sky Sports Main Event FHD UK)
@@ -1669,9 +1661,5 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%205%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-2-fhd-hu.webp",[Darts] 2026-07-23 17:00 - PDC Darts -  vs  (Sport 2 FHD HU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Racing.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-racing-fhd-uk.webp",[Horse Racing] 2026-07-23 11:00 - Horse Racing -  vs  (Sky Sports Racing FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Racing%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Racing.TV.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/racing-tv-fhd-uk.webp",[Horse Racing] 2026-07-23 11:45 - Horse Racing -  vs  (Racing TV FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Racing%20TV%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-2-fhd-us.webp",[Horse Racing] 2026-07-23 16:00 - Horse Racing -  vs  (Fox Sports 2 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
