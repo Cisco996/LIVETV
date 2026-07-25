@@ -5,7 +5,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="clubfriendlycelticvsacmilan" tvg-name="Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Celtic 🏴 vs AC Milan 🇮🇹 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Celtic 🏴_vs_AC Milan 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Celtic 🏴 vs AC Milan 🇮🇹 (14:00)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="clubfriendlybolognavsiraklissaloniki" tvg-name="Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki (14:00)" tvg-logo="https://images.news18.com/ibnlive/uploads/2022/12/untitled-design-7-7-167039895416x9.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki (14:00)
+#EXTINF:-1 tvg-id="clubfriendlybolognavsiraklissaloniki" tvg-name="Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Bologna_vs_Iraklis Saloniki.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki (14:00)
 https://dlhd.st/watch.php?id=3046
 
 #EXTINF:-1 tvg-id="clubfriendlytorinovscittadella" tvg-name="Club Friendly ⚽ | ⚽ 🇧🇪 Club Friendly : Torino vs Cittadella (15:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Torino_vs_Cittadella.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇧🇪 Club Friendly : Torino vs Cittadella (15:00)
@@ -17,45 +17,39 @@ https://dlhd.st/watch.php?id=870
 #EXTINF:-1 tvg-id="clubfriendlystandardliègevsjuventus" tvg-name="Club Friendly ⚽ | ⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Standard Liège 🇧🇪_vs_Juventus 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹 (18:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)" tvg-logo="https://i.pinimg.com/originals/ae/8a/b9/ae8ab99f2b5fd5c33256815f42f68957.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)
+#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)" tvg-logo="https://cdn11.bigcommerce.com/s-bww8pl8b01/images/stencil/1280x1280/products/295273/329050/172566__99290.1636806997.png?c=1" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)" tvg-logo="https://boyama-sayfasi.com/wp-content/uploads/2025/12/minik-ejderha-boyama-sayfasi.png?v=1764626633" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)
+#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)" tvg-logo="https://clockdiary.com/wp-content/uploads/2025/01/1.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (11:00)
 https://dlhd.st/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula3awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (08:05)" tvg-logo="https://i.etsystatic.com/22885960/r/il/c863ec/4302314531/il_300x300.4302314531_tl9v.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (08:05)
+#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)" tvg-logo="https://i.pinimg.com/originals/8e/73/bc/8e73bcc98bc1f3c84b31e7c7131d8a3c.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)
 https://dlhd.st/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula3awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (08:05)" tvg-logo="https://images.genius.com/b5f04262b9d4b8fd6e2883c7437cc88a.1000x1000x1.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (08:05)
+#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)" tvg-logo="https://iv1.lisimg.com/image/23401467/740full-caroline-carvalho.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)
 https://dlhd.st/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)" tvg-logo="https://www.youtubemultiplier.com/thumb/2024/04/26/662aec937c320-4-gummy-bears-my-version.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)
+#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)" tvg-logo="https://thumbs.modthesims2.com/img/1/0/2/5/5/6/5/4/MTS_plumbobkingdom-2076405-1.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)
 https://dlhd.st/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)" tvg-logo="https://www.funtasticrides.com/wp-content/uploads/2021/04/skateboard-diagram.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (10:30)
+#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)" tvg-logo="https://oladino.com/wp-content/uploads/2024/10/Funny-Cat-Memes-6.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)
 https://dlhd.st/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/labratscast.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)
+#EXTINF:-1 tvg-id="formula1awshungariangrandprixqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (14:00)" tvg-logo="https://i.etsystatic.com/53496162/r/il/6e2a3c/6415749539/il_794xN.6415749539_tgok.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (14:00)
 https://dlhd.st/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20230804/pngtree-field-of-pink-flowers-at-sunrise-image_12999565.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (12:15)
-https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="formula1awshungariangrandprixqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (14:00)" tvg-logo="https://coffee-bike.com/fileadmin/_processed_/4/2/csm_arabica-vs-robusta_Grafik_20250612_english_0971b46d74.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (14:00)
-https://dlhd.st/watch.php?id=577
-
-#EXTINF:-1 tvg-id="tourdefrancestage20mountain171km5450m" tvg-name="Cycling 🚴 | 🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m (09:30)" tvg-logo="https://zhongces3.sina.com.cn/product/20201214/9ae1de9595fd346dbbad4595b0f87da2.jpeg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m (09:30)
+#EXTINF:-1 tvg-id="tourdefrancestage20mountain171km5450m" tvg-name="Cycling 🚴 | 🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m (09:30)" tvg-logo="https://www.thegpstime.com/wp-content/uploads/2024/10/New-Wi-Fi-Bluetooth-Solutions.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m (09:30)
 https://dlhd.st/watch.php?id=878
 
-#EXTINF:-1 tvg-id="fieworldchampionshipshongkongday1" tvg-name="Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (10:30)" tvg-logo="https://i.pinimg.com/originals/4e/98/a9/4e98a9fde6a44354e104b4ed7305de22.png" group-title="Eventi Live DLHD",Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (10:30)
+#EXTINF:-1 tvg-id="fieworldchampionshipshongkongday1" tvg-name="Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (10:30)" tvg-logo="https://jooinn.com/images/landscape-251.jpg" group-title="Eventi Live DLHD",Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (10:30)
 https://dlhd.st/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonwomenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (13:15)" tvg-logo="https://www.mappr.co/wp-content/uploads/2023/03/us-georgia-county-map.png" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (13:15)
+#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonwomenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (13:15)" tvg-logo="https://s8968.pcdn.co/crn/wp-content/uploads/sites/7/2026/03/Elahe-Javadi.png" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (13:15)
 https://dlhd.st/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonmenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (15:00)" tvg-logo="https://iv1.lisimg.com/image/1830417/525full-valerie-van-der-graaf.jpg" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (15:00)
+#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonmenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (15:00)" tvg-logo="https://www.jasminebridal.com/productimg/bridal-dresses-T212013-F.jpg" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (15:00)
 https://dlhd.st/watch.php?id=879
 
-#EXTINF:-1 tvg-id="commonwealthgamesglasgowday2s2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (18:00)" tvg-logo="https://cms.bibliography.com/wp-content/uploads/2020/08/APA-Reference-page-example.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (18:00)
+#EXTINF:-1 tvg-id="commonwealthgamesglasgowday2s2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (18:00)" tvg-logo="https://happenstancewhiskey.com/cdn/shop/files/6_1000x.png?v=1689169810" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (18:00)
 https://dlhd.st/watch.php?id=878
 
