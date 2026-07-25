@@ -1,46 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Oneplay.Sport.1.FHD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/oneplay-sport-1-fhd-cz.webp",[Soccer] 2026-07-25 17:00 - Czech Republic - 1. Liga - Zbrojovka Brno vs Sparta Praha (Oneplay Sport 1 FHD CZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Oneplay%20Sport%201%20FHD%20CZ&code=cz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Oneplay.Sport.4.FHD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/oneplay-sport-4-fhd-cz.webp",[Soccer] 2026-07-25 17:00 - Czech Republic - 1. Liga - Zbrojovka Brno vs Sparta Praha (Oneplay Sport 4 FHD CZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Oneplay%20Sport%204%20FHD%20CZ&code=cz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.3.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-3-premium-fhd-rs.webp",[Soccer] 2026-07-25 17:00 - Serbia - Super Liga - IMT Novi Beograd vs Zemun (Arena Sport 3 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Match.Football.3.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-3-ru.webp",[Soccer] 2026-07-25 17:00 - Serbia - Super Liga - OFK Beograd vs Radnik Surdulica (Match Football 3 RU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Football%203%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.10.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-10-fhd-rs.webp",[Soccer] 2026-07-25 17:00 - Serbia - Super Liga - OFK Beograd vs Radnik Surdulica (Arena Sport 10 FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%2010%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-25 17:00 - Serbia - Super Liga - OFK Beograd vs Radnik Surdulica (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/max-sport-1-fhd-hr.webp",[Soccer] 2026-07-25 17:00 - Club Friendly - Osijek vs Çaykur Rizespor (Max Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/max-sport-2-fhd-hr.webp",[Soccer] 2026-07-25 17:00 - Club Friendly - Osijek vs Çaykur Rizespor (Max Sport 2 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Diema.Sport.HD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/diema-sport-hd-bg.webp",[Soccer] 2026-07-25 17:15 - Bulgaria - Parva Liga - Lokomotiv Sofia 1929 vs Levski Sofia (Diema Sport HD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%20HD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.3.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-3-fhd-hr.webp",[Soccer] 2026-07-25 17:15 - Bulgaria - Parva Liga - Lokomotiv Sofia 1929 vs Levski Sofia (Sportklub 3 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%203%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.5.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-5-hd-hr.webp",[Soccer] 2026-07-25 17:15 - Slovenia - Prva Liga - Maribor vs Brinje Grosuplje (Sport Klub 5 HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%205%20HD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-3-fhd-pl.webp",[Soccer] 2026-07-25 17:15 - Poland - Ekstraklasa - Lech Poznań vs Cracovia Kraków (Canal+ Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportdigital.Fussball.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball-fhd-de.webp",[Soccer] 2026-07-25 17:15 - Poland - Ekstraklasa - Lech Poznań vs Cracovia Kraków (Sportdigital Fussball FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportdigital%20Fussball%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-25 17:15 - Poland - Ekstraklasa - Lech Poznań vs Cracovia Kraków (Fox Sports 1 FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.Sports.Xtra.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-25 17:15 - Poland - Ekstraklasa - Lech Poznań vs Cracovia Kraków (beIN Sports Xtra FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Xtra%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[Soccer] 2026-07-25 17:15 - Poland - Ekstraklasa - Lech Poznań vs Cracovia Kraków (Arena Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1x2.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1x2-fhd-rs.webp",[Soccer] 2026-07-25 17:15 - Poland - Ekstraklasa - Lech Poznań vs Cracovia Kraków (Arena Sport 1x2 FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201x2%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.4.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-4-premium-fhd-rs.webp",[Soccer] 2026-07-25 17:30 - Switzerland - Super League - FC Luzern vs FC Thun (Arena Sport 4 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%204%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.4.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-4-fhd-hr.webp",[Soccer] 2026-07-25 17:30 - Switzerland - Super League - FC Luzern vs FC Thun (Sportklub 4 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%204%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-25 17:30 - Club Friendly - Sporting CP vs Monaco (Sport TV 1 FHD PT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Esport.3.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/esport-3-hd.webp",[Soccer] 2026-07-25 17:30 - Club Friendly - Espanyol vs Sabadell (Esport 3 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Esport%203%20HD&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.Premium.FHD.CL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/chile/tnt-sports-premium-fhd-cl.webp",[Soccer] 2026-07-25 18:00 - Chile - Primera División - Coquimbo Unido vs Universidad de Concepción (TNT Sports Premium FHD CL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%20Premium%20FHD%20CL&code=cl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Viaplay.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2-fhd-uk.webp",[Soccer] 2026-07-25 18:00 - Club Friendly - Porto vs Aston Villa (Viaplay Sports 2 FHD UK)
@@ -129,8 +87,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-26 01:30 - American Major League Soccer - San Diego FC vs FC Dallas (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-07-25 17:00 - WFA National Championship - Pittsburgh Passion vs Minnesota Vixen (ESPN 2 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-07-25 18:00 - 2026 NFL Flag Championships -  vs  (NFL Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Mix.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix-fhd-uk.webp",[NFL] 2026-07-25 18:00 - 2026 NFL Flag Championships -  vs  (Sky Sports Mix FHD UK)
@@ -139,12 +95,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-07-25 18:00 - 2026 NFL Flag Championships -  vs  (ESPN FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-07-25 19:00 - 2026 NFL Flag Championships -  vs  (ESPN FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-07-25 19:00 - 2026 NFL Flag Championships -  vs  (NFL Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Mix.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix-fhd-uk.webp",[NFL] 2026-07-25 19:00 - 2026 NFL Flag Championships -  vs  (Sky Sports Mix FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-07-25 19:00 - 2026 NFL Flag Championships -  vs  (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[NFL] 2026-07-25 19:00 - 2026 NFL Flag Championships -  vs  (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="VICE.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/vice-fhd-us.webp",[NFL] 2026-07-25 19:00 - Arena Football One - Kentucky Barrels vs Michigan Arsenal (VICE FHD US)
@@ -745,8 +701,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20SD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-31 22:05 - MLB - Atlanta Braves vs San Francisco Giants (beIN SPORTS MAX 4 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%204%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.8.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-8-nz.webp",[Basketball] 2026-07-25 17:00 - Glasgow 2026 – 3x3 Basketball -  vs  (Sky Sport 8 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%208%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.04.|.Brampton.Honey.Badgers.@.Winnipeg.Sea.Bears.|.CEBL.Regular.Season.|.Sat.Jul.25.2026.3:30PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-25 18:30 - CEBL - Winnipeg Sea Bears vs Brampton Honey Badgers (CEBL 04 | Brampton Honey Badgers @ Winnipeg Sea Bears | CEBL Regular Season | Sat Jul 25 2026 3:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2004%20%7C%20Brampton%20Honey%20Badgers%20%40%20Winnipeg%20Sea%20Bears%20%7C%20CEBL%20Regular%20Season%20%7C%20Sat%20Jul%2025%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBC.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/cbc-hd-ca.webp",[Basketball] 2026-07-25 18:30 - CEBL - Winnipeg Sea Bears vs Brampton Honey Badgers (CBC HD CA)
@@ -1351,14 +1305,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-07-26 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Motorsport] 2026-07-25 17:00 - Polish U21 Speedway Championship Final -  vs  (TVP Sport FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CW.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp",[Motorsport] 2026-07-25 19:00 - NASCAR Xfinity Series -  vs  (CW US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CW%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NY.|.New.York.|..CW.WPIX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 19:00 - NASCAR Xfinity Series -  vs  (NY | New York |  CW WPIX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NY%20%7C%20New%20York%20%7C%20%20CW%20WPIX&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Ziggo.Sport.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3-fhd-nl.webp",[Motorsport] 2026-07-25 19:00 - NASCAR Xfinity Series -  vs  (Ziggo Sport 3 FHD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 19:00 - NASCAR Xfinity Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 19:00 - NASCAR Xfinity Series -  vs  (USA Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 19:00 - NASCAR Xfinity Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.info" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Apple TV+ Series info)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Apple TV+ Series 1)
@@ -1699,14 +1651,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (Arena Sport 1 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-25 17:30 - PDC Darts – Semi-finals -  vs  (Sky Sports Arena HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-25 17:30 - PDC Darts – Semi-finals -  vs  (Sky Sports Arena UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-25 17:30 - PDC Darts – Semi-finals -  vs  (Sky Sports Action HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-25 17:30 - PDC Darts – Semi-finals -  vs  (Sky Sports Main Event HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[Horse Racing] 2026-07-25 18:00 - Horse Racing -  vs  (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Horse Racing] 2026-07-25 18:00 - Horse Racing -  vs  (FOX 5 New York)
