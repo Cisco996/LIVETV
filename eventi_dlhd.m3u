@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlykarlsruherscvsintermilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Karlsruher SC 🇩🇪_vs_Inter Milan 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)
-https://dlhd.st/watch.php?id=870
-
 #EXTINF:-1 tvg-id="clubfriendlynapolivscarrarese" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Carrarese 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Napoli 🇮🇹_vs_Carrarese 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Carrarese 🇮🇹 (16:00)
 https://dlhd.st/watch.php?id=10
 
@@ -14,15 +11,6 @@ https://dlhd.st/watch.php?id=3045
 #EXTINF:-1 tvg-id="clubfriendlyromavscannes" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Roma vs Cannes (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Roma_vs_Cannes.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Roma vs Cannes (16:00)
 https://dlhd.st/watch.php?id=3046
 
-#EXTINF:-1 tvg-id="mxgpworldchampionshipczechiamx2race2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MX2 Race 2 (14:00)" tvg-logo="https://www.pj-watch.com/wp-content/uploads/2024/04/Tag-Heuer-Sel-Professional-200M-Stainless-Steel-White-Dial-Ref.WG1310.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MX2 Race 2 (14:00)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="mxgpworldchampionshipczechiamxgprace2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 2 (15:00)" tvg-logo="https://www.huboo.com/wp-content/uploads/2022/11/morep-w.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 2 (15:00)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="tourdefrancestage21flat130km1000m" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1,000 m (14:25)" tvg-logo="https://www.gothamtg.com/pub/partner-logos/20220629104143_loginvsi.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1,000 m (14:25)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="commonwealthgamesglasgow2026day3session2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 🌍 Commonwealth Games Glasgow 2026 - Day 3 Session 2 : Swimming &amp; Para Swimming (18:00)" tvg-logo="https://www.pngkit.com/png/detail/380-3808442_cruz-azul-16-17-womens-home-soccer-jersey.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🌍 Commonwealth Games Glasgow 2026 - Day 3 Session 2 : Swimming &amp; Para Swimming (18:00)
+#EXTINF:-1 tvg-id="commonwealthgamesglasgow2026day3session2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 🌍 Commonwealth Games Glasgow 2026 - Day 3 Session 2 : Swimming &amp; Para Swimming (18:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nail_svg_hariadhi.svg/340px-Nail_svg_hariadhi.svg.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🌍 Commonwealth Games Glasgow 2026 - Day 3 Session 2 : Swimming &amp; Para Swimming (18:00)
 https://dlhd.st/watch.php?id=878
 
