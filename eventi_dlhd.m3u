@@ -1,1 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="clubfriendlykarlsruherscvsintermilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Karlsruher SC 🇩🇪_vs_Inter Milan 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivscarrarese" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Carrarese 🇮🇹 (16:00)" tvg-logo="https://makylacreates.com/wp-content/uploads/2023/06/free-dress-sewing-patterns.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Carrarese 🇮🇹 (16:00)
+https://dlhd.st/watch.php?id=10
+
+#EXTINF:-1 tvg-id="clubfriendlylaziovsflaminia" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Lazio vs Flaminia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Lazio_vs_Flaminia.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Lazio vs Flaminia (16:00)
+https://dlhd.st/watch.php?id=3045
+
+#EXTINF:-1 tvg-id="clubfriendlyromavscannes" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Roma vs Cannes (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Roma_vs_Cannes.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Roma vs Cannes (16:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="atpkitzbühelfinalatpestorilsemifinalswtahamburgsemifinalswtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 🌍 ATP Kitzbühel Final | ATP Estoril Semi-finals | WTA Hamburg Semi-finals | WTA Prague Semi-finals (09:00)" tvg-logo="https://i.pinimg.com/originals/a2/02/1b/a2021bb7b6a7040ad1cfde349c23c865.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🌍 ATP Kitzbühel Final | ATP Estoril Semi-finals | WTA Hamburg Semi-finals | WTA Prague Semi-finals (09:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpkitzbühelfinalatpestorilsemifinalswtahamburgsemifinalswtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 🌍 ATP Kitzbühel Final | ATP Estoril Semi-finals | WTA Hamburg Semi-finals | WTA Prague Semi-finals (09:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce73bbae-5f55-4c70-a490-6feaa4cff415/dguk0a8-b1f6e426-c474-4d30-8b89-b9af90094604.png/v1/fill/w_1280,h_536,q_80,strp/sony_pictures_animation_logo__2018__colour_swap_by_ethanob_dguk0a8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM2IiwicGF0aCI6IlwvZlwvY2U3M2JiYWUtNWY1NS00YzcwLWE0OTAtNmZlYWE0Y2ZmNDE1XC9kZ3VrMGE4LWIxZjZlNDI2LWM0NzQtNGQzMC04Yjg5LWI5YWY5MDA5NDYwNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kip7wiiXILy70elZJnBB25OZLaCUHCM4D8yIEK1CwIQ" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🌍 ATP Kitzbühel Final | ATP Estoril Semi-finals | WTA Hamburg Semi-finals | WTA Prague Semi-finals (09:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="formula2hungariangrandprixrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 2 : Hungarian Grand Prix – Race (09:25)" tvg-logo="https://wallpapers.com/images/hd/cozy-winter-desktop-im9pwp1t7bjof0pc.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 2 : Hungarian Grand Prix – Race (09:25)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2hungariangrandprixrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 2 : Hungarian Grand Prix – Race (09:25)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85c5df46-ccd1-41fa-83a9-16f2920dd852/dbjczic-07e3c48a-ddae-4d79-97ea-82e01f322380.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg1YzVkZjQ2LWNjZDEtNDFmYS04M2E5LTE2ZjI5MjBkZDg1MlwvZGJqY3ppYy0wN2UzYzQ4YS1kZGFlLTRkNzktOTdlYS04MmUwMWYzMjIzODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._bxl-FmUD0kJ4Y_fPL9fWz-wrxzdOmDUmDa-MA5cPsE" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 2 : Hungarian Grand Prix – Race (09:25)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="formulaetokyorace" tvg-name="Motorsport 🏎️🏁 | ⚡ 🇯🇵 Formula E Tokyo : Race (10:00)" tvg-logo="https://www.knocknagorps.com/cmsfiles/items/news/IMG_0524_2.jpeg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | ⚡ 🇯🇵 Formula E Tokyo : Race (10:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="formula1hungariangrandprixgrandprixsunday" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 1 : Hungarian Grand Prix – Grand Prix Sunday (12:00)" tvg-logo="https://i.kym-cdn.com/photos/images/original/002/785/473/957.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 1 : Hungarian Grand Prix – Grand Prix Sunday (12:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="mxgpworldchampionshipczechiamxgprace1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 1 (12:00)" tvg-logo="https://content.bartleby.com/qna-images/question/81176b90-281c-4446-b072-14429a5a9ecd/c5f66e52-906f-499b-afeb-c937708eae1a/t3ktsej_thumbnail.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 1 (12:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="formula1hungariangrandprixrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 1 : Hungarian Grand Prix – Race (13:00)" tvg-logo="https://pics.filmaffinity.com/rye_lane-372760216-large.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇭🇺 Formula 1 : Hungarian Grand Prix – Race (13:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="mxgpworldchampionshipczechiamx2race2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MX2 Race 2 (14:00)" tvg-logo="https://i.discogs.com/hf70kdjHsFO9WdC5ZEVE_mHEXwrHByNOtMgcotqUg60/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTI0/NjgtMTU3NjQwODky/MC02Nzk5LnBuZw.jpeg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MX2 Race 2 (14:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="mxgpworldchampionshipczechiamxgprace2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 2 (15:00)" tvg-logo="https://www.hawtcelebs.com/wp-content/uploads/2023/11/natalie-portman-at-may-december-premiere-in-los-angeles-11-16-2023-0.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 2 (15:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="tourofpolandwomenstage3janowiectolublin1014km" tvg-name="Cycling 🚴 | 🚴 🇵🇱 Tour of Poland Women : Stage 3 – Janowiec to Lublin (101.4 km) (12:00)" tvg-logo="https://www.alucare.fr/wp-content/uploads/2022/06/Convoi-Woods-1024x689.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇵🇱 Tour of Poland Women : Stage 3 – Janowiec to Lublin (101.4 km) (12:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="tourdefrancestage21flat130km1000m" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1,000 m (14:25)" tvg-logo="https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1,000 m (14:25)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="fieworldfencingchampionshipshongkongday2" tvg-name="Fencing 🤺 | 🤺 🌍 FIE World Fencing Championships Hong Kong : Day 2 (10:00)" tvg-logo="https://i.pinimg.com/originals/a5/e5/2e/a5e52ef011244e9b4473fc580c9d37a3.jpg" group-title="Eventi Live DLHD",Fencing 🤺 | 🤺 🌍 FIE World Fencing Championships Hong Kong : Day 2 (10:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="mensgoldmedalgame" tvg-name="Water polo 🤽 | 🏐 🥇 Men's Gold Medal Game : (08:00)" tvg-logo="https://i.pinimg.com/originals/03/4d/49/034d497f89f10967f16697c455cd4024.jpg" group-title="Eventi Live DLHD",Water polo 🤽 | 🏐 🥇 Men's Gold Medal Game : (08:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="commonwealthgamesglasgow2026day3session2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 🌍 Commonwealth Games Glasgow 2026 - Day 3 Session 2 : Swimming &amp; Para Swimming (18:00)" tvg-logo="https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🌍 Commonwealth Games Glasgow 2026 - Day 3 Session 2 : Swimming &amp; Para Swimming (18:00)
+https://dlhd.st/watch.php?id=878
+
