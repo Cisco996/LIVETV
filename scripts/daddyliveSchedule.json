@@ -3392,6 +3392,22 @@
                     {
                         "channel_name": "PDC TV",
                         "channel_id": "43"
+                    },
+                    {
+                        "channel_name": "Board 1",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Board 2",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Board 3",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Board 4",
+                        "channel_id": "5003"
                     }
                 ]
             }
