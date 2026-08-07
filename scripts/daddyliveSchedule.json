@@ -1618,6 +1618,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -1907,7 +1911,7 @@
                     },
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "7010"
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -1942,6 +1946,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4121"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -5446,6 +5454,30 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7022"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfc9 \ud83c\udff4 Super League Rugby : Leigh Leopards vs York Knights",
+                "channels": [
+                    {
+                        "channel_name": "RugbyTV",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfc9 \ud83c\udff4 Super League Rugby : Castleford Tigers vs Hull Kingston Rovers",
+                "channels": [
+                    {
+                        "channel_name": "Rugby Stream",
+                        "channel_id": "7024"
                     }
                 ]
             }
