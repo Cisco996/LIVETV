@@ -529,6 +529,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sports.Encore.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum Sports Encore US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sports%20Encore%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum Sportsnet HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum Sportsnet LA Dodgers HD US)
@@ -537,6 +539,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20LA%20Do
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20SportsNet%20Lakers%20Alternate%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum SportsNet Lakers FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20SportsNet%20Lakers%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%201&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%203&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%204&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.5" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 5)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%205&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%206&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 7)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%207&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 8)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%208&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 9)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%209&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV 10)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%2010&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV TR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20TR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBA.TV.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv-fhd-us.webp",[Basketball] 2026-08-15 02:00 - WNBA - Seattle Storm vs Portland Fire (NBA TV FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-us.webp",[Basketball] 2026-08-16 00:00 - WNBA - Las Vegas Aces vs Minnesota Lynx (CBS US)
