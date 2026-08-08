@@ -1,10 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="atpmasters1000montrealampwta1000torontoday5session2" tvg-name="Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 2 (23:00)" tvg-logo="https://nyvelocity.com/wp-content/uploads/2956844983_bf8078867d.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 2 (23:00)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpmasters1000montrealampwta1000torontoday5session2" tvg-name="Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 2 (23:00)" tvg-logo="https://www.tennessean.com/gcdn/authoring/authoring-images/2025/07/14/USAT/85200009007-dsf-2325.jpeg?crop=2801" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 2 (23:00)
-https://dlhd.st/watch.php?id=576
-
