@@ -277,8 +277,10 @@ https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
 https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Altro",RADIONORBA TV
 https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (1)
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -313,8 +315,6 @@ https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (2)
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
-https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTM
 https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -855,6 +855,8 @@ https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="" group-title="Film - Serie TV",SKY CRIME
 https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
+https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10 (1)
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10 (2)
