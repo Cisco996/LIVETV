@@ -1,5 +1,17 @@
 {
     "Tuesday 11th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:45",
+                "event": "Wings Sprint Car Shootout Marshalltown",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "151"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -478,6 +490,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7060"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -500,6 +516,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7059"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -554,6 +574,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -1385,7 +1409,7 @@
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
-                        "channel_id": "4114"
+                        "channel_id": "7014"
                     }
                 ]
             },
