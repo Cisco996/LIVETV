@@ -1,1 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="uefasupercuppsgvsastonvilla" tvg-name="UEFA Super Cup ⚽ | ⚽ 🇫🇷🏴 UEFA Super Cup: PSG 🇫🇷 vs Aston Villa 🏴 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/PSG 🇫🇷_vs_Aston Villa 🏴.png" group-title="Eventi Live DLHD",UEFA Super Cup ⚽ | ⚽ 🇫🇷🏴 UEFA Super Cup: PSG 🇫🇷 vs Aston Villa 🏴 (19:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivsaris" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷 (19:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-7.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷 (19:00)
+https://dlhd.st/watch.php?id=20
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivsaris" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Napoli 🇮🇹_vs_Aris 🇬🇷.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷 (19:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="atpmontrealatpnationalbankopenwta1000torontosemifinal1" tvg-name="Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1 (20:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018–present%29.svg/640px-Microsoft_Office_Teams_%282018–present%29.svg.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1 (20:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpmontrealatpnationalbankopenwta1000torontosemifinal1" tvg-name="Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1 (20:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b6257bb-84bf-4d68-b3ea-ca4eda474c03/djnhqfr-961dc403-c1b4-465a-aed9-f8847face968.png/v1/fill/w_894,h_894,q_70,strp/shot_in_the_butt___burglar_ali_loses_again___by_sanders2192_djnhqfr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzBiNjI1N2JiLTg0YmYtNGQ2OC1iM2VhLWNhNGVkYTQ3NGMwM1wvZGpuaHFmci05NjFkYzQwMy1jMWI0LTQ2NWEtYWVkOS1mODg0N2ZhY2U5NjgucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zkfX8XkyioiqkZBCGMIa9xIk8WcP36iDb6WZakEuB1M" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1 (20:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="chinaopennopponsaengkhamvsronnieosullivan" tvg-name="Snooker 🎱 | 🎱 🇨🇳 China Open: Noppon Saengkham 🇹🇭 vs Ronnie O'Sullivan 🏴 (11:30)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de4bcadf-ff8a-412a-9c2f-b4671c286351/dgq2rwp-30fd6f36-45fd-489e-a789-add195b99d7a.png/v1/fill/w_1280,h_1255,q_80,strp/jevil___deltarune_by_carlcrimes66_dgq2rwp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI1NSIsInBhdGgiOiJcL2ZcL2RlNGJjYWRmLWZmOGEtNDEyYS05YzJmLWI0NjcxYzI4NjM1MVwvZGdxMnJ3cC0zMGZkNmYzNi00NWZkLTQ4OWUtYTc4OS1hZGQxOTViOTlkN2EucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.5oMvvGXeY5GwDWXVy_41GeCCfyLsENk6GCF452XhQf8" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 China Open: Noppon Saengkham 🇹🇭 vs Ronnie O'Sullivan 🏴 (11:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamday3daysession" tvg-name="Athletics 🏃 | 🏃 🇬🇧 European Championships Birmingham | Day 3 | Day Session (09:30)" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Robert-Downey-Jr-PNG-Photo-Image-preview.webp" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 European Championships Birmingham | Day 3 | Day Session (09:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamday3nightsession" tvg-name="Athletics 🏃 | 🏃 🇬🇧 European Championships Birmingham | Day 3 | Night Session (18:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/dfaxrtf-9fb2301b-10ac-4569-ba4e-ef9d8908e31f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1NjdkYWVkLTVmYjAtNDRhYy1hOWRhLTVhN2VhZDVhOGYzMVwvZGZheHJ0Zi05ZmIyMzAxYi0xMGFjLTQ1NjktYmE0ZS1lZjlkODkwOGUzMWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cN8LeGTwQqMLkX5goJaQppZTyW9mEqfKh-GIuxXUZDo" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 European Championships Birmingham | Day 3 | Night Session (18:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="openwaterswimmingeuropeanaquaticsportschampionshipsfinal5kmmen" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 Open Water Swimming European Aquatic Sports Championships Final 5 KM Men (08:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebef943272c1041d83b1d15/974fc0a2-ce3a-437e-8dba-17c1a5e565b4/Glute+Bridge+March.png?format=1500w" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 Open Water Swimming European Aquatic Sports Championships Final 5 KM Men (08:00)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="paris2026swimmingpoolsemifinalsandfinals" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals (12:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals (12:00)
+https://dlhd.st/watch.php?id=460
+
