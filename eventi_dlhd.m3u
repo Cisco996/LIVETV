@@ -1,1 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="atpwtacincinnatiopenlindnerfamilytenniscenter" tvg-name="Tennis 🎾 | 🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸 (15:00)" tvg-logo="https://assets.fontsinuse.com/static/renders/43/40633/800/1/642dd0c4/modern-love.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸 (15:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpwtacincinnatiopenlindnerfamilytenniscenter" tvg-name="Tennis 🎾 | 🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸 (15:00)" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-7r991-lny2meu3rf29d8" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸 (15:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="atpmontrealatpnationalbankopenwta1000torontofinal" tvg-name="Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦 (23:00)" tvg-logo="https://www.ernstssons.se/wp-content/uploads/2024/04/Farval-krans.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦 (23:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpmontrealatpnationalbankopenwta1000torontofinal" tvg-name="Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦 (23:00)" tvg-logo="https://ranchfenceinc.com/wp-content/uploads/2023/07/chain-link-fence-with-barbed-wire-010.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦 (23:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="chinaopenround2" tvg-name="Snooker 🎱 | 🎱 🇨🇳 China Open: Round 2 🇨🇳 (11:30)" tvg-logo="https://symbolikon.com/wp-content/uploads/edd/2019/09/astrology-saturn-bold-400w.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 China Open: Round 2 🇨🇳 (11:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipbirminghamday4" tvg-name="Athletics 🏃 | 🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧 (09:30)" tvg-logo="https://collectionapi.metmuseum.org/api/collection/v1/iiif/463377/1768091/main-image" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧 (09:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipbirminghamday4" tvg-name="Athletics 🏃 | 🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧 (17:10)" tvg-logo="https://thetraditionalcatholicmusicianmom.com/wp-content/uploads/2025/02/TLM-WEDDING-Music-Pinterest-1.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧 (17:10)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="czechtourstage1menpraguekarlovyvary16321km" tvg-name="Cycling 🚴 | 🚴 🇨🇿 Czech Tour | Stage 1 Men | Prague – Karlovy Vary (163.21 km) 🇨🇿 (13:00)" tvg-logo="https://www.northeastcove.com/wp-content/uploads/2023/05/Must-See-Historic-Sites-And-Museums-In-Nova-Scotia.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇿 Czech Tour | Stage 1 Men | Prague – Karlovy Vary (163.21 km) 🇨🇿 (13:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="arcticraceofnorwaystage1menevenesmyre1817km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway | Stage 1 Men | Evenes – Myre (181.7 km) 🇳🇴 (14:15)" tvg-logo="https://i.redd.it/c78eft59npcb1.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway | Stage 1 Men | Evenes – Myre (181.7 km) 🇳🇴 (14:15)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="paris2026swimmingpoolsemifinalsandfinals" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷 (12:00)" tvg-logo="https://c8.alamy.com/comp/2A19CW8/dubrovnik-cable-car-from-the-panorama-viewpoint-looking-down-at-dubrovnik-old-town-the-dalmatian-coast-and-lokrum-island-mt-srd-dubrovnik-croatia-2A19CW8.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷 (12:00)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipseuropeanaquaticsparis2026" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 🇫🇷 (15:00)" tvg-logo="https://icom-deutschland.de/wp-content/uploads/2026/05/DMB_IMT_2026-213x300.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 🇫🇷 (15:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipseuropeanaquaticsparis2026artisticswimmingacrobatic" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 – Artistic Swimming Acrobatic 🇫🇷 (19:00)" tvg-logo="https://pboadvisory.com/wp-content/uploads/2022/06/Rachel-Allen-modified-1024x1024.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 – Artistic Swimming Acrobatic 🇫🇷 (19:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="paris2026swimmingpoolsemifinalsandfinals" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷 (20:00)" tvg-logo="https://media.tenor.com/3E7-uNANfmcAAAAe/chris-hemsworth-flying.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷 (20:00)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="paris2026swimmingpoolsemifinalsandfinals" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷 (20:00)" tvg-logo="https://babesandcuties.com/wp-content/uploads/2020/04/ot-25542-summer-hut-and-pantyhose-01.jpeg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷 (20:00)
+https://dlhd.st/watch.php?id=882
+
