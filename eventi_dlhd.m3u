@@ -1,1 +1,85 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="clubfriendlymanchesterunitedvsmilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹 (14:45)" tvg-logo="https://templable.com/wp-content/uploads/2023/06/color1.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹 (14:45)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="clubfriendlymanchesterunitedvsmilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹 (14:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Manchester United 🏴_vs_Milan 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹 (14:45)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="clubfriendlyinternazionalevsrealbetis" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (17:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Internazionale 🇮🇹_vs_Real Betis 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (17:30)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="clubfriendlyinternazionalevsrealbetis" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (17:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Internazionale 🇮🇹_vs_Real Betis 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (17:30)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="italycoppaitaliacatanzarovssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Catanzaro 🇮🇹_vs_Südtirol 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (16:00)
+https://dlhd.st/watch.php?id=857
+
+#EXTINF:-1 tvg-id="italycoppaitaliacatanzarovssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Catanzaro 🇮🇹_vs_Südtirol 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (16:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="italycoppaitaliaudinesevscalciopadova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Udinese 🇮🇹_vs_Calcio Padova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (16:30)
+https://dlhd.st/watch.php?id=854
+
+#EXTINF:-1 tvg-id="italycoppaitaliaudinesevscalciopadova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Udinese 🇮🇹_vs_Calcio Padova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (16:30)
+https://dlhd.st/watch.php?id=3045
+
+#EXTINF:-1 tvg-id="italycoppaitaliaveneziavsmodena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Venezia 🇮🇹_vs_Modena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (18:45)
+https://dlhd.st/watch.php?id=857
+
+#EXTINF:-1 tvg-id="italycoppaitaliaveneziavsmodena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Venezia 🇮🇹_vs_Modena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (18:45)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="italycoppaitaliatorinovscarrarese" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (19:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Torino 🇮🇹_vs_Carrarese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (19:15)
+https://dlhd.st/watch.php?id=854
+
+#EXTINF:-1 tvg-id="italycoppaitaliatorinovscarrarese" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (19:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Torino 🇮🇹_vs_Carrarese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (19:15)
+https://dlhd.st/watch.php?id=3045
+
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (15:00)" tvg-logo="https://i.pinimg.com/736x/a0/b3/ef/a0b3efa09095c0ce63095678b272ed33.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (15:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (15:00)" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/66a7c568-3085-49ae-b120-361a7b99c41c.__CR0,0,970,600_PT0_SX970_V1___.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (15:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="chinaopensemifinal" tvg-name="Snooker 🎱 | 🎱 China Open : Semi-Final (06:00)" tvg-logo="https://jeux-de-roles.com/wp-content/uploads/2025/01/top-5-des-jeux-de-role-pour-enfants-2.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open : Semi-Final (06:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="chinaopensemifinal" tvg-name="Snooker 🎱 | 🎱 China Open : Semi-Final (11:30)" tvg-logo="https://www.wearethemighty.com/wp-content/uploads/2024/01/09/image-2.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open : Semi-Final (11:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="birmingham2026europeanathleticschampionshipsheptathlonlongjumpb" tvg-name="Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships : Heptathlon | Long Jump B (09:15)" tvg-logo="https://goodbyetattoos.com/wp-content/uploads/2024/03/progress-photo7-1024x1024.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships : Heptathlon | Long Jump B (09:15)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamround6morningsession" tvg-name="Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (12:00)" tvg-logo="https://crazylister.com/wp-content/uploads/2019/07/amazon-seller-central-dashboard.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (12:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamround6morningsession" tvg-name="Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (12:00)" tvg-logo="https://biographynews.co.uk/wp-content/uploads/2026/01/Natalie-Harp.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (12:00)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeanathleticschampionships6thdaysession" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : 6th Day Session (15:00)" tvg-logo="https://admin.animalgourmet.com/wp-content/uploads/2025/05/tipos-de-te-y-para-que-sirven-1.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : 6th Day Session (15:00)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeanathleticschampionshipsday6alexanderstadium" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : Day 6 – Alexander Stadium (18:45)" tvg-logo="https://sc02.alicdn.com/kf/Hbd50d10049fe48ad99b9120fc7fc4d494.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : Day 6 – Alexander Stadium (18:45)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="arcticraceofnorwaystage3menstokmarknesstorheiasummitmelbu1425km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (12:15)" tvg-logo="https://img.freepik.com/fotos-premium/huehner-auf-einem-feld_1048944-13914034.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (12:15)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="czechtourstage3menpardubicedlouhéstrán1708km" tvg-name="Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km) (13:30)" tvg-logo="https://50krecipes.com/wp-content/uploads/2025/09/u6982857984_Nashville-Style_Hot_Chicken_Sandwich_-sref_https_ce199b92-a759-495e-815b-6a46451956bb_3.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km) (13:30)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="arcticraceofnorwaystage3menstokmarknesstorheiasummitmelbu1425km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (15:00)" tvg-logo="https://i.pinimg.com/736x/a8/39/4a/a8394a2e53e2781cacd5ac0a0cb323fb.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (15:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipsaquaticsparis2026mens10mplatformdivingfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships Aquatics Paris 2026 : Men's 10m Platform Diving Final (14:00)" tvg-logo="https://wallpapers.com/images/hd/bradley-cooper-greyscale-beard-8z6nvjgwg0naxdgi.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships Aquatics Paris 2026 : Men's 10m Platform Diving Final (14:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (16:25)" tvg-logo="https://moneyinc.com/wp-content/uploads/2018/07/yamaha-star-motorcycle-750x429.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (16:25)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (16:25)" tvg-logo="https://s2.pictoa.com/media/galleries/255/319/2553196024129a2ca76/39092046024129c45f3d.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (16:25)
+https://dlhd.st/watch.php?id=851
+
