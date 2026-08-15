@@ -8,6 +8,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -1824,7 +1828,7 @@
                 ]
             },
             {
-                "time": "18:36",
+                "time": "18:59",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -5482,6 +5486,16 @@
                         "channel_id": "150"
                     }
                 ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfd1 World Cup - First Round: \ud83c\udde7\ud83c\uddea Belgium vs \ud83c\uddeb\ud83c\uddf7 France",
+                "channels": [
+                    {
+                        "channel_name": "RTL Sports",
+                        "channel_id": "177"
+                    }
+                ]
             }
         ],
         "Tennis \ud83c\udfbe ATP Cincinnati (USA) Hard": [
@@ -7552,6 +7566,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4034"
                     }
                 ]
             },
@@ -7570,6 +7588,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4033"
                     }
                 ]
             },
@@ -7592,6 +7614,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4035"
                     }
                 ]
             },
@@ -7618,6 +7644,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4036"
                     }
                 ]
             }
@@ -8170,6 +8200,10 @@
                     {
                         "channel_name": "TVA Sports CA",
                         "channel_id": "833"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -8184,6 +8218,10 @@
                     {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -8206,6 +8244,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -8220,6 +8262,10 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -8230,6 +8276,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -8240,6 +8290,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -8254,6 +8308,10 @@
                     {
                         "channel_name": "NBCS Philadelphia USA",
                         "channel_id": "777"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -8268,6 +8326,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -8278,6 +8340,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -8300,6 +8366,10 @@
                     {
                         "channel_name": "FOXNY USA",
                         "channel_id": "768"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -8322,6 +8392,10 @@
                     {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "494"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
