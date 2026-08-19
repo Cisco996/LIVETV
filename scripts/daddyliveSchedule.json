@@ -742,6 +742,18 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "6001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             }
@@ -1347,6 +1359,16 @@
             },
             {
                 "time": "19:00",
+                "event": "\u26bdBolivia Copa Bolivia : Academia del Balompie vs Real Potosi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "\u26bd Youth Sports Games: Football - FINAL (F)",
                 "channels": [
                     {
@@ -1504,6 +1526,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "6002"
                     }
                 ]
             },
@@ -1598,6 +1632,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "6003"
                     }
                 ]
             },
@@ -1664,6 +1710,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "6004"
                     }
                 ]
             },
@@ -1818,6 +1876,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "6005"
                     }
                 ]
             },
@@ -1944,6 +2010,18 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4123"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6"
                     }
                 ]
             },
@@ -2729,7 +2807,7 @@
                     },
                     {
                         "channel_name": "Tennis TV HD",
-                        "channel_id": "1081"
+                        "channel_id": "1080"
                     },
                     {
                         "channel_name": "Tennis Stream",
@@ -3298,6 +3376,10 @@
                     {
                         "channel_name": "Chicago Sports Network",
                         "channel_id": "776"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
                     }
                 ]
             },
