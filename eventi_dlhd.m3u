@@ -1,1 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="europeuefachampionsleaguecelticvslasklinz" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 Europe - UEFA Champions League : Celtic 🏴 vs LASK Linz 🇦🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Celtic 🏴_vs_LASK Linz 🇦🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 Europe - UEFA Champions League : Celtic 🏴 vs LASK Linz 🇦🇹 (19:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpwtacincinnatiopenlindnerfamilytenniscenter" tvg-name="Tennis 🎾 | 🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center (15:00)" tvg-logo="https://static.wikia.nocookie.net/mass-effect-rift/images/0/06/Citadel_reapers.png/revision/latest?cb=20190106094041" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center (15:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpwtacincinnatiopenlindnerfamilytenniscenter" tvg-name="Tennis 🎾 | 🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center (15:00)" tvg-logo="https://boxlifemagazine.com/wp-content/uploads/2025/06/Sumie-nagaki-1024x765.jpeg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center (15:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="mlbpittsburghpiratesvsdetroittigers" tvg-name="Baseball (MLB) ⚾ | ⚾ 🇺🇸 MLB : Pittsburgh Pirates 🇺🇸 vs Detroit Tigers 🇺🇸 (16:35)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Pittsburgh Pirates 🇺🇸_vs_Detroit Tigers 🇺🇸.png" group-title="Eventi Live DLHD",Baseball (MLB) ⚾ | ⚾ 🇺🇸 MLB : Pittsburgh Pirates 🇺🇸 vs Detroit Tigers 🇺🇸 (16:35)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="tourofbritainwomenstage1cockermouth1589km" tvg-name="Cycling 🚴 | 🚴 🇬🇧 Tour of Britain Women | Stage 1 Cockermouth (158.9km) (09:45)" tvg-logo="https://www.mydomaine.com/thmb/PZlc9CPmbtOe0l7Y9UFppMledbU=/1430x1146/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2020-05-26at4.49.04PM-8a552ed78dd44e6e98eafdc7ac2a4626.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇬🇧 Tour of Britain Women | Stage 1 Cockermouth (158.9km) (09:45)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="womensartisticgymnasticsworldchampionshipsinzagrebspecialtyfinals" tvg-name="Gymnastics 🤸 | 🤸 🇭🇷 Women's Artistic Gymnastics: World Championships in Zagreb, Specialty Finals (08:30)" tvg-logo="https://image.slidesharecdn.com/classificacaorobson-180309162956/95/classificao-de-robson-6-1024.jpg?cb=1661803743" group-title="Eventi Live DLHD",Gymnastics 🤸 | 🤸 🇭🇷 Women's Artistic Gymnastics: World Championships in Zagreb, Specialty Finals (08:30)
+https://dlhd.st/watch.php?id=882
+
