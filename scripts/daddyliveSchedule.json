@@ -700,6 +700,10 @@
                 "event": "\u26bd \ud83c\uddec\ud83c\uddf7 UEFA Europa League : Benfica vs AGF",
                 "channels": [
                     {
+                        "channel_name": "SIC Portugal",
+                        "channel_id": "722"
+                    },
+                    {
                         "channel_name": "TV Portugal",
                         "channel_id": "3021"
                     },
@@ -788,6 +792,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6012"
                     }
                 ]
             },
@@ -810,6 +818,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6013"
                     }
                 ]
             },
@@ -840,6 +852,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "178"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6014"
                     }
                 ]
             },
@@ -850,6 +866,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6015"
                     }
                 ]
             },
@@ -884,6 +904,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6016"
                     }
                 ]
             },
@@ -894,6 +918,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "180"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6017"
                     }
                 ]
             },
@@ -912,6 +940,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6019"
                     }
                 ]
             },
@@ -926,6 +958,14 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
                     }
                 ]
             },
@@ -948,6 +988,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
                     }
                 ]
             },
@@ -966,6 +1014,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6024"
                     }
                 ]
             },
@@ -996,6 +1052,28 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6020"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf9 UEFA Conference League : Gent vs Hibernian",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
                     }
                 ]
             },
@@ -1022,6 +1100,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6026"
                     }
                 ]
             },
@@ -1040,6 +1126,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
                     }
                 ]
             },
@@ -1100,6 +1194,16 @@
                     {
                         "channel_name": "Hajduk TV Croatia",
                         "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "\u26bd Club Friendly : Real Madrid II vs Zamora",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6018"
                     }
                 ]
             }
