@@ -2554,6 +2554,40 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n : Rubio \u00d1u vs Sportivo Trinidense",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Liverpool UY vs CA Cerro",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : The Strongest vs Club FC Universitario",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -4236,6 +4270,14 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4030"
                     }
                 ]
             },
@@ -4250,6 +4292,14 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4031"
                     }
                 ]
             },
@@ -4272,6 +4322,14 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4032"
                     }
                 ]
             }
@@ -4792,6 +4850,32 @@
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfc0 \ud83c\uddfa\ud83c\uddf8 WNBA : Golden State Valkyries W vs. Chicago Sky W",
+                "channels": [
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -4810,6 +4894,14 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
