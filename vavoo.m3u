@@ -5,12 +5,10 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.12tvparma.it/wp-content/uploads/2021/11/ogg-image.jpg" group-title="Altro",12 TV PARMA
 https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",7 YOU & ME
-https://vavoo.to/vavoo-iptv/play/178775175831e62385f371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",51 CUSANO ITALIA TV
+https://vavoo.to/vavoo-iptv/play/4124613557378009dcb051
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",70-80.IT
 https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",A2ITV
-https://vavoo.to/vavoo-iptv/play/116175301085677e1637cf
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/3zkPKViC7G2rHWbBpYzSL6dFM9OMFBqIC6JrT-mM73EQsERHMqx4sPzWpBD8nfEqgf_uSHi124Y=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",A3
 https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",AB
@@ -25,10 +23,8 @@ https://vavoo.to/vavoo-iptv/play/3312954721d7076cf106e5
 https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="Altro",ALMA TV (2)
 https://vavoo.to/vavoo-iptv/play/2616675128031c4d37ca6f
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV (2)
-https://vavoo.to/vavoo-iptv/play/306638341503fec0df084b
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2 (1)
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2 (2)
@@ -145,8 +141,10 @@ https://vavoo.to/vavoo-iptv/play/458018069af4096ff6c35
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
 #EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="Altro",FASHIONTV
 https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
-#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
+#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (1)
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
+#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
+https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO HD
@@ -295,8 +293,6 @@ https://vavoo.to/vavoo-iptv/play/1118453149238dad962982
 https://vavoo.to/vavoo-iptv/play/3999322464caf93535eb45
 #EXTINF:-1 tvg-id="" tvg-logo="https://alpitv.com/wp-content/uploads/2022/01/logo.png" group-title="Altro",RETEBIELLA TV
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/LogoRMC101.png" group-title="Altro",RMC 101
-https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (1)
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
@@ -679,10 +675,6 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://vavoo.to/vavoo-iptv/play/27177400159a49bec8b4e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
@@ -703,9 +695,7 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE (2)
 https://vavoo.to/vavoo-iptv/play/32340951359446f5e86467
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (1)
-https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY DMAX
 https://vavoo.to/vavoo-iptv/play/3710269273f954671dec53
@@ -729,9 +719,7 @@ https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
-https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
@@ -775,8 +763,6 @@ https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 # FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
-https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="la7.cinema.it" tvg-logo="" group-title="Film - Serie TV",LA 7 CINEMA
