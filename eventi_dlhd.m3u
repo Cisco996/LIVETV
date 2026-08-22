@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleagueevertonvscrystalpalace" tvg-name="All Soccer Events ⚽ | ⚽ 🇬🇧 England - Premier League : Everton 🏴 vs Crystal Palace 🏴 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Everton 🏴_vs_Crystal Palace 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇬🇧 England - Premier League : Everton 🏴 vs Crystal Palace 🏴 (14:00)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="englandpremierleagueipswichtownvssunderland" tvg-name="All Soccer Events ⚽ | ⚽ 🇬🇧 England - Premier League : Ipswich Town 🏴 vs Sunderland 🏴 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ipswich Town 🏴_vs_Sunderland 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇬🇧 England - Premier League : Ipswich Town 🏴 vs Sunderland 🏴 (14:00)
-https://dlhd.st/watch.php?id=460
-
 #EXTINF:-1 tvg-id="italyserieccittadellavspergolettese" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Cittadella 🇮🇹 vs Pergolettese 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cittadella 🇮🇹_vs_Pergolettese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Cittadella 🇮🇹 vs Pergolettese 🇮🇹 (16:00)
 https://dlhd.st/watch.php?id=2
 
@@ -71,17 +65,11 @@ https://dlhd.st/watch.php?id=15
 #EXTINF:-1 tvg-id="italyseriecaudacecerignolavscosenza" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Audace Cerignola 🇮🇹 vs Cosenza 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Audace Cerignola 🇮🇹_vs_Cosenza 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Audace Cerignola 🇮🇹 vs Cosenza 🇮🇹 (19:00)
 https://dlhd.st/watch.php?id=18
 
-#EXTINF:-1 tvg-id="atpwtasemifinalswtadoublesfinalatpdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)" tvg-logo="https://static1.topspeedimages.com/wordpress/wp-content/uploads/2024/03/resize__bkos5097_edit_v02.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)
+#EXTINF:-1 tvg-id="atpwtasemifinalswtadoublesfinalatpdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)" tvg-logo="https://64.media.tumblr.com/6dcd996b97d60ae264a4807f9f02442c/a546a41233fb2a8a-2e/s2048x3072/990339220adfb4cfd8623d8d6c368e12d6036478.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpwtasemifinalswtadoublesfinalatpdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)" tvg-logo="https://ic-vt-nss.xhcdn.com/a/MTU3NDhiMDEyOGNjNmFmMzY3OTgxYTQ2M2I5OTJlMTE/s(w:1280,h:720),webp/024/725/288/1280x720.17172562.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)
+#EXTINF:-1 tvg-id="atpwtasemifinalswtadoublesfinalatpdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)" tvg-logo="https://coveredbridgevail.com/wp-content/uploads/John-Wesley-Powell-stock-photo.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals (15:00)
 https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="formula1heinekendutchgpqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Heineken Dutch GP - Qualifying (14:00)" tvg-logo="https://vetcarenews.com/wp-content/uploads/2022/10/Dog-size-chart-kg-pounds.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Heineken Dutch GP - Qualifying (14:00)
-https://dlhd.st/watch.php?id=577
-
-#EXTINF:-1 tvg-id="thetourofspain26stage1" tvg-name="Cycling 🚴 | 🚴 The Tour of Spain '26: Stage 1 (14:05)" tvg-logo="https://dl2.myminifactory.com/object-assets/65b2688a4383c0.75943799/images/720X720-20240124-184953.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 The Tour of Spain '26: Stage 1 (14:05)
-https://dlhd.st/watch.php?id=878
 
 #EXTINF:-1 tvg-id="europeanchampionshipswomenhungarywvspolandw" tvg-name="Volleyball 🏐 | 🏐 European Championships Women : 🇭🇺 Hungary W vs 🇵🇱 Poland W (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇭🇺 Hungary W_vs_🇵🇱 Poland W.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 European Championships Women : 🇭🇺 Hungary W vs 🇵🇱 Poland W (16:00)
 https://dlhd.st/watch.php?id=462
