@@ -1,1 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="europeuefachampionsleaguesabahfcvshapoelbeersheva" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇺 Europe - UEFA Champions League : Sabah FC 🇦🇿 vs Hapoel Be'er Sheva 🇮🇱 (16:45)" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇺 Europe - UEFA Champions League : Sabah FC 🇦🇿 vs Hapoel Be'er Sheva 🇮🇱 (16:45)
+https://dlhd.st/watch.php?id=8
+
+#EXTINF:-1 tvg-id="europeuefachampionsleaguesabahfcvshapoelbeersheva" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇺 Europe - UEFA Champions League : Sabah FC 🇦🇿 vs Hapoel Be'er Sheva 🇮🇱 (16:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Sabah FC 🇦🇿_vs_Hapoel Be'er Sheva 🇮🇱.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇺 Europe - UEFA Champions League : Sabah FC 🇦🇿 vs Hapoel Be'er Sheva 🇮🇱 (16:45)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="europeuefachampionsleaguelasklinzvsceltic" tvg-name="All Soccer Events ⚽ | ⚽ 🇦🇹 Europe - UEFA Champions League : LASK Linz 🇦🇹 vs Celtic 🇬🇧 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/LASK Linz 🇦🇹_vs_Celtic 🇬🇧.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇦🇹 Europe - UEFA Champions League : LASK Linz 🇦🇹 vs Celtic 🇬🇧 (19:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="europeuefachampionsleaguebodøglimtvsnecnijmegen" tvg-name="All Soccer Events ⚽ | ⚽ 🇳🇴 Europe - UEFA Champions League : Bodø/Glimt 🇳🇴 vs NEC Nijmegen 🇳🇱 (19:00)" tvg-logo="https://log-wp-media.s3.amazonaws.com/wp-content/uploads/2025/06/Saryn-Build-2.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇳🇴 Europe - UEFA Champions League : Bodø/Glimt 🇳🇴 vs NEC Nijmegen 🇳🇱 (19:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopenqualifying1stroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying : 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (18:00)" tvg-logo="https://m.media-amazon.com/images/I/51+U+ZENqXL._UF894,1000_QL80_.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying : 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (18:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopenqualifying1stroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying : 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (18:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d49ba913-dbd1-4505-99cc-9bd433c6e42d/dfmmma9-dead2554-dc2d-49dd-8dde-092804769301.png/v1/fill/w_621,h_1287,strp/robyn_ledoux_scourge_remade_2_by_abbysek_dfmmma9-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQxMCIsInBhdGgiOiJcL2ZcL2Q0OWJhOTEzLWRiZDEtNDUwNS05OWNjLTliZDQzM2M2ZTQyZFwvZGZtbW1hOS1kZWFkMjU1NC1kYzJkLTQ5ZGQtOGRkZS0wOTI4MDQ3NjkzMDEucG5nIiwid2lkdGgiOiI8PTY4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GLoM0KXqrns6P8n8N8mL0NVO0PLdEZiXNao9kLvYflY" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying : 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (18:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="wuhanopenround2afternoonsession" tvg-name="Snooker 🎱 | 🎱 Wuhan Open : Round 2 Afternoon Session (06:00)" tvg-logo="https://gfx.videobuster.de/archive/v/cATqF5UperjTiAWlPb3OtwAcz0lMkawMDglMkYwMyUyRmltYZklMkZqcGVnJTJGxWRiYjViZmKxMmJlwTdhM2M2YmXOOGNiMGJhOC5qcGcmcj1opjAw/polly-world-cover.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open : Round 2 Afternoon Session (06:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="wuhanopenround2eveningsession" tvg-name="Snooker 🎱 | 🎱 Wuhan Open : Round 2 Evening Session (11:30)" tvg-logo="https://thumbs.dreamstime.com/b/food-pyramid-illustrating-balanced-diet-physical-activity-portion-control-nutrition-healthy-graphic-displays-groups-425579411.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open : Round 2 Evening Session (11:30)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="vueltaaespañastage4andorralavellatoandorralavella" tvg-name="Cycling 🚴 | 🚴 Vuelta a España : Stage 4 - Andorra la Vella to Andorra la Vella (12:30)" tvg-logo="https://vanguardia.com.mx/binrepository/1200x1350/0c0/0d0/down-right/11604/EAKT/whatsapp-image-2023-05-08-at-1-12_1-14222510_20260117040056.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Vuelta a España : Stage 4 - Andorra la Vella to Andorra la Vella (12:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenitalywomenvsslovakiawomen" tvg-name="Volleyball 🏐 | ⚽ 🇮🇹 European Championships Women : Italy Women 🇮🇹 vs Slovakia Women 🇸🇰 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy Women 🇮🇹_vs_Slovakia Women 🇸🇰.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇮🇹 European Championships Women : Italy Women 🇮🇹 vs Slovakia Women 🇸🇰 (14:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenitalywomenvsslovakiawomen" tvg-name="Volleyball 🏐 | ⚽ 🇮🇹 European Championships Women : Italy Women 🇮🇹 vs Slovakia Women 🇸🇰 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy Women 🇮🇹_vs_Slovakia Women 🇸🇰.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇮🇹 European Championships Women : Italy Women 🇮🇹 vs Slovakia Women 🇸🇰 (14:00)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenpolandwomenvssloveniawomen" tvg-name="Volleyball 🏐 | ⚽ 🇵🇱 European Championships Women : Poland Women 🇵🇱 vs Slovenia Women 🇸🇮 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Poland Women 🇵🇱_vs_Slovenia Women 🇸🇮.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇵🇱 European Championships Women : Poland Women 🇵🇱 vs Slovenia Women 🇸🇮 (16:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenpolandwomenvssloveniawomen" tvg-name="Volleyball 🏐 | ⚽ 🇵🇱 European Championships Women : Poland Women 🇵🇱 vs Slovenia Women 🇸🇮 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Poland Women 🇵🇱_vs_Slovenia Women 🇸🇮.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇵🇱 European Championships Women : Poland Women 🇵🇱 vs Slovenia Women 🇸🇮 (16:00)
+https://dlhd.st/watch.php?id=462
+
