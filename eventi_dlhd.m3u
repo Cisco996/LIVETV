@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsnottinghamforest" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : Liverpool 🏴 vs Nottingham Forest 🏴 (11:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Liverpool 🏴_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : Liverpool 🏴 vs Nottingham Forest 🏴 (11:30)
-https://dlhd.st/watch.php?id=870
-
 #EXTINF:-1 tvg-id="englandpremierleagueafcbournemouthvseverton" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : AFC Bournemouth 🏴 vs Everton 🏴 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/AFC Bournemouth 🏴_vs_Everton 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : AFC Bournemouth 🏴 vs Everton 🏴 (14:00)
 https://dlhd.st/watch.php?id=461
 
@@ -29,7 +26,7 @@ https://dlhd.st/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecsavoiavscasertana" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Savoia 🇮🇹 vs Casertana 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Savoia 🇮🇹_vs_Casertana 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Savoia 🇮🇹 vs Casertana 🇮🇹 (16:00)
 https://dlhd.st/watch.php?id=210
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovscrotone" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sorrento 🇮🇹 vs Crotone 🇮🇹 (16:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48b7ff6b-0262-413c-84af-3b7c6a484963/dgoczmu-2c3b32cb-8a9d-4ed9-ac9b-e6a39c55c6e6.png/v1/fill/w_1280,h_720,q_80,strp/genshin_hydro_team___wallpaper_1920x1080_by_skasa8_dgoczmu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNDhiN2ZmNmItMDI2Mi00MTNjLTg0YWYtM2I3YzZhNDg0OTYzXC9kZ29jem11LTJjM2IzMmNiLThhOWQtNGVkOS1hYzliLWU2YTM5YzU1YzZlNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9xTwxLja7dKcJs4NCnWKLsHvl-3VGUFXe34bqU2ZEec" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sorrento 🇮🇹 vs Crotone 🇮🇹 (16:00)
+#EXTINF:-1 tvg-id="italyseriecsorrentovscrotone" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sorrento 🇮🇹 vs Crotone 🇮🇹 (16:00)" tvg-logo="https://res.cloudinary.com/finn-auto/image/fetch/q_auto,f_auto,c_lpad,dpr_2,w_360,ar_8:5,b_white/https://dataops-nocodb-s3-bucket-production.s3.eu-central-1.amazonaws.com/nc/uploads/noco/fleet_blue_dragon/car_images/image/XIzbev.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sorrento 🇮🇹 vs Crotone 🇮🇹 (16:00)
 https://dlhd.st/watch.php?id=211
 
 #EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvsnewcastleunited" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : Tottenham Hotspur 🏴 vs Newcastle United 🏴 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Tottenham Hotspur 🏴_vs_Newcastle United 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : Tottenham Hotspur 🏴 vs Newcastle United 🏴 (16:30)
@@ -59,7 +56,7 @@ https://dlhd.st/watch.php?id=106
 #EXTINF:-1 tvg-id="italyseriebsampdoriavsjuvestabia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Sampdoria 🇮🇹 vs Juve Stabia 🇮🇹 (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Sampdoria 🇮🇹_vs_Juve Stabia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Sampdoria 🇮🇹 vs Juve Stabia 🇮🇹 (17:00)
 https://dlhd.st/watch.php?id=107
 
-#EXTINF:-1 tvg-id="italyserieajuventusvsparma" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹 (18:45)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d7b55a7cab21367173472ca/1676525436277-IKX8R0QLFUBJ8R9F6LDA/2023+fashion+trends+blog+post+-30.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹 (18:45)
+#EXTINF:-1 tvg-id="italyserieajuventusvsparma" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Juventus 🇮🇹_vs_Parma 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹 (18:45)
 https://dlhd.st/watch.php?id=110
 
 #EXTINF:-1 tvg-id="italyserieajuventusvsparma" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Juventus 🇮🇹_vs_Parma 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹 (18:45)
@@ -77,7 +74,7 @@ https://dlhd.st/watch.php?id=153
 #EXTINF:-1 tvg-id="italyseriecforlìvspescara" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Forlì 🇮🇹 vs Pescara 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Forlì 🇮🇹_vs_Pescara 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Forlì 🇮🇹 vs Pescara 🇮🇹 (19:00)
 https://dlhd.st/watch.php?id=207
 
-#EXTINF:-1 tvg-id="italyseriecpinetovslivorno" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pineto 🇮🇹 vs Livorno 🇮🇹 (19:00)" tvg-logo="https://i.etsystatic.com/23281597/r/il/be5cd1/3872588354/il_1140xN.3872588354_r2ze.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pineto 🇮🇹 vs Livorno 🇮🇹 (19:00)
+#EXTINF:-1 tvg-id="italyseriecpinetovslivorno" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pineto 🇮🇹 vs Livorno 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Pineto 🇮🇹_vs_Livorno 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pineto 🇮🇹 vs Livorno 🇮🇹 (19:00)
 https://dlhd.st/watch.php?id=210
 
 #EXTINF:-1 tvg-id="italyseriecspeziavscampobasso" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Campobasso 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Spezia 🇮🇹_vs_Campobasso 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Campobasso 🇮🇹 (19:00)
@@ -95,42 +92,24 @@ https://dlhd.st/watch.php?id=209
 #EXTINF:-1 tvg-id="italyseriecmonopolivscatania" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Monopoli 🇮🇹 vs Catania 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Monopoli 🇮🇹_vs_Catania 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Monopoli 🇮🇹 vs Catania 🇮🇹 (19:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)" tvg-logo="https://www.bothythreads.com/imager/assets/Artists/434353/Wendy-Brown-Website_e15272f727909224f9333c67fde70d9d.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)
+#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)" tvg-logo="https://freepngimg.com/thumb/cat/40-cat-png-image-download-picture-kitten.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d7b55a7cab21367173472ca/1676525436277-IKX8R0QLFUBJ8R9F6LDA/2023+fashion+trends+blog+post+-30.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)
+#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)" tvg-logo="https://cdnph.upi.com/pv/upi/5a53ccad558b1b0f84e31215fbaefe5e/NFL-SAINTS-FALCONS.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round (15:20)
 https://dlhd.st/watch.php?id=576
 
-#EXTINF:-1 tvg-id="moto2aragonfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragon Free Practice 2 🇪🇸 (07:20)" tvg-logo="https://arkcubus.no/wp-content/uploads/Skjermbilde-2018-12-12-kl.-15.00.58.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragon Free Practice 2 🇪🇸 (07:20)
+#EXTINF:-1 tvg-id="motogparagonsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragon Sprint Race 🇪🇸 (12:45)" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbec93b8-7f63-4d7e-be66-b5e9e87d52c0.__CR0,0,970,600_PT0_SX970_V1___.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragon Sprint Race 🇪🇸 (12:45)
 https://dlhd.st/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogparagonfreepractice2andqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragon Free Practice 2 and Qualifying 🇪🇸 (08:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52a39911-db98-4993-87bf-a66f9f3c0a7e/djv2z2y-0c71150c-cd7f-4b5e-b3d7-2eddbf15eda4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyYTM5OTExLWRiOTgtNDk5My04N2JmLWE2NmY5ZjNjMGE3ZVwvZGp2MnoyeS0wYzcxMTUwYy1jZDdmLTRiNWUtYjNkNy0yZWRkYmYxNWVkYTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.83ILo7FPrAEqSREv69IFFJMm_9h_paXuUDgK4_WUpoE" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragon Free Practice 2 and Qualifying 🇪🇸 (08:00)
-https://dlhd.st/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3aragonqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto3 : Aragon Qualifying 🇪🇸 (10:45)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNlOTMzZWYtNTgwOS00NDQzLTg4ODgtMmQyZjk4NTUyN2NjXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto3 : Aragon Qualifying 🇪🇸 (10:45)
-https://dlhd.st/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto2aragonqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragon Qualifying 🇪🇸 (11:35)" tvg-logo="https://i.ytimg.com/vi/NOn9_Qe5Bm4/maxresdefault.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragon Qualifying 🇪🇸 (11:35)
-https://dlhd.st/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogparagonsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragon Sprint Race 🇪🇸 (12:45)" tvg-logo="https://i.pinimg.com/originals/13/ce/61/13ce619af2c8b39f5ce3e0cd27588dc9.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragon Sprint Race 🇪🇸 (12:45)
-https://dlhd.st/watch.php?id=575
-
-#EXTINF:-1 tvg-id="wuhanopenfinaleveningsession" tvg-name="Snooker 🎱 | 🎱 🇨🇳 Wuhan Open : Final | Evening Session 🇨🇳 (11:30)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e36b69a2-a218-4f43-97c0-dd316a21c699/dgb0ddz-111f4dd9-261b-4e93-8b6c-5df80afcf871.jpg/v1/fill/w_768,h_768,q_75,strp/futuristic_bus_by_pickgameru_dgb0ddz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvZTM2YjY5YTItYTIxOC00ZjQzLTk3YzAtZGQzMTZhMjFjNjk5XC9kZ2IwZGR6LTExMWY0ZGQ5LTI2MWItNGU5My04YjZjLTVkZjgwYWZjZjg3MS5qcGciLCJ3aWR0aCI6Ijw9NzY4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UEmQdMnS24SrFFa3Uj415SAhXhp_Rk-f6YfMyfYAjng" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 Wuhan Open : Final | Evening Session 🇨🇳 (11:30)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="sydneymarathon2026" tvg-name="Athletics 🏃 | 🏃 🇦🇺 Sydney Marathon 2026 🇦🇺 (20:00)" tvg-logo="https://classrooms.uci.edu/files/2022/02/SST-from-outer-ring-1024x768.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇦🇺 Sydney Marathon 2026 🇦🇺 (20:00)
+#EXTINF:-1 tvg-id="sydneymarathon2026" tvg-name="Athletics 🏃 | 🏃 🇦🇺 Sydney Marathon 2026 🇦🇺 (20:00)" tvg-logo="https://sh-anime.shochiku.co.jp/pjsekai-movie/wp-content/uploads/sites/11/2024/09/620fd4ef35c5c07a39c1de36b1e38707.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇦🇺 Sydney Marathon 2026 🇦🇺 (20:00)
 https://dlhd.st/watch.php?id=878
 
 #EXTINF:-1 tvg-id="mlbdetroittigersvslosangelesdodgers" tvg-name="Baseball (MLB) ⚾ | ⚾ 🇺🇸 MLB : Detroit Tigers 🇺🇸 vs Los Angeles Dodgers 🇺🇸 (17:10)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Detroit Tigers 🇺🇸_vs_Los Angeles Dodgers 🇺🇸.png" group-title="Eventi Live DLHD",Baseball (MLB) ⚾ | ⚾ 🇺🇸 MLB : Detroit Tigers 🇺🇸 vs Los Angeles Dodgers 🇺🇸 (17:10)
 https://dlhd.st/watch.php?id=460
 
-#EXTINF:-1 tvg-id="whoopucimountainbikeworldseriesworldcupvaldisolewomenselite" tvg-name="Cycling 🚴 | 🚵‍♀️ 🇮🇹 WHOOP UCI Mountain Bike World Series World Cup : Val di Sole | Women's Elite 🇮🇹 (11:10)" tvg-logo="https://s3.studylib.net/store/data/007306991_1-6af50e82d38777066369ea4e087520b2-768x994.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚵‍♀️ 🇮🇹 WHOOP UCI Mountain Bike World Series World Cup : Val di Sole | Women's Elite 🇮🇹 (11:10)
+#EXTINF:-1 tvg-id="returntospainstage8171pucolxeraco" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Return to Spain : Stage 8 - 171 Pucol - Xeraco 🇪🇸 (12:30)" tvg-logo="https://i.pinimg.com/originals/a1/6d/49/a16d4934ce9825ddab03b9a4c9582055.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Return to Spain : Stage 8 - 171 Pucol - Xeraco 🇪🇸 (12:30)
 https://dlhd.st/watch.php?id=878
 
-#EXTINF:-1 tvg-id="returntospainstage8171pucolxeraco" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Return to Spain : Stage 8 - 171 Pucol - Xeraco 🇪🇸 (12:30)" tvg-logo="http://109dunebuggies.com/cdn/shop/products/SandrailHardtop1.jpg?v=1596382830" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Return to Spain : Stage 8 - 171 Pucol - Xeraco 🇪🇸 (12:30)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucidownhillmenelitevaldisoleworldchampionships" tvg-name="Cycling 🚴 | 🚵 🇮🇹 UCI Downhill : Men Elite | Val di Sole World Championships 🇮🇹 (13:45)" tvg-logo="https://blog.duolingo.com/content/images/2025/05/ES_Alphabet_ABC_IPA.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚵 🇮🇹 UCI Downhill : Men Elite | Val di Sole World Championships 🇮🇹 (13:45)
+#EXTINF:-1 tvg-id="ucidownhillmenelitevaldisoleworldchampionships" tvg-name="Cycling 🚴 | 🚵 🇮🇹 UCI Downhill : Men Elite | Val di Sole World Championships 🇮🇹 (13:45)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Cycling 🚴 | 🚵 🇮🇹 UCI Downhill : Men Elite | Val di Sole World Championships 🇮🇹 (13:45)
 https://dlhd.st/watch.php?id=879
 
