@@ -2,35 +2,8 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliasassuolovsfrosinone" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Sassuolo 🇮🇹 vs Frosinone 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Sassuolo 🇮🇹_vs_Frosinone 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Sassuolo 🇮🇹 vs Frosinone 🇮🇹 (13:00)
-https://dlhd.st/watch.php?id=854
-
-#EXTINF:-1 tvg-id="italycoppaitaliaudinesevsvenezia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Venezia 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Udinese 🇮🇹_vs_Venezia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Venezia 🇮🇹 (16:00)
-https://dlhd.st/watch.php?id=854
-
-#EXTINF:-1 tvg-id="coppaitaliaseriecsorrentovscosenza" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹 (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Sorrento 🇮🇹_vs_Cosenza 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹 (16:30)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles2ndround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)" tvg-logo="https://www.buildersbook.com/media/catalog/product/cache/4790d4f293ea8fd66332bc37c9a08a49/1/8/1855349620.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles2ndround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)" tvg-logo="https://static.summitracing.com/global/images/facebook/images_opengraph/sre-default-open-graph.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)
-https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles2ndround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)" tvg-logo="http://scooterkingorlando.com/cdn/shop/files/pridegogosportoffsetprofile.png?v=1705633356" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)
+#EXTINF:-1 tvg-id="britishopen2ndround" tvg-name="Snooker 🎱 | 🎱 British Open | 2nd Round (18:00)" tvg-logo="https://topgunmobility.com.au/wp-content/uploads/Ruidi-Canopy-12.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 British Open | 2nd Round (18:00)
 https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles2ndround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)" tvg-logo="https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_182d2bef-bdb1-4af7-8cc3-edf8ee4b35ab.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round (15:00)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="britishopen2ndround" tvg-name="Snooker 🎱 | 🎱 British Open | 2nd Round (18:00)" tvg-logo="https://amaluz.com.br/wp-content/uploads/2021/08/Bom-dia-o-segredo-para-comecar-o-dia-bem-e-ter-fe.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 British Open | 2nd Round (18:00)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="vueltaaespañastage11151cartagenalorca" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Vuelta a España Stage 11 - 151 Cartagena - Lorca (13:00)" tvg-logo="https://as1.ftcdn.net/v2/jpg/03/62/90/54/1000_F_362905430_LUIhT8mqe3B1EgenVCLEntZKinEQfpSq.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Vuelta a España Stage 11 - 151 Cartagena - Lorca (13:00)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsserbiawvsgreecew" tvg-name="Volleyball 🏐 | 🏐 🇷🇸 European Championships Women Quarterfinals : Serbia W 🇷🇸 vs Greece W 🇬🇷 (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Serbia W 🇷🇸_vs_Greece W 🇬🇷.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇷🇸 European Championships Women Quarterfinals : Serbia W 🇷🇸 vs Greece W 🇬🇷 (14:00)
-https://dlhd.st/watch.php?id=462
 
 #EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsitalywvsswedenw" tvg-name="Volleyball 🏐 | 🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪 (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy W 🇮🇹_vs_Sweden W 🇸🇪.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪 (17:00)
 https://dlhd.st/watch.php?id=462
