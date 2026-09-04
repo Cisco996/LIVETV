@@ -2103,6 +2103,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-10 00:20 - NFL - Seattle Seahawks vs New England Patriots (Sky Sport Top Event FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="✧❯❯.Netflix.Channels.❮❮✧" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (✧❯❯ Netflix Channels ❮❮✧)
+https://cdnlivetv.tv/api/v1/channels/player/?name=%E2%9C%A7%E2%9D%AF%E2%9D%AF%20Netflix%20Channels%20%E2%9D%AE%E2%9D%AE%E2%9C%A7&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.HORROR.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NETFLIX HORROR 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20HORROR%201&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.HORROR.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NETFLIX HORROR 2)
@@ -2119,6 +2121,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20MOVIES%202&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20MOVIES%203&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.Asia" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Asia)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Asia&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Classic" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Classic)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Classic&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFLix.Crime" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFLix Crime)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFLix%20Crime&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Drama" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Drama)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Drama&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NETFLIX.French" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NETFLIX French)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20French&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.HollyooWD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix HollyooWD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20HollyooWD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Kids" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Kids)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Kids&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NETFLIX.Science" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NETFLIX Science)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20Science&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Spanish" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Spanish)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Spanish&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NetFlix.Thraller" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Thraller)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Thraller&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Premiere.info" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Premiere info)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Premiere%20info&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Premiere.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Premiere 1)
@@ -2177,6 +2197,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Anime%20ES&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Acci%C3%B3n%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Cine.Clásico.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cine Clásico ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Cl%C3%A1sico%20ES&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Cine.Comedia.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cine Comedia ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Comedia%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Cine.Drama.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cine Drama ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Drama%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Cine.Estelar.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cine Estelar ES)
@@ -2185,14 +2207,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Estelar%20ES&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Rom%C3%A1ntico%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Cocina.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cocina ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cocina%20ES&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Horror.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Horror ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Horror%20ES&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Indies.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Indies ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Indies%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Junior.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Junior ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Junior%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Kids.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Kids ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Kids%20ES&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Motor.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Motor ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Motor%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Paranormal.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Paranormal ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Paranormal%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Sci-Fi.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Sci-Fi ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Sci-Fi%20ES&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Netflix.Series.Comedia.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Series Comedia ES)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Series%20Comedia%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Series.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Series ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Series%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Telenovelas.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Telenovelas ES)
@@ -2233,12 +2263,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E04&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E05" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E05)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E05&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E06" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E06)
-https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E06&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E07&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E08" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E08)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E08&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E09" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E09)
+https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E09&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E10&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-12 17:00 - CFL - Toronto Argonauts vs Ottawa Redblacks (TSN 1 HD CA)
@@ -3977,8 +4007,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Apple TV+ Series 10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4013,8 +4041,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Apple TV+ Series 10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4049,8 +4075,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Apple TV+ Series 10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4085,8 +4109,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Apple TV+ Series 10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (USA Network US)
