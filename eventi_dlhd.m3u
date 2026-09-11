@@ -1,1 +1,88 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyseriebempolivsarezzo" tvg-name="All Soccer Events ⚽ | Italy - Serie B : Empoli vs Arezzo (17:00)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yQhgyHPqL.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie B : Empoli vs Arezzo (17:00)
+https://dlive.sx/watch.php?id=59
+
+#EXTINF:-1 tvg-id="italyserieaveneziavsfiorentina" tvg-name="All Soccer Events ⚽ | Italy - Serie A : Venezia vs Fiorentina (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Venezia_vs_Fiorentina.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie A : Venezia vs Fiorentina (18:45)
+https://dlive.sx/watch.php?id=69
+
+#EXTINF:-1 tvg-id="italyseriebbeneventovsverona" tvg-name="All Soccer Events ⚽ | Italy - Serie B : Benevento vs Verona (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Benevento_vs_Verona.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie B : Benevento vs Verona (19:00)
+https://dlive.sx/watch.php?id=86
+
+#EXTINF:-1 tvg-id="italyseriebpisavsvirtusentella" tvg-name="All Soccer Events ⚽ | Italy - Serie B : Pisa vs Virtus Entella (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Pisa_vs_Virtus Entella.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie B : Pisa vs Virtus Entella (19:00)
+https://dlive.sx/watch.php?id=105
+
+#EXTINF:-1 tvg-id="italyseriecteamaltamuravsbari1908" tvg-name="All Soccer Events ⚽ | Italy - Serie C : Team Altamura vs Bari 1908 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Team Altamura_vs_Bari 1908.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie C : Team Altamura vs Bari 1908 (19:00)
+https://dlive.sx/watch.php?id=164
+
+#EXTINF:-1 tvg-id="italyseriecaudacecerignolavsgiugliano" tvg-name="All Soccer Events ⚽ | Italy - Serie C : Audace Cerignola vs Giugliano (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Audace Cerignola_vs_Giugliano.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie C : Audace Cerignola vs Giugliano (19:00)
+https://dlive.sx/watch.php?id=165
+
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsbarletta" tvg-name="All Soccer Events ⚽ | Italy - Serie C : Virtus Casarano vs Barletta (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Virtus Casarano_vs_Barletta.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie C : Virtus Casarano vs Barletta (19:00)
+https://dlive.sx/watch.php?id=166
+
+#EXTINF:-1 tvg-id="italyseriecsalernitanavspotenzacalcio" tvg-name="All Soccer Events ⚽ | Italy - Serie C : Salernitana vs Potenza Calcio (19:00)" tvg-logo="https://i.pinimg.com/originals/37/db/74/37db74781e5828fd1747968bf88f8100.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Italy - Serie C : Salernitana vs Potenza Calcio (19:00)
+https://dlive.sx/watch.php?id=167
+
+#EXTINF:-1 tvg-id="usopengrandslamtenniswomensdoublesfinal" tvg-name="Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)" tvg-logo="http://s3.thingpic.com/images/R4/bCXoBA6gk7bBSGEM3gyGmbXi.png" group-title="Eventi Live DLHD",Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)
+https://dlive.sx/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopengrandslamtenniswomensdoublesfinal" tvg-name="Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)" tvg-logo="http://s3.thingpic.com/images/R4/bCXoBA6gk7bBSGEM3gyGmbXi.png" group-title="Eventi Live DLHD",Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)
+https://dlive.sx/watch.php?id=576
+
+#EXTINF:-1 tvg-id="usopengrandslamtenniswomensdoublesfinal" tvg-name="Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)" tvg-logo="http://s3.thingpic.com/images/R4/bCXoBA6gk7bBSGEM3gyGmbXi.png" group-title="Eventi Live DLHD",Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)
+https://dlive.sx/watch.php?id=879
+
+#EXTINF:-1 tvg-id="usopengrandslamtenniswomensdoublesfinal" tvg-name="Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)" tvg-logo="http://s3.thingpic.com/images/R4/bCXoBA6gk7bBSGEM3gyGmbXi.png" group-title="Eventi Live DLHD",Tennis 🎾 | US Open Grand Slam Tennis Womens Doubles Final (15:00)
+https://dlive.sx/watch.php?id=878
+
+#EXTINF:-1 tvg-id="moto2round14sanmarinofreepractice1" tvg-name="Motorsport 🏎️🏁 | Moto2 | Round 14 | San Marino Free Practice 1 (07:45)" tvg-logo="https://media.printables.com/media/prints/115768/images/1140099_975d947d-98c8-4ca9-a397-7d3b9c48b4c7/with-drives_rev3.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Moto2 | Round 14 | San Marino Free Practice 1 (07:45)
+https://dlive.sx/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula3tagheuerspanishgppractice" tvg-name="Motorsport 🏎️🏁 | Formula 3 : Tag Heuer Spanish GP - Practice (09:05)" tvg-logo="https://cdn-images.coloringbook.ai/images/c7d85de8387a12c242448c24e86b3fbc.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Formula 3 : Tag Heuer Spanish GP - Practice (09:05)
+https://dlive.sx/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2tagheuerspanishgppractice" tvg-name="Motorsport 🏎️🏁 | Formula 2 : Tag Heuer Spanish GP - Practice (09:05)" tvg-logo="https://assets.ejecentral.com.mx/dims4/default/306ee3f/2147483647/strip/true/crop/1200x700+0+0/resize/2469x1440!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2F79%2F5d%2F0c1e470442d2bd007a3ef7f826fa%2Ftormenta-tropical-alvin-trayectoria.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Formula 2 : Tag Heuer Spanish GP - Practice (09:05)
+https://dlive.sx/watch.php?id=577
+
+#EXTINF:-1 tvg-id="moto3round14sanmarinopractice" tvg-name="Motorsport 🏎️🏁 | Moto3 | Round 14 | San Marino Practice (09:15)" tvg-logo="https://www.edecomercial.com/wp-content/uploads/2023/10/525bd151-38bb-46eb-8389-ead140dc2518.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Moto3 | Round 14 | San Marino Practice (09:15)
+https://dlive.sx/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround14sanmarinopractice" tvg-name="Motorsport 🏎️🏁 | MotoGP | Round 14 | San Marino Practice (11:15)" tvg-logo="https://lecturaagil.com/wp-content/uploads/2019/09/Inteligencia-vs-Sabiduría-los-jefes.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | MotoGP | Round 14 | San Marino Practice (11:15)
+https://dlive.sx/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula1tagheuerspanishgppractice1" tvg-name="Motorsport 🏎️🏁 | Formula 1 : Tag Heuer Spanish GP - Practice 1 (11:30)" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-3.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Formula 1 : Tag Heuer Spanish GP - Practice 1 (11:30)
+https://dlive.sx/watch.php?id=577
+
+#EXTINF:-1 tvg-id="moto2round14sanmarinopractice" tvg-name="Motorsport 🏎️🏁 | Moto2 | Round 14 | San Marino Practice (12:00)" tvg-logo="https://media.fstatic.com/OGcVCIgimR2X6UjQvnfPW4oI5iU=/322x478/smart/filters:format(webp)/media/movies/covers/2017/07/Futurama_Volume_1.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Moto2 | Round 14 | San Marino Practice (12:00)
+https://dlive.sx/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula2tagheuerspanishgpqualifying" tvg-name="Motorsport 🏎️🏁 | Formula 2 : Tag Heuer Spanish GP - Qualifying (13:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBsQLu-c61tm7GPXrPJXUvyZsT0omTnlfRXpvk8Rf6xPEiXi4nvspDsvO7Pr7mNQZ0S9kltQzOOhTWNEHTfHo_SCG4txnTBtcBCC-p3jvqZqE_odFAV-3-8HLze6KOH6jAAk080xDjIurmvm2WOMktUAT1IOZ4zo0YOoUhURhxrNGjdNwJ70wuPQegeA/w1200-h630-p-k-no-nu/Pirámide de jerarquía de las normas.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Formula 2 : Tag Heuer Spanish GP - Qualifying (13:00)
+https://dlive.sx/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1tagheuerspanishgppractice2" tvg-name="Motorsport 🏎️🏁 | Formula 1 : Tag Heuer Spanish GP - Practice 2 (15:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-5-3.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Formula 1 : Tag Heuer Spanish GP - Practice 2 (15:00)
+https://dlive.sx/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula3tagheuerspanishgpqualifying" tvg-name="Motorsport 🏎️🏁 | Formula 3 : Tag Heuer Spanish GP - Qualifying (16:30)" tvg-logo="https://curioteca.allalas.com/wp-content/uploads/2025/05/Que-es-el-arte-cinetico.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | Formula 3 : Tag Heuer Spanish GP - Qualifying (16:30)
+https://dlive.sx/watch.php?id=577
+
+#EXTINF:-1 tvg-id="englishopen" tvg-name="Snooker 🎱 | English Open (09:00)" tvg-logo="https://easy-peasy.ai/cdn-cgi/image/quality=70,format=auto,width=500/https://media.easy-peasy.ai/ffb65a02-d124-47fb-a4ed-5630a44ead89/fe3f5a7c-2257-44d2-b147-783adfee3834.png" group-title="Eventi Live DLHD",Snooker 🎱 | English Open (09:00)
+https://dlive.sx/watch.php?id=879
+
+#EXTINF:-1 tvg-id="englishopen" tvg-name="Snooker 🎱 | English Open (12:00)" tvg-logo="https://easy-peasy.ai/cdn-cgi/image/quality=70,format=auto,width=500/https://media.easy-peasy.ai/ffb65a02-d124-47fb-a4ed-5630a44ead89/fe3f5a7c-2257-44d2-b147-783adfee3834.png" group-title="Eventi Live DLHD",Snooker 🎱 | English Open (12:00)
+https://dlive.sx/watch.php?id=879
+
+#EXTINF:-1 tvg-id="vueltaaespanastage19210velezmalagapenasblancasestepona" tvg-name="Cycling 🚴 | Vuelta a Espana Stage 19 - 210 Velez - Malaga - Penas Blancas. Estepona (11:30)" tvg-logo="https://www.tmpville.com/message_board/forumimgs/Tmpville6540637.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | Vuelta a Espana Stage 19 - 210 Velez - Malaga - Penas Blancas. Estepona (11:30)
+https://dlive.sx/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipsnetherlandsvsbelgium" tvg-name="Volleyball 🏐 | European Championships : Netherlands vs Belgium (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Netherlands_vs_Belgium.png" group-title="Eventi Live DLHD",Volleyball 🏐 | European Championships : Netherlands vs Belgium (14:00)
+https://dlive.sx/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeanchampionshipsswitzerlandvsromania" tvg-name="Volleyball 🏐 | European Championships : Switzerland vs Romania (17:00)" tvg-logo="https://wallpapercave.com/wp/wp6783014.png" group-title="Eventi Live DLHD",Volleyball 🏐 | European Championships : Switzerland vs Romania (17:00)
+https://dlive.sx/watch.php?id=24
+
+#EXTINF:-1 tvg-id="europeanchampionshipsslovakiavsslovenia" tvg-name="Volleyball 🏐 | European Championships : Slovakia vs Slovenia (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Slovakia_vs_Slovenia.png" group-title="Eventi Live DLHD",Volleyball 🏐 | European Championships : Slovakia vs Slovenia (19:00)
+https://dlive.sx/watch.php?id=462
+
