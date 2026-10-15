@@ -582,7 +582,6 @@ def eventi_dlhd_m3u8_generator_world():
     def extract_channels_from_json(path): 
         keywords = {"italy", "rai", "italia", "it", "uk", "tnt", "usa", "tennis channel", "tennis stream", "la"} 
         now = datetime.now()  # ora attuale completa (data+ora) 
-        yesterday_date = (now - timedelta(days=1)).date() # Data di ieri
      
         with open(path, "r", encoding="utf-8") as f: 
             data = json.load(f) 
@@ -597,21 +596,9 @@ def eventi_dlhd_m3u8_generator_world():
                 print(f"[!] Errore parsing data '{date_part}': {e}") 
                 continue 
             
-            # Determina se processare questa data
-            process_this_date = False
-            is_yesterday_early_morning_event_check = False
-
-            if date_obj == now.date():
-                process_this_date = True
-            elif date_obj == yesterday_date:
-                process_this_date = True
-                is_yesterday_early_morning_event_check = True # Flag per eventi_dlhd di ieri mattina presto
-            else:
-                # Salta date che non sono nÃ© oggi nÃ© ieri
-                continue
-
-            if not process_this_date:
-                continue
+            # Il titolo della pagina puo' restare indietro di un giorno: il blocco
+            # valido e' comunque quello corrente, quindi si usa la data piu' recente.
+            block_date = max(date_obj, now.date())
      
             for category_raw, event_items in sections.items(): 
                 category = clean_category_name(category_raw)
@@ -629,28 +616,16 @@ def eventi_dlhd_m3u8_generator_world():
                         # Parse orario evento originale (dal JSON)
                         original_event_time_obj = datetime.strptime(time_str, "%H:%M").time()
 
-                        # Costruisci datetime completo dell'evento con la sua data originale
-                        # e l'orario originale, poi applica il timedelta(hours=2) (per "correzione timezone?")
-                        # Questo event_datetime_adjusted Ã¨ quello che viene usato per il filtro "meno di 2 ore fa" per oggi
-                        # e per il nome del canale.
-                        event_datetime_adjusted_for_display_and_filter = datetime.combine(date_obj, original_event_time_obj)
+                        # Gli orari prima delle 05:00 (ora UK) appartengono al mattino
+                        # successivo: lo "sports day" della pagina parte alle 05:00.
+                        event_date_obj = block_date + timedelta(days=1) if original_event_time_obj.hour < 5 else block_date
+                        event_datetime = datetime.combine(event_date_obj, original_event_time_obj)
 
-                        if is_yesterday_early_morning_event_check:
-                            # Filtro per eventi_dlhd di ieri mattina presto (00:00 - 04:00, ora JSON)
-                            start_filter_time = datetime.strptime("00:00", "%H:%M").time()
-                            end_filter_time = datetime.strptime("04:00", "%H:%M").time()
-                            # Confronta l'orario originale dell'evento
-                            if not (start_filter_time <= original_event_time_obj <= end_filter_time):
-                                # Evento di ieri, ma non nell'intervallo 00:00-04:00 -> salto
-                                continue
-                        else: # eventi_dlhd di oggi
-                            # Controllo: includi solo se l'evento Ã¨ iniziato da meno di 2 ore
-                            # Usa event_datetime_adjusted_for_display_and_filter che ha giÃ  il +2h
-                            if now - event_datetime_adjusted_for_display_and_filter > timedelta(hours=2):
-                                # Evento di oggi iniziato da piÃ¹ di 2 ore -> salto
-                                continue
-                        
-                        time_formatted = event_datetime_adjusted_for_display_and_filter.strftime("%H:%M")
+                        # Includi se l'evento e' iniziato da meno di 2 ore (o e' futuro)
+                        if now - event_datetime > timedelta(hours=2):
+                            continue
+
+                        time_formatted = event_datetime.strftime("%H:%M")
                     except Exception as e_time:
                         print(f"[!] Errore parsing orario '{time_str}' per evento '{event_title}' in data '{date_key}': {e_time}")
                         time_formatted = time_str # Fallback
@@ -1169,7 +1144,6 @@ def eventi_dlhd_m3u8_generator():
     def extract_channels_from_json(path): 
         keywords = {"italy", "rai", "italia", "it"} 
         now = datetime.now()  # ora attuale completa (data+ora) 
-        yesterday_date = (now - timedelta(days=1)).date() # Data di ieri
      
         with open(path, "r", encoding="utf-8") as f: 
             data = json.load(f) 
@@ -1184,11 +1158,9 @@ def eventi_dlhd_m3u8_generator():
                 print(f"[!] Errore parsing data '{date_part}': {e}") 
                 continue 
      
-            # filtro solo per eventi_dlhd del giorno corrente 
-            if date_obj != now.date(): 
-                continue 
-     
-            date_str = date_obj.strftime("%Y-%m-%d") 
+            # Il titolo della pagina puo' restare indietro di un giorno: il blocco
+            # valido e' comunque quello corrente, quindi si usa la data piu' recente.
+            block_date = max(date_obj, now.date())
      
             for category_raw, event_items in sections.items(): 
                 category = clean_category_name(category_raw)
@@ -1201,18 +1173,19 @@ def eventi_dlhd_m3u8_generator():
                 for item in event_items: 
                     time_str = item.get("time", "00:00") 
                     try: 
-                        # Parse orario evento 
+                        # Parse orario evento
                         time_obj = datetime.strptime(time_str, "%H:%M")
-     
-                        # crea datetime completo con data evento e orario evento 
-                        event_datetime = datetime.combine(date_obj, time_obj.time()) 
-     
-                        # Controllo: includi solo se l'evento Ã¨ iniziato da meno di 2 ore 
-                        if now - event_datetime > timedelta(hours=2): 
-                            # Evento iniziato da piÃ¹ di 2 ore -> salto 
-                            continue 
-     
-                        time_formatted = time_obj.strftime("%H:%M") 
+
+                        # Gli orari prima delle 05:00 (ora UK) appartengono al mattino
+                        # successivo: lo "sports day" della pagina parte alle 05:00.
+                        event_date_obj = block_date + timedelta(days=1) if time_obj.hour < 5 else block_date
+                        event_datetime = datetime.combine(event_date_obj, time_obj.time())
+
+                        # Includi se l'evento e' iniziato da meno di 2 ore (o e' futuro)
+                        if now - event_datetime > timedelta(hours=2):
+                            continue
+
+                        time_formatted = time_obj.strftime("%H:%M")
                     except Exception: 
                         time_formatted = time_str 
      
