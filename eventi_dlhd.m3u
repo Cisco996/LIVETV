@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefaeuropaleagueconferenceleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Europa League / Conference League : Simulcast (16:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Europa League / Conference League : Simulcast (16:45)
+#EXTINF:-1 tvg-id="uefaeuropaleagueconferenceleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Europa League / Conference League : Simulcast (16:45)" tvg-logo="https://industrytoday.com/wp-content/uploads/2022/12/coesia-logo.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Europa League / Conference League : Simulcast (16:45)
 https://dlive.sx/watch.php?id=462
 
 #EXTINF:-1 tvg-id="uefaeuropaleagueconferenceleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Europa League / Conference League : Simulcast (16:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Europa League / Conference League : Simulcast (16:45)
@@ -61,7 +61,4 @@ https://dlive.sx/watch.php?id=18
 
 #EXTINF:-1 tvg-id="uefaconferenceleagueatalantavspaphos" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Conference League : 🇮🇹 Atalanta 🇮🇹 vs 🇨🇾 Paphos 🇨🇾 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇮🇹 Atalanta 🇮🇹_vs_🇨🇾 Paphos 🇨🇾.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Conference League : 🇮🇹 Atalanta 🇮🇹 vs 🇨🇾 Paphos 🇨🇾 (19:00)
 https://dlive.sx/watch.php?id=462
-
-#EXTINF:-1 tvg-id="enecotourstage2mentilburgitt136km" tvg-name="Cycling 🚴 | 🚴 Eneco Tour | Stage 2 Men | Tilburg (ITT, 13.6km) (10:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Eneco Tour | Stage 2 Men | Tilburg (ITT, 13.6km) (10:45)
-https://dlive.sx/watch.php?id=878
 
