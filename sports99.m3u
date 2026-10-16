@@ -239,8 +239,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-10-24 19:30 - Brazilian Serie B - São Bernardo vs Vila Nova (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.3.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-3-no-event-streaming-8k-exclusive.webp",[Soccer] 2026-10-24 21:30 - American Major League Soccer - New York Red Bulls vs Inter Miami (FR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.4.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-4-no-event-streaming-8k-exclusive.webp",[Soccer] 2026-10-24 21:30 - American Major League Soccer - New York Red Bulls vs Inter Miami (FR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[Soccer] 2026-10-24 21:30 - American Major League Soccer - New York Red Bulls vs Inter Miami (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -633,8 +631,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-07 19:10 - Brazilian Serie B - Novorizontino vs Fortaleza (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.3.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-3-no-event-streaming-8k-exclusive.webp",[Soccer] 2026-11-07 21:00 - American Major League Soccer - DC United vs New York City FC (FR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%203%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.4.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-4-no-event-streaming-8k-exclusive.webp",[Soccer] 2026-11-07 21:00 - American Major League Soccer - DC United vs New York City FC (FR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%204%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FR:.DAZN.PPV.5.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-5-no-event-streaming-8k-exclusive.webp",[Soccer] 2026-11-07 21:00 - American Major League Soccer - DC United vs New York City FC (FR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE)
@@ -915,14 +911,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 19:30 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (TSN 1 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (RDS 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RTL.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/rtl-fhd-de.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (RTL FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (TSN 4 FHD CA)
@@ -931,36 +923,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (beIN SPORTS 1 FR FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-3-fhd-nl.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (ESPN 3 FHD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.Sports.3.Premium.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/fox-sports-3-premium-hd-arg.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (FOX Sports 3 Premium HD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%203%20Premium%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (Sport 5 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (RDS 2 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.3.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-3-fhd-nl.webp",[NFL] 2026-10-16 00:15 - NFL - Denver Broncos vs Seattle Seahawks (ESPN 3 FHD NL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 23:00 - CFL - Ottawa Redblacks vs Toronto Argonauts (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 23:00 - CFL - Ottawa Redblacks vs Toronto Argonauts (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-16 23:00 - CFL - Ottawa Redblacks vs Toronto Argonauts (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 01:30 - CFL - Edmonton Elks vs Winnipeg Blue Bombers (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 01:30 - CFL - Edmonton Elks vs Winnipeg Blue Bombers (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 01:30 - CFL - Edmonton Elks vs Winnipeg Blue Bombers (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 19:00 - CFL - Saskatchewan Roughriders vs Montreal Alouettes (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 19:00 - CFL - Saskatchewan Roughriders vs Montreal Alouettes (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 19:00 - CFL - Saskatchewan Roughriders vs Montreal Alouettes (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 23:00 - CFL - Calgary Stampeders vs BC Lions (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 23:00 - CFL - Calgary Stampeders vs BC Lions (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-17 23:00 - CFL - Calgary Stampeders vs BC Lions (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 13:30 - NFL - Jacksonville Jaguars vs Houston Texans (NFL Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-18 13:30 - NFL - Jacksonville Jaguars vs Houston Texans (ESPN Deportes US)
@@ -1005,6 +991,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (CTV Ottawa HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (CTV Toronto CA)
@@ -1041,8 +1029,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (Sky Sports Main Event HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (Sky Sports NFL FHD UK)
@@ -1051,8 +1037,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Nbc%20Universo%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TU.Universo.TV.HD.CO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (TU Universo TV HD CO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TU%20Universo%20TV%20HD%20CO&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-19 00:20 - NFL - Green Bay Packers vs Dallas Cowboys (TSN 4 HD CA)
@@ -1099,8 +1083,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FH
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-20 00:15 - NFL - San Francisco 49ers vs Washington Commanders (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-20 00:15 - NFL - San Francisco 49ers vs Washington Commanders (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-20 00:15 - NFL - San Francisco 49ers vs Washington Commanders (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-20 00:15 - NFL - San Francisco 49ers vs Washington Commanders (TSN 4 HD CA)
@@ -1113,34 +1095,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 23:00 - CFL - Toronto Argonauts vs Montreal Alouettes (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 23:00 - CFL - Toronto Argonauts vs Montreal Alouettes (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 02:00 - CFL - BC Lions vs Winnipeg Blue Bombers (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 02:00 - CFL - BC Lions vs Winnipeg Blue Bombers (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 02:00 - CFL - BC Lions vs Winnipeg Blue Bombers (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-25 13:30 - NFL - New Orleans Saints vs Pittsburgh Steelers (Sky Sports NFL HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-25 13:30 - NFL - New Orleans Saints vs Pittsburgh Steelers (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-16 00:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-16 00:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Milwaukee Brewers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-10-16 00:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-10-16 00:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (TNT Sports 1 FHD UK)
@@ -1161,6 +1133,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-16 00:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (ESPN 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-16 00:00 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (MLB | Milwaukee Brewers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-16 22:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-10-16 22:00 - MLB - Cleveland Guardians vs Tampa Bay Rays (MLB | Tampa Bay Rays)
@@ -1301,6 +1275,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1315,6 +1291,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1327,8 +1305,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1343,8 +1319,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1361,6 +1335,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1375,6 +1351,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1389,6 +1367,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1403,6 +1383,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1415,8 +1397,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1431,8 +1411,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1477,6 +1455,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1495,8 +1475,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1571,6 +1549,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1585,6 +1565,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1597,8 +1579,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1615,8 +1595,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1635,6 +1613,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1649,6 +1629,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1663,6 +1645,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1677,6 +1661,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1689,8 +1675,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1707,8 +1691,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1727,6 +1709,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1745,8 +1729,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1763,8 +1745,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1781,6 +1761,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1793,8 +1775,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1811,6 +1791,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1825,6 +1807,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1839,6 +1823,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1851,8 +1837,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1869,6 +1853,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1883,6 +1869,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -1895,8 +1883,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1939,8 +1925,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -1985,6 +1969,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2003,8 +1989,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2019,8 +2003,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2037,6 +2019,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2051,6 +2035,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2063,8 +2049,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2079,8 +2063,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2123,6 +2105,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2137,6 +2121,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2151,6 +2137,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2165,6 +2153,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2177,8 +2167,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2221,6 +2209,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2235,6 +2225,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2249,6 +2241,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2261,8 +2255,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2277,8 +2269,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2295,6 +2285,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2309,6 +2301,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2323,6 +2317,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2337,6 +2333,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2349,8 +2347,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2365,8 +2361,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2411,6 +2405,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20R
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A30%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%209%2F1%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="05:15.MotoGP.|.Round.16.|.Japan.motogp.FHD.10/2.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (05:15 MotoGP | Round 16 | Japan motogp FHD 10/2 [HBO Max UK])
+https://cdnlivetv.tv/api/v1/channels/player/?name=05%3A15%20MotoGP%20%7C%20Round%2016%20%7C%20Japan%20motogp%20FHD%2010%2F2%20%5BHBO%20Max%20UK%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="1:55.AM.EDT.MOTOGP.Sprint.Race.-.Japan.GP.10/3.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (1:55 AM EDT MOTOGP Sprint Race - Japan GP 10/3 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=1%3A55%20AM%20EDT%20MOTOGP%20Sprint%20Race%20-%20Japan%20GP%2010%2F3%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="04:45.Moto2.and.Moto3.|.Round.16.|.Japan.motogp.FHD.10/3.[HBO.Max.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (04:45 Moto2 and Moto3 | Round 16 | Japan motogp FHD 10/3 [HBO Max UK])
@@ -2423,8 +2419,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A00%20MotoGP%20%7C%20Round
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2467,8 +2461,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2483,8 +2475,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2499,8 +2489,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2515,8 +2503,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A20%20AM%20EDT%20Formula%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2559,8 +2545,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CANAL%2B%20SPORT%206%20FHD%20P
 https://cdnlivetv.tv/api/v1/channels/player/?name=04%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20DE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="03:15.Grand.Prix.of.Shanghai.-.Pole.Position.10/2.[DAZN.UK]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (03:15 Grand Prix of Shanghai - Pole Position 10/2 [DAZN UK])
 https://cdnlivetv.tv/api/v1/channels/player/?name=03%3A15%20Grand%20Prix%20of%20Shanghai%20-%20Pole%20Position%2010%2F2%20%5BDAZN%20UK%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="06:30.Esteban.Ocon.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (06:30 Esteban Ocon Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Esteban%20Ocon%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="06:30.Oliver.Bearman.Haas.F1.Team.-.2026.Bahrain.GP.in.Malaysia.-.Practice.1.10/2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (06:30 Oliver Bearman Haas F1 Team - 2026 Bahrain GP in Malaysia - Practice 1 10/2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=06%3A30%20Oliver%20Bearman%20Haas%20F1%20Team%20-%202026%20Bahrain%20GP%20in%20Malaysia%20-%20Practice%201%2010%2F2&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:20.AM.EDT.Formula.1.Driver.Tracker.-.Bahrain.Grand.Prix.Practice.#1.10/2.[TSN+]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (12:20 AM EDT Formula 1 Driver Tracker - Bahrain Grand Prix Practice #1 10/2 [TSN+])
@@ -2605,8 +2589,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2621,8 +2603,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2637,8 +2617,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2653,8 +2631,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2669,8 +2645,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2685,8 +2659,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2701,8 +2673,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2761,8 +2731,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-17 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-17 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-17 00:00 - Professional Fighters League -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-17 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2777,8 +2745,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-11-14 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-11-14 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-11-14 00:00 - Professional Fighters League -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-11-14 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
@@ -2793,8 +2759,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-12-19 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-12-19 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-12-19 00:00 - Professional Fighters League -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-12-19 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
